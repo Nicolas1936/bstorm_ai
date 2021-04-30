@@ -18,13 +18,13 @@ class Compte:
         output += "Numéro de Compte : {}\n".format(self._numero)
         output += "Solde du compte  : {}\n".format(self._solde)
         output += "Propriétaire du compte: \n{}".format(self._client)
-        output += "*****************************\n"
+        output += "*****************************"
 
         return output
 
     def crediter_mon_compte(self, somme):
         self._solde += somme
-        print("La somme fut bien créditée!")
+        print("La somme ({}) fut bien créditée!".format(somme))
 
     def crediter(self, somme, compte):
         if compte.solde >= somme:
@@ -37,7 +37,7 @@ class Compte:
     def debiter_mon_compte(self, somme):
         if self._solde >= somme:
             self._solde -= somme
-            print("la somme fut bien débitée")
+            print("la somme ({}) fut bien débitée".format(somme))
         else:
             print("Désolé, le compte a un solde insuffisant!")
 
@@ -75,4 +75,5 @@ class Compte:
 
     @staticmethod
     def nombre_compte_total():
-        print("Le nombre de compte crées: {}".format(Compte._compteur))
+        output = "Le nombre de compte crées: {}".format(Compte._compteur)
+        return output
