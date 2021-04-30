@@ -1,5 +1,6 @@
 class Voiture:
 
+    #init
     def __init__(self, model):
         self.__model = model
         self._nb_roue = 4
@@ -7,7 +8,7 @@ class Voiture:
     #model
     def _get_model(self):
         return self.__model.upper()
-    
+
     def _set_model(self, value):
         if len(value) > 1:
             self.__model = value

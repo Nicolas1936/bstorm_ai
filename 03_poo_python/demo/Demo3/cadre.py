@@ -2,6 +2,7 @@ from personne import Personne
 
 class Cadre(Personne):
 
+    #init
     def __init__(self, nom, prenom, prime):
         super().__init__(nom, prenom)
         self.__prime = prime
