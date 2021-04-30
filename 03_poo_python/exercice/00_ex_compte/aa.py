@@ -1,3 +1,4 @@
+#comment
 class Person:
     name = 'Adam'
 
