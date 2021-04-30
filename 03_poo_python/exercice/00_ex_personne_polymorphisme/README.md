@@ -15,7 +15,9 @@ une classe **Chef** qui dérive de la classe **Employé**, avec en plus un champ
 
 une classe **Directeur** qui dérive de la classe **Chef**, avec en plus un champ ***Société*** accompagné de sa propriété, un constructeur et la redéfinition de la méthode ***Afficher***.
 
-Travail à faire:
+![Alt text](images/polymorphisme_personne.png?align=center  "Title")
+
+### Travail à faire:
 
 Ecrire les classe **Personne**, **Employé**, **Chef** et **Directeur**.
 créez un programme de test qui comporte tableau de ***huit personnes*** avec ***cinq employés***, ***deux chefs*** et ***un directeur*** (8 références de la classe Personne dans lesquelles ranger 5 instances de la classe Employé, 2 de la classe Chef et 1 de la classe Directeur).
