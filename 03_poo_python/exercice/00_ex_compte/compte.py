@@ -53,17 +53,17 @@ class Compte:
     def numero(self):
         return self._numero
 
-    @numero.setter
-    def numero(self):
-        pass
+    # @numero.setter
+    # def numero(self):
+    #     pass
 
     @property
     def solde(self):
         return self._solde
 
-    @solde.setter
-    def solde(self):
-        pass
+    # @solde.setter
+    # def solde(self):
+    #     pass
 
     @property
     def client(self):
