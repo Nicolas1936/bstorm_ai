@@ -26,3 +26,88 @@
     * Une méthode qui permet d’afficher le résumé d’un compte.
     * Une méthode qui permet d’afficher le nombre des comptes crées.
 10. Créer un programme de test pour la classe Compte.
+
+**Exemple d'exécution**
+```
+Compte 1:
+Donner Le CIN: EE111222
+Donner Le Nom: Salim
+Donner Le Prénom: Omar
+Donner Le numéro de télephone: 0611111
+Détails du compte:
+************************
+Numéro de Compte: 1
+Solde de compte: 0
+Propriétaire du compte :
+CIN: EE111222
+NOM: Salim
+Prénom: Omar
+Tél : 06111111
+*************************
+Donner le montant à déposer: 5000
+Opération bien effectuée
+************************
+Numéro de Compte: 1
+Solde de compte: 5000
+Propriétaire du compte :
+CIN: EE111222
+NOM: Salim
+Prénom: Omar
+Tél : 06111111
+*************************
+Donner le montant à retirer: 1000
+Opération bien effectuée
+************************
+Numéro de Compte: 1
+Solde de compte: 4000
+Propriétaire du compte :
+CIN: EE111222
+NOM: Salim
+Prénom: Omar
+Tél : 06111111
+*************************
+
+
+Compte 2:
+Donner Le CIN: EE333444
+Donner Le Nom: Karimi
+Donner Le Prénom: samir
+Donner Le numéro de télephone: 0622222
+Détails du compte:
+************************
+Numéro de Compte: 2
+Solde de compte: 0
+Propriétaire du compte :
+CIN: EE333444
+NOM: Karimi
+Prénom: samir
+Tél : 06222222
+*************************
+Crediter le compte 2 à partir du compt
+Donner le montant à déposer: 3000
+Opération bien effectuée
+Débiter le compte 1 et créditer le com
+Donner le montant à retirer: 1000
+Opération bien effectuée
+************************
+Numéro de Compte: 1
+Solde de compte: 0
+Propriétaire du compte :
+CIN: EE111222
+NOM: Salim
+Prénom: Omar
+Tél : 06111111
+*************************
+************************
+Numéro de Compte: 2
+Solde de compte: 4000
+Propriétaire du compte :
+CIN: EE333444
+NOM: Karimi
+Prénom: samir
+Tél : 06222222
+*************************
+
+
+Le nombre de comptes crées: 2
+```
