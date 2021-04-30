@@ -1,5 +1,7 @@
 # La classe Compte
+
 ## Objectif
+
 * Définir les propriétés et méthodes d’une classe
 * Définir des constructeurs
 * Créer une instance de classe
