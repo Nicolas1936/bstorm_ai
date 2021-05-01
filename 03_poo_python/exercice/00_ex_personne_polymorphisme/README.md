@@ -15,7 +15,9 @@ une classe **Chef** qui dérive de la classe **Employé**, avec en plus un champ
 
 une classe **Directeur** qui dérive de la classe **Chef**, avec en plus un champ ***Société*** accompagné de sa propriété, un constructeur et la redéfinition de la méthode ***Afficher***.
 
-![Alt text](images/polymorphisme_personne.png?align=center  "Title")
+<p align="center">
+  <img src="images/polymorphisme_personne.png" />
+</p>
 
 ### Travail à faire:
 
