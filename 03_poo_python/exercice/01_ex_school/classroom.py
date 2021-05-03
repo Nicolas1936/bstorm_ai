@@ -1,3 +1,4 @@
+from student import Student
 
 class Classroom:
 
@@ -26,8 +27,12 @@ class Classroom:
 
     #METHODES
     def ajout_student(self, student):
-        self.liste_etudiants.append(student)
-        print("l'étudiant {} {} à bien été ajouté".format(student.prenom, student.nom))
+        test_etudiant = isinstance(student, Student)
+        if test_etudiant:
+            self.liste_etudiants.append(student)
+            print("l'étudiant {} {} à bien été ajouté".format(student.prenom, student.nom))
+        else:
+            print("Erreur : Veuillez passez un étudiant en parametre...")
 
     def commencer_cours(self, cours):
         if len(self.liste_etudiants) > 4:

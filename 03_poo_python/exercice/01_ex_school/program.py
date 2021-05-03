@@ -25,3 +25,5 @@ nico.aller_en_cours("Math")
 kath.seche()
 
 david.donne_cours("Anglais")
+
+one.ajout_student('string')
