@@ -20,6 +20,20 @@ séparez ceux que vous déclareriez comme de classe (statique) ou d’instance :
 passagers, vitesse maximale, nombres de vitesses, capacité du réservoir, âge, puissance, prix, couleur,
 nombre de portières.
 
+attributs statique :
+    - nombre de passagers
+    - vitesse maximale
+    - nombres de vitesses
+    - capacité du réservoir
+    - puissance
+    - prix
+
+attributs d'instance :
+    - vitesse
+    - age
+    - couleur
+    - nombre de portières
+
 Exercice 5 :
 Réalisez en C#, un programme contenant une classe Point, avec ses trois coordonnées dans l’espace
 (x,y,z) et que l’on peut initialiser de trois manières différentes (selon les valeurs initiales connues des trois
