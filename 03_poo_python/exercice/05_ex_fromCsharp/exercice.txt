@@ -1,0 +1,75 @@
+TP1 - Intro
+Exercice 1 :
+Réalisez la classe Voiture avec un changement de vitesse en y installant tout d’abord deux méthodes ne
+retournant rien mais permettant, l’une d’incrémenter la vitesse et l’autre de décrémenter la vitesse. Vous
+devez réaliser le diagramme de classe ainsi que le code.
+Sachant que la vitesse ne peut pas passer en dessous de 0 et ne pas dépasser 6, mettez en place une protection
+dans les deux méthodes.
+
+Exercice 2 :
+Ajoutez à la classe voiture un constructeur, permettant d’initialiser la valeur de la vitesse à 0. Ensuite
+surchargez-le pour permettre de choisir la vitesse initiale.
+
+Exercice 3 :
+Surchargez la méthode d’incrémentation de la vitesse de la classe voiture en lui passant le nombre de vitesse
+à incrémenter.
+
+Exercice 4 :
+Parmi les attributs suivants de la classe Renault Kangoo, la version avec toutes les options possibles,
+séparez ceux que vous déclareriez comme de classe (statique) ou d’instance : vitesse, nombre de
+passagers, vitesse maximale, nombres de vitesses, capacité du réservoir, âge, puissance, prix, couleur,
+nombre de portières.
+
+Exercice 5 :
+Réalisez en C#, un programme contenant une classe Point, avec ses trois coordonnées dans l’espace
+(x,y,z) et que l’on peut initialiser de trois manières différentes (selon les valeurs initiales connues des trois
+coordonnées, on connait soit x, soit x et y, soit x, y et z). Intégrez ensuite dans la classe une méthode
+translate() qui est surchargée trois fois, dépendant également desquelles des trois valeurs de translations
+sont connues.
+Testez votre classe en essayant des translations.
+
+TP2 - Communication entre objets
+Exercice 1 :
+Considérez les deux classes suivantes : Interrupteur et Lampe, telles que, quand l’interrupteur est allumé,
+la lampe s’allume aussitôt. Réalisez un petit programme pour tester vos classes.
+Exercice 2 :
+Considérez les deux classes suivantes : Souris et Fenetre telles que : quand la souris clique sur un point
+précis de la fenêtre celle-ci se ferme. On favorisera pour ce cas la communication de type dépendance.
+Réalisez un petit programme pour tester vos classes.
+
+TP3 - Heritage & polymorphisme
+Exercice 1 :
+Créez une classe Animal qui dispose d’attributs : nom, âge et d’un paramètre indiquant s’il est toujours en
+vie. Cet Animal doit disposer des méthodes Naissance, Respirer, Parler, Viellir (un an à la fois &
+plusieurs années en une seule fois) et Deces. Cette classe doit en outre disposer d’un constructeur auquel
+on fournira le paramètre nom. Pensez également à redéfinir la méthode ToString de façon à ce qu’elle
+nous délivre l’ensemble des informations relatives à l’animal.
+Créez une seconde classe Chien qui hérite d’Animal. Ajoutez à cette classe un attribut ok_chats. Cette
+classe doit disposer d’un constructeur auquel on fournira le paramètre nom, l’âge ainsi que le
+comportement vis-à-vis des chats. On y placera également une méthode Parler (redéfinition) et une
+méthode informant textuellement sur le comportement du chien vis-à-vis des chats. Pensez également à
+redéfinir la méthode ToString de façon à ce qu’elle nous délivre l’ensemble des informations relatives à
+au chien.
+Créez une troisième classe Chat qui hérite d’Animal. Ajoutez à cette classe un attribut ok_propreté. Cette
+classe doit disposer d’un constructeur auquel on fournira le paramètre nom, l’âge ainsi que le
+comportement vis-à-vis de la propreté. On y placera également une méthode Parler (redéfinition) et une
+méthode informant textuellement sur le comportement du chat vis-à-vis de la propreté. Pensez également
+à redéfinir la méthode ToString de façon à ce qu’elle nous délivre l’ensemble des informations relatives
+au chat.
+Créez une quatrième classe Chien_Aphone qui hérite de Chien. Cette classe devra posséder un
+constructeur similaire à celui de la classe parent. On y placera une méthode Parler (redéfinition). Pensez
+également à redéfinir la méthode ToString de façon à ce qu’elle nous délivre l’ensemble des informations
+relatives au chien aphone.
+Une fois ces classes crées, réalisez un programme qui crée plusieurs instances de ces Animaux et les
+stocke dans une liste (insérez y des animaux, chiens, des chats, etc …)
+Utilisez ensuite les structures appropriées pour faire Respirer, Parler, Vieillir et afficher les informations
+relatives à tout ce petit monde.
+
+Exercice 2 :
+Créez une classe Employe qui comportera un attribut nom ainsi qu’un attribut heure de boulot
+hebdomadaire (min 1H, max 168H). Cette classe doit comporter deux constructeurs, le premier
+nécessitant le nom et plaçant le nombre d’heures de travail hebdomadaire à 38h/sem, le second
+nécessitant le nom ainsi que le nombre d’heures de travail hebdomadaires. Pour ce qui est des méthodes,
+on trouvera Get_Salaire qui nous fournira les informations complètes de l’employé avec son salaire
+calculé sur base du nombre d’heures prestées multipliées par un tarif horaire fixé à 25.0€. Finalement,
+pensez à redéfinir la méthode ToString de sorte qu’elle nous délivre un texte précisant le type d’objet.
