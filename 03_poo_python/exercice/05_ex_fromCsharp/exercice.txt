@@ -21,18 +21,18 @@ passagers, vitesse maximale, nombres de vitesses, capacité du réservoir, âge,
 nombre de portières.
 
 attributs statique :
-    - nombre de passagers
     - vitesse maximale
     - nombres de vitesses
     - capacité du réservoir
-    - puissance
-    - prix
 
 attributs d'instance :
     - vitesse
+    - nombre de passagers
     - age
     - couleur
     - nombre de portières
+    - puissance
+    - prix
 
 Exercice 5 :
 Réalisez en C#, un programme contenant une classe Point, avec ses trois coordonnées dans l’espace
