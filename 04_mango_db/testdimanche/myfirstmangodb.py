@@ -54,12 +54,20 @@ users.update_one(
     {'$set'  :   {'firstname'    :   'Nico'}}
 )
 
+for user in users.find():
+    print(user)
+
 #DELETE ONE DATA IN THE COLLECTION
+
+users.delete_one({'lastname' : 'Perret'})
 
 for user in users.find():
     print(user)
 
-kp_cursor = users.find({'$or' : [{'firstname' : 'Kathleen'}, { 'lastname' : 'Perret'}]})
+#DELETE SOME DATA IN THE COLLECTION
 
-print(dumps(kp_cursor, indent=4))
+
+#kp_cursor = users.find({'$or' : [{'firstname' : 'Kathleen'}, { 'lastname' : 'Perret'}]})
+
+#print(dumps(kp_cursor, indent=4))
 
