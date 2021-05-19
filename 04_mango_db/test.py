@@ -1,24 +1,29 @@
 from enum import unique
 import pymongo
 
+#CONNECT TO THE DATABASE
 myclient = pymongo.MongoClient("mongodb://localhost:27017/")
 
+#GET ALL THE DATABASE
 dblist = myclient.list_database_names()
 
+#SEE ALL THE DATABASE
 for db in dblist:
     print(db)
 
+#CREATE OR GET THE DATABASE "Example_IA"
 mydb = myclient["Example_IA"]
 if "Example_IA" in dblist:
     print("database already exist!")
 
 print("Initalize data...")
 
+#CREATE OR GET THE COLLECTION "users"
 users = mydb["users"]
 
 users.create_index([("username", pymongo.ASCENDING)], unique=True)
 
-#
+#CREATE THE COLLOCTION "users" IF EMPTY
 if users.count_documents({}) == 0:
     default_users = [
         { "username": "admin", "password": "admin", "email": "admin@admin.com" },
@@ -31,17 +36,26 @@ if users.count_documents({}) == 0:
 else:
     print("users exist")
 
-#find all select fields, do not display _id
+#SELECT ALL FIELDS FROM COLLECTION "users"
+#SELECT * FROM users
+for user in users.find():
+    print(user)
+
+#SELECT ALL FIELDS, DO NOT DISPLAY _ID
+#SELECT username, email FROM user
 for user in users.find({}, {"_id": 0, "username": 1, "email":1 }).sort("username", -1):
     print(user)
 
 #Update a field
+#UPDATE THE PASSWORD OF THE USER 'test'
+#UPDATE users SET password='newpassword' WHERE username='test'
 query = {"username" : "test"}
 new_val = {"$set" : {"password" : "newpassword"}}
 users.update_one(query, new_val)
 print(users.find_one(query))
 
-#delete a field
+#DELETE THE FIELDS WHERE THE USER IS 'asd'
+#DELETE FROM users WHERE username='asd';
 users.find_one_and_delete({"username" : "asd"})
 for user in users.find({}, {"_id": 0, "username": 1, "email":1 }).sort("username"):
     print(user)
