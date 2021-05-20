@@ -1,0 +1,48 @@
+var db = db.getSiblingDB('DayThree');
+
+var validColl = db.editors.validate();
+
+printjson(validColl);
+if(!validColl.valid)
+{
+    db.createCollection("editors", 
+    {
+        validator: 
+        {
+            $jsonSchema: 
+            {
+                bsonType: "object",
+                required: [ "NbrTVA", "name" ],
+                properties: 
+                {
+                    NbrTVA: {
+                        bsonType: "string",
+                        description: ""
+                    },
+                    name:
+                    {
+                        bsonType: "string",
+                        description: ""
+                    },
+                    creationDate:
+                    {
+                        bsonType: "date",
+                        description: ""
+                    },
+                    books:
+                    {
+                        bsonType: "array",
+                        items: 
+                        {
+                            bsonType: "objectId",
+                            description: ""
+                        }
+                    }
+                }
+            }
+        }
+    });
+
+    db.editors.createIndex({ "NbrTVA": 1 }, { unique: true });
+    db.editors.createIndex({ "name": 1 }, { unique: true });
+}
