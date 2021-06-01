@@ -24,7 +24,7 @@ ROBOTSTXT_OBEY = True
 CONCURRENT_REQUESTS = 4
 
 RANDOMIZE_DOWNLOAD_DELAY = True
-CLOSESPIDER_PAGECOUNT = 300
+CLOSESPIDER_PAGECOUNT = 5
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay

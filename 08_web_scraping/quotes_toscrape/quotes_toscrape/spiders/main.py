@@ -23,13 +23,16 @@ class QuotesAuthors(scrapy.Spider):
             #item['link'] = citation.css('::attr(href)').get()
             link = citation.css('span a::attr(href)').get()
 
-            print(item)
+            #print(item)
             test =  response.follow(
                     link, 
                     callback=self.citation_parser, 
                     meta={'item':item},
                     dont_filter = True)
 
+
+            print('ccccccccccccccc')
+            print(test)
             yield test
 
             #print()
@@ -44,5 +47,8 @@ class QuotesAuthors(scrapy.Spider):
 
         item['born_date'] = response.css('span.author-born-date::text').get()
         item['author_born_location'] = response.css('span.author-born-location::text').get()
+
+        print('dddddddddddddd')
+        print(item)
 
         yield item

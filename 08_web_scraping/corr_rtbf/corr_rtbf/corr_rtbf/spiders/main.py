@@ -26,9 +26,11 @@ class RtbfArticles(scrapy.Spider):
                 item = {}
                 item['time'] = article.css('header time.www-time::attr(datetime)').get()
                 link = article.css('::attr(href)').get()
+                print('aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')
                 yield response.follow(link, callback=self.article_parse, meta={'item':item})
         
         next_page = 'https://www.rtbf.be/info/archive_accueil?page=%s&dossier=553'%self.counter
+        print('cccccccccccccccccccccccccccccccc')
         yield response.follow(next_page, callback=self.parse)
         
     def article_parse(self, response):
@@ -37,4 +39,5 @@ class RtbfArticles(scrapy.Spider):
         title = title.strip()
         item['title'] = title
         item['author'] = response.css('div.rtbf-article-main__author cite span span::text').get()
+        print('bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb')
         yield item
