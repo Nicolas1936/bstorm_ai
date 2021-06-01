@@ -5,8 +5,10 @@
 
 import scrapy
 
-
 class RtbfItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
+    time = scrapy.Field()
+    title = scrapy.Field()
+    author = scrapy.Field()
+    images = scrapy.Field()
+    image_urls = scrapy.Field()
     pass

@@ -21,8 +21,14 @@ ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 CONCURRENT_REQUESTS = 4
+
 RANDOMIZE_DOWNLOAD_DELAY = True
-CLOSESPIDER_PAGECOUNT = 200
+CLOSESPIDER_PAGECOUNT = 100
+
+ITEM_PIPELINES = {'scrapy.pipelines.images.ImagesPipeline':1}
+IMAGES_STORE = 'imgs'
+
+FEED_EXPORT_FIELDS = ['time','image_urls']
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
