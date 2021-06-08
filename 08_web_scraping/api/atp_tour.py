@@ -17,3 +17,4 @@ scraper = cloudscraper.create_scraper()
 r = scraper.get('https://www.atptour.com/en/-/ajax/playersearch/PlayerUrlSearch?searchTerm=Gardnar%20Mulloy')
 dict_ = r.json()
 print(dict_)
+
