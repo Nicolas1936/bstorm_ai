@@ -1,0 +1,5089 @@
+"","Week","Customer","Product","Qty"
+"1",1,1,"pates",TRUE
+"2",1,1,"vin rouge",TRUE
+"3",1,1,"chocololat",TRUE
+"4",1,1,"olives",TRUE
+"5",1,1,"cure-dents",TRUE
+"6",1,1,"tomates",TRUE
+"7",1,2,"langes",TRUE
+"8",1,2,"pommes",TRUE
+"9",1,2,"vin rouge",TRUE
+"10",1,2,"chocololat",TRUE
+"11",1,3,"eau",TRUE
+"12",1,3,"chocololat",TRUE
+"13",1,3,"serviette",TRUE
+"14",1,3,"dextro",TRUE
+"15",1,4,"soda",TRUE
+"16",1,4,"olives",TRUE
+"17",1,5,"eau",TRUE
+"18",1,5,"pates",TRUE
+"19",1,5,"poires",TRUE
+"20",1,5,"soda",TRUE
+"21",1,5,"dextro",TRUE
+"22",1,6,"eau",TRUE
+"23",1,6,"vin rouge",TRUE
+"24",1,6,"biere",TRUE
+"25",1,6,"chocololat",TRUE
+"26",1,7,"eau",TRUE
+"27",1,7,"pates",TRUE
+"28",1,7,"bolo",TRUE
+"29",1,7,"pommes",TRUE
+"30",1,7,"chocololat",TRUE
+"31",1,7,"serviette",TRUE
+"32",1,7,"tomates",TRUE
+"33",1,7,"lait poudre",TRUE
+"34",1,8,"eau",TRUE
+"35",1,8,"vin rouge",TRUE
+"36",1,8,"soda",TRUE
+"37",1,9,"eau",TRUE
+"38",1,9,"langes",TRUE
+"39",1,9,"vin rouge",TRUE
+"40",1,9,"chocololat",TRUE
+"41",1,9,"lait poudre",TRUE
+"42",1,10,"eau",TRUE
+"43",1,10,"langes",TRUE
+"44",1,10,"pommes",TRUE
+"45",1,10,"poires",TRUE
+"46",1,10,"vin rouge",TRUE
+"47",1,10,"chocololat",TRUE
+"48",1,10,"lait poudre",TRUE
+"49",1,11,"eau",TRUE
+"50",1,11,"pates",TRUE
+"51",1,11,"bolo",TRUE
+"52",1,11,"langes",TRUE
+"53",1,11,"chocololat",TRUE
+"54",1,11,"tomates",TRUE
+"55",1,12,"pates",TRUE
+"56",1,12,"langes",TRUE
+"57",1,12,"vin rouge",TRUE
+"58",1,12,"tomates",TRUE
+"59",1,13,"biere",TRUE
+"60",1,13,"soda",TRUE
+"61",1,14,"pates",TRUE
+"62",1,14,"bolo",TRUE
+"63",1,14,"vin rouge",TRUE
+"64",1,14,"olives",TRUE
+"65",1,15,"eau",TRUE
+"66",1,15,"pates",TRUE
+"67",1,15,"bolo",TRUE
+"68",1,15,"langes",TRUE
+"69",1,15,"pommes",TRUE
+"70",1,15,"chocololat",TRUE
+"71",1,15,"tomates",TRUE
+"72",1,15,"lait poudre",TRUE
+"73",1,16,"pates",TRUE
+"74",1,16,"biere",TRUE
+"75",1,16,"serviette",TRUE
+"76",1,16,"olives",TRUE
+"77",1,16,"cure-dents",TRUE
+"78",1,16,"tomates",TRUE
+"79",1,17,"eau",TRUE
+"80",1,17,"langes",TRUE
+"81",1,17,"chocololat",TRUE
+"82",1,17,"lait poudre",TRUE
+"83",1,18,"eau",TRUE
+"84",1,18,"pates",TRUE
+"85",1,18,"biere",TRUE
+"86",1,18,"serviette",TRUE
+"87",1,18,"dextro",TRUE
+"88",1,18,"tomates",TRUE
+"89",1,19,"eau",TRUE
+"90",1,19,"pates",TRUE
+"91",1,19,"poires",TRUE
+"92",1,19,"serviette",TRUE
+"93",1,20,"eau",TRUE
+"94",1,20,"pates",TRUE
+"95",1,20,"bolo",TRUE
+"96",1,20,"langes",TRUE
+"97",1,20,"poires",TRUE
+"98",1,20,"chocololat",TRUE
+"99",1,20,"serviette",TRUE
+"100",1,20,"olives",TRUE
+"101",1,20,"lait poudre",TRUE
+"102",1,21,"pates",TRUE
+"103",1,21,"bolo",TRUE
+"104",1,21,"langes",TRUE
+"105",1,21,"pommes",TRUE
+"106",1,21,"vin rouge",TRUE
+"107",1,21,"biere",TRUE
+"108",1,21,"chocololat",TRUE
+"109",1,21,"olives",TRUE
+"110",1,22,"pates",TRUE
+"111",1,22,"chocololat",TRUE
+"112",1,22,"olives",TRUE
+"113",1,22,"tomates",TRUE
+"114",1,23,"vin rouge",TRUE
+"115",1,23,"chocololat",TRUE
+"116",1,23,"olives",TRUE
+"117",1,24,"pates",TRUE
+"118",1,24,"pommes",TRUE
+"119",1,24,"poires",TRUE
+"120",1,24,"soda",TRUE
+"121",1,24,"dextro",TRUE
+"122",1,24,"tomates",TRUE
+"123",1,25,"langes",TRUE
+"124",1,25,"pommes",TRUE
+"125",1,25,"vin rouge",TRUE
+"126",1,25,"soda",TRUE
+"127",1,25,"chocololat",TRUE
+"128",1,25,"olives",TRUE
+"129",1,25,"lait poudre",TRUE
+"130",1,26,"soda",TRUE
+"131",1,26,"chocololat",TRUE
+"132",1,27,"olives",TRUE
+"133",1,28,"vin rouge",TRUE
+"134",1,28,"biere",TRUE
+"135",1,28,"soda",TRUE
+"136",1,28,"chocololat",TRUE
+"137",1,28,"serviette",TRUE
+"138",1,29,"eau",TRUE
+"139",1,29,"pates",TRUE
+"140",1,29,"bolo",TRUE
+"141",1,29,"chocololat",TRUE
+"142",1,29,"dextro",TRUE
+"143",1,29,"olives",TRUE
+"144",1,29,"tomates",TRUE
+"145",1,29,"lait poudre",TRUE
+"146",1,30,"eau",TRUE
+"147",1,30,"pates",TRUE
+"148",1,30,"langes",TRUE
+"149",1,30,"pommes",TRUE
+"150",1,30,"poires",TRUE
+"151",1,30,"serviette",TRUE
+"152",1,30,"dextro",TRUE
+"153",1,30,"lait poudre",TRUE
+"154",1,31,"biere",TRUE
+"155",1,31,"soda",TRUE
+"156",1,31,"cure-dents",TRUE
+"157",1,32,"eau",TRUE
+"158",1,32,"pates",TRUE
+"159",1,32,"poires",TRUE
+"160",1,32,"chocololat",TRUE
+"161",1,32,"dextro",TRUE
+"162",1,32,"tomates",TRUE
+"163",1,33,"pates",TRUE
+"164",1,33,"langes",TRUE
+"165",1,33,"pommes",TRUE
+"166",1,33,"soda",TRUE
+"167",1,33,"chocololat",TRUE
+"168",1,33,"lait poudre",TRUE
+"169",1,34,"eau",TRUE
+"170",1,34,"pates",TRUE
+"171",1,34,"vin rouge",TRUE
+"172",1,34,"cure-dents",TRUE
+"173",1,35,"pates",TRUE
+"174",1,35,"bolo",TRUE
+"175",1,35,"langes",TRUE
+"176",1,35,"pommes",TRUE
+"177",1,35,"soda",TRUE
+"178",1,35,"chocololat",TRUE
+"179",1,35,"serviette",TRUE
+"180",1,35,"olives",TRUE
+"181",1,35,"lait poudre",TRUE
+"182",1,36,"eau",TRUE
+"183",1,36,"pates",TRUE
+"184",1,36,"bolo",TRUE
+"185",1,36,"poires",TRUE
+"186",1,36,"soda",TRUE
+"187",1,36,"chocololat",TRUE
+"188",1,36,"olives",TRUE
+"189",1,36,"tomates",TRUE
+"190",1,37,"eau",TRUE
+"191",1,37,"pates",TRUE
+"192",1,38,"pommes",TRUE
+"193",1,38,"chocololat",TRUE
+"194",1,38,"dextro",TRUE
+"195",1,39,"biere",TRUE
+"196",1,39,"chocololat",TRUE
+"197",1,39,"serviette",TRUE
+"198",1,40,"langes",TRUE
+"199",1,40,"pommes",TRUE
+"200",1,40,"serviette",TRUE
+"201",1,40,"olives",TRUE
+"202",1,40,"cure-dents",TRUE
+"203",1,40,"lait poudre",TRUE
+"204",1,41,"pates",TRUE
+"205",1,41,"olives",TRUE
+"206",1,41,"tomates",TRUE
+"207",1,42,"biere",TRUE
+"208",1,42,"soda",TRUE
+"209",1,42,"chocololat",TRUE
+"210",1,42,"tomates",TRUE
+"211",1,43,"chocololat",TRUE
+"212",1,44,"poires",TRUE
+"213",1,44,"olives",TRUE
+"214",1,45,"pates",TRUE
+"215",1,45,"bolo",TRUE
+"216",1,45,"vin rouge",TRUE
+"217",1,45,"chocololat",TRUE
+"218",1,45,"olives",TRUE
+"219",1,46,"pates",TRUE
+"220",1,46,"pommes",TRUE
+"221",1,46,"soda",TRUE
+"222",1,46,"chocololat",TRUE
+"223",1,46,"olives",TRUE
+"224",1,46,"tomates",TRUE
+"225",1,46,"lait poudre",TRUE
+"226",1,47,"pates",TRUE
+"227",1,47,"bolo",TRUE
+"228",1,47,"langes",TRUE
+"229",1,47,"vin rouge",TRUE
+"230",1,47,"biere",TRUE
+"231",1,47,"olives",TRUE
+"232",1,47,"tomates",TRUE
+"233",1,47,"lait poudre",TRUE
+"234",1,48,"langes",TRUE
+"235",1,48,"biere",TRUE
+"236",1,48,"soda",TRUE
+"237",1,49,"eau",TRUE
+"238",1,49,"bolo",TRUE
+"239",1,49,"langes",TRUE
+"240",1,49,"soda",TRUE
+"241",1,49,"chocololat",TRUE
+"242",1,49,"olives",TRUE
+"243",1,50,"pates",TRUE
+"244",1,50,"langes",TRUE
+"245",1,50,"pommes",TRUE
+"246",1,50,"soda",TRUE
+"247",1,50,"chocololat",TRUE
+"248",1,50,"lait poudre",TRUE
+"249",1,51,"eau",TRUE
+"250",1,51,"pates",TRUE
+"251",1,51,"pommes",TRUE
+"252",1,51,"soda",TRUE
+"253",1,51,"dextro",TRUE
+"254",1,51,"tomates",TRUE
+"255",1,52,"poires",TRUE
+"256",1,52,"soda",TRUE
+"257",1,53,"eau",TRUE
+"258",1,53,"pates",TRUE
+"259",1,53,"pommes",TRUE
+"260",1,53,"chocololat",TRUE
+"261",1,53,"dextro",TRUE
+"262",1,53,"olives",TRUE
+"263",1,53,"tomates",TRUE
+"264",1,53,"lait poudre",TRUE
+"265",1,54,"eau",TRUE
+"266",1,54,"pates",TRUE
+"267",1,54,"pommes",TRUE
+"268",1,55,"biere",TRUE
+"269",1,56,"serviette",TRUE
+"270",1,57,"pates",TRUE
+"271",1,57,"langes",TRUE
+"272",1,57,"poires",TRUE
+"273",1,57,"vin rouge",TRUE
+"274",1,57,"soda",TRUE
+"275",1,57,"chocololat",TRUE
+"276",1,57,"olives",TRUE
+"277",1,57,"cure-dents",TRUE
+"278",1,57,"tomates",TRUE
+"279",1,57,"lait poudre",TRUE
+"280",1,58,"vin rouge",TRUE
+"281",1,58,"soda",TRUE
+"282",1,58,"dextro",TRUE
+"283",1,59,"eau",TRUE
+"284",1,59,"langes",TRUE
+"285",1,59,"pommes",TRUE
+"286",1,59,"poires",TRUE
+"287",1,59,"soda",TRUE
+"288",1,59,"chocololat",TRUE
+"289",1,59,"serviette",TRUE
+"290",1,59,"dextro",TRUE
+"291",1,59,"olives",TRUE
+"292",1,59,"cure-dents",TRUE
+"293",1,59,"lait poudre",TRUE
+"294",1,60,"eau",TRUE
+"295",1,60,"pates",TRUE
+"296",1,60,"biere",TRUE
+"297",1,60,"soda",TRUE
+"298",1,60,"serviette",TRUE
+"299",1,60,"dextro",TRUE
+"300",1,61,"pommes",TRUE
+"301",1,61,"biere",TRUE
+"302",1,61,"soda",TRUE
+"303",1,61,"chocololat",TRUE
+"304",1,62,"bolo",TRUE
+"305",1,62,"biere",TRUE
+"306",1,62,"soda",TRUE
+"307",1,62,"chocololat",TRUE
+"308",1,63,"eau",TRUE
+"309",1,63,"pates",TRUE
+"310",1,63,"pommes",TRUE
+"311",1,63,"dextro",TRUE
+"312",1,63,"tomates",TRUE
+"313",1,64,"eau",TRUE
+"314",1,64,"pates",TRUE
+"315",1,64,"bolo",TRUE
+"316",1,64,"langes",TRUE
+"317",1,64,"pommes",TRUE
+"318",1,64,"vin rouge",TRUE
+"319",1,64,"soda",TRUE
+"320",1,64,"chocololat",TRUE
+"321",1,64,"dextro",TRUE
+"322",1,64,"olives",TRUE
+"323",1,64,"tomates",TRUE
+"324",1,64,"lait poudre",TRUE
+"325",1,65,"pates",TRUE
+"326",1,65,"bolo",TRUE
+"327",1,65,"langes",TRUE
+"328",1,65,"poires",TRUE
+"329",1,65,"soda",TRUE
+"330",1,65,"chocololat",TRUE
+"331",1,65,"lait poudre",TRUE
+"332",1,66,"pates",TRUE
+"333",1,66,"vin rouge",TRUE
+"334",1,66,"chocololat",TRUE
+"335",1,66,"dextro",TRUE
+"336",1,67,"chocololat",TRUE
+"337",1,68,"pates",TRUE
+"338",1,68,"pommes",TRUE
+"339",1,68,"poires",TRUE
+"340",1,68,"biere",TRUE
+"341",1,68,"tomates",TRUE
+"342",1,69,"eau",TRUE
+"343",1,69,"pates",TRUE
+"344",1,69,"bolo",TRUE
+"345",1,69,"pommes",TRUE
+"346",1,69,"chocololat",TRUE
+"347",1,70,"pates",TRUE
+"348",1,70,"biere",TRUE
+"349",1,70,"soda",TRUE
+"350",1,70,"dextro",TRUE
+"351",1,71,"soda",TRUE
+"352",1,71,"chocololat",TRUE
+"353",1,71,"olives",TRUE
+"354",1,71,"cure-dents",TRUE
+"355",1,72,"eau",TRUE
+"356",1,72,"biere",TRUE
+"357",1,72,"olives",TRUE
+"358",1,73,"eau",TRUE
+"359",1,73,"pates",TRUE
+"360",1,73,"dextro",TRUE
+"361",1,73,"olives",TRUE
+"362",1,73,"tomates",TRUE
+"363",1,73,"lait poudre",TRUE
+"364",1,74,"pates",TRUE
+"365",1,74,"langes",TRUE
+"366",1,74,"pommes",TRUE
+"367",1,74,"chocololat",TRUE
+"368",1,74,"tomates",TRUE
+"369",1,74,"lait poudre",TRUE
+"370",1,75,"pates",TRUE
+"371",1,75,"langes",TRUE
+"372",1,75,"pommes",TRUE
+"373",1,75,"chocololat",TRUE
+"374",1,75,"tomates",TRUE
+"375",1,75,"lait poudre",TRUE
+"376",1,76,"eau",TRUE
+"377",1,76,"pates",TRUE
+"378",1,76,"langes",TRUE
+"379",1,76,"pommes",TRUE
+"380",1,76,"soda",TRUE
+"381",1,76,"chocololat",TRUE
+"382",1,76,"lait poudre",TRUE
+"383",1,77,"pates",TRUE
+"384",1,77,"bolo",TRUE
+"385",1,77,"langes",TRUE
+"386",1,77,"pommes",TRUE
+"387",1,77,"chocololat",TRUE
+"388",1,77,"dextro",TRUE
+"389",1,77,"lait poudre",TRUE
+"390",1,78,"biere",TRUE
+"391",1,78,"soda",TRUE
+"392",1,78,"olives",TRUE
+"393",1,78,"cure-dents",TRUE
+"394",1,79,"eau",TRUE
+"395",1,79,"pates",TRUE
+"396",1,79,"langes",TRUE
+"397",1,79,"pommes",TRUE
+"398",1,79,"soda",TRUE
+"399",1,79,"chocololat",TRUE
+"400",1,79,"dextro",TRUE
+"401",1,79,"tomates",TRUE
+"402",1,80,"soda",TRUE
+"403",1,80,"chocololat",TRUE
+"404",1,80,"lait poudre",TRUE
+"405",1,81,"eau",TRUE
+"406",1,81,"pates",TRUE
+"407",1,81,"langes",TRUE
+"408",1,81,"poires",TRUE
+"409",1,81,"vin rouge",TRUE
+"410",1,81,"chocololat",TRUE
+"411",1,81,"olives",TRUE
+"412",1,81,"cure-dents",TRUE
+"413",1,81,"tomates",TRUE
+"414",1,82,"pates",TRUE
+"415",1,82,"soda",TRUE
+"416",1,82,"chocololat",TRUE
+"417",1,82,"serviette",TRUE
+"418",1,82,"dextro",TRUE
+"419",1,82,"tomates",TRUE
+"420",1,83,"pates",TRUE
+"421",1,83,"biere",TRUE
+"422",1,83,"soda",TRUE
+"423",1,83,"dextro",TRUE
+"424",1,83,"olives",TRUE
+"425",1,83,"cure-dents",TRUE
+"426",1,83,"tomates",TRUE
+"427",1,84,"eau",TRUE
+"428",1,84,"pates",TRUE
+"429",1,84,"langes",TRUE
+"430",1,84,"lait poudre",TRUE
+"431",1,85,"pates",TRUE
+"432",1,85,"bolo",TRUE
+"433",1,85,"vin rouge",TRUE
+"434",1,85,"tomates",TRUE
+"435",1,86,"eau",TRUE
+"436",1,86,"pates",TRUE
+"437",1,86,"bolo",TRUE
+"438",1,86,"langes",TRUE
+"439",1,86,"chocololat",TRUE
+"440",1,86,"cure-dents",TRUE
+"441",1,86,"lait poudre",TRUE
+"442",1,87,"poires",TRUE
+"443",1,87,"soda",TRUE
+"444",1,87,"chocololat",TRUE
+"445",1,88,"eau",TRUE
+"446",1,88,"pates",TRUE
+"447",1,88,"pommes",TRUE
+"448",1,88,"chocololat",TRUE
+"449",1,88,"serviette",TRUE
+"450",1,88,"dextro",TRUE
+"451",1,88,"tomates",TRUE
+"452",1,88,"lait poudre",TRUE
+"453",1,89,"eau",TRUE
+"454",1,89,"pates",TRUE
+"455",1,89,"langes",TRUE
+"456",1,89,"biere",TRUE
+"457",1,89,"soda",TRUE
+"458",1,89,"dextro",TRUE
+"459",1,89,"tomates",TRUE
+"460",1,89,"lait poudre",TRUE
+"461",1,90,"eau",TRUE
+"462",1,90,"pates",TRUE
+"463",1,90,"langes",TRUE
+"464",1,90,"pommes",TRUE
+"465",1,90,"soda",TRUE
+"466",1,90,"chocololat",TRUE
+"467",1,90,"tomates",TRUE
+"468",1,90,"lait poudre",TRUE
+"469",1,91,"pates",TRUE
+"470",1,91,"bolo",TRUE
+"471",1,91,"langes",TRUE
+"472",1,91,"pommes",TRUE
+"473",1,91,"vin rouge",TRUE
+"474",1,91,"chocololat",TRUE
+"475",1,91,"tomates",TRUE
+"476",1,91,"lait poudre",TRUE
+"477",1,92,"pates",TRUE
+"478",1,92,"langes",TRUE
+"479",1,92,"pommes",TRUE
+"480",1,92,"chocololat",TRUE
+"481",1,92,"dextro",TRUE
+"482",1,92,"tomates",TRUE
+"483",1,93,"eau",TRUE
+"484",1,93,"pates",TRUE
+"485",1,93,"langes",TRUE
+"486",1,93,"pommes",TRUE
+"487",1,93,"soda",TRUE
+"488",1,93,"chocololat",TRUE
+"489",1,93,"serviette",TRUE
+"490",1,93,"tomates",TRUE
+"491",1,93,"lait poudre",TRUE
+"492",1,94,"eau",TRUE
+"493",1,94,"pates",TRUE
+"494",1,94,"langes",TRUE
+"495",1,94,"pommes",TRUE
+"496",1,94,"vin rouge",TRUE
+"497",1,94,"chocololat",TRUE
+"498",1,94,"tomates",TRUE
+"499",1,95,"pates",TRUE
+"500",1,95,"soda",TRUE
+"501",1,95,"serviette",TRUE
+"502",1,95,"olives",TRUE
+"503",1,96,"eau",TRUE
+"504",1,96,"pates",TRUE
+"505",1,96,"vin rouge",TRUE
+"506",1,96,"chocololat",TRUE
+"507",1,96,"tomates",TRUE
+"508",1,97,"pommes",TRUE
+"509",1,97,"poires",TRUE
+"510",1,97,"chocololat",TRUE
+"511",1,97,"dextro",TRUE
+"512",1,97,"olives",TRUE
+"513",1,98,"pates",TRUE
+"514",1,98,"bolo",TRUE
+"515",1,98,"langes",TRUE
+"516",1,98,"pommes",TRUE
+"517",1,98,"olives",TRUE
+"518",1,98,"tomates",TRUE
+"519",1,98,"lait poudre",TRUE
+"520",1,99,"eau",TRUE
+"521",1,99,"soda",TRUE
+"522",1,100,"eau",TRUE
+"523",1,100,"pates",TRUE
+"524",1,100,"bolo",TRUE
+"525",1,100,"langes",TRUE
+"526",1,100,"pommes",TRUE
+"527",1,100,"poires",TRUE
+"528",1,100,"tomates",TRUE
+"529",2,1,"bolo",TRUE
+"530",2,1,"vin rouge",TRUE
+"531",2,1,"chocololat",TRUE
+"532",2,2,"eau",TRUE
+"533",2,2,"pates",TRUE
+"534",2,2,"bolo",TRUE
+"535",2,2,"pommes",TRUE
+"536",2,2,"chocololat",TRUE
+"537",2,3,"pommes",TRUE
+"538",2,3,"vin rouge",TRUE
+"539",2,3,"dextro",TRUE
+"540",2,4,"eau",TRUE
+"541",2,4,"vin rouge",TRUE
+"542",2,4,"soda",TRUE
+"543",2,4,"chocololat",TRUE
+"544",2,4,"serviette",TRUE
+"545",2,4,"dextro",TRUE
+"546",2,4,"olives",TRUE
+"547",2,5,"eau",TRUE
+"548",2,5,"pates",TRUE
+"549",2,5,"pommes",TRUE
+"550",2,6,"serviette",TRUE
+"551",2,7,"eau",TRUE
+"552",2,7,"langes",TRUE
+"553",2,7,"pommes",TRUE
+"554",2,7,"chocololat",TRUE
+"555",2,7,"tomates",TRUE
+"556",2,8,"eau",TRUE
+"557",2,8,"poires",TRUE
+"558",2,8,"soda",TRUE
+"559",2,8,"olives",TRUE
+"560",2,9,"pates",TRUE
+"561",2,9,"langes",TRUE
+"562",2,9,"pommes",TRUE
+"563",2,9,"tomates",TRUE
+"564",2,9,"lait poudre",TRUE
+"565",2,10,"pates",TRUE
+"566",2,10,"langes",TRUE
+"567",2,10,"poires",TRUE
+"568",2,10,"vin rouge",TRUE
+"569",2,10,"chocololat",TRUE
+"570",2,10,"tomates",TRUE
+"571",2,10,"lait poudre",TRUE
+"572",2,11,"langes",TRUE
+"573",2,11,"pommes",TRUE
+"574",2,11,"soda",TRUE
+"575",2,11,"olives",TRUE
+"576",2,11,"cure-dents",TRUE
+"577",2,11,"tomates",TRUE
+"578",2,11,"lait poudre",TRUE
+"579",2,12,"eau",TRUE
+"580",2,12,"bolo",TRUE
+"581",2,12,"langes",TRUE
+"582",2,12,"chocololat",TRUE
+"583",2,12,"olives",TRUE
+"584",2,13,"eau",TRUE
+"585",2,13,"soda",TRUE
+"586",2,13,"chocololat",TRUE
+"587",2,13,"serviette",TRUE
+"588",2,13,"olives",TRUE
+"589",2,13,"cure-dents",TRUE
+"590",2,14,"pates",TRUE
+"591",2,14,"bolo",TRUE
+"592",2,14,"soda",TRUE
+"593",2,14,"olives",TRUE
+"594",2,14,"cure-dents",TRUE
+"595",2,15,"eau",TRUE
+"596",2,15,"pates",TRUE
+"597",2,15,"langes",TRUE
+"598",2,15,"olives",TRUE
+"599",2,15,"tomates",TRUE
+"600",2,15,"lait poudre",TRUE
+"601",2,16,"eau",TRUE
+"602",2,16,"pates",TRUE
+"603",2,16,"pommes",TRUE
+"604",2,16,"vin rouge",TRUE
+"605",2,16,"biere",TRUE
+"606",2,16,"dextro",TRUE
+"607",2,16,"tomates",TRUE
+"608",2,17,"eau",TRUE
+"609",2,17,"langes",TRUE
+"610",2,17,"pommes",TRUE
+"611",2,17,"vin rouge",TRUE
+"612",2,17,"soda",TRUE
+"613",2,17,"chocololat",TRUE
+"614",2,18,"pates",TRUE
+"615",2,18,"chocololat",TRUE
+"616",2,18,"dextro",TRUE
+"617",2,18,"olives",TRUE
+"618",2,18,"tomates",TRUE
+"619",2,19,"pates",TRUE
+"620",2,19,"olives",TRUE
+"621",2,19,"cure-dents",TRUE
+"622",2,19,"tomates",TRUE
+"623",2,20,"pates",TRUE
+"624",2,20,"bolo",TRUE
+"625",2,20,"langes",TRUE
+"626",2,20,"poires",TRUE
+"627",2,20,"chocololat",TRUE
+"628",2,20,"lait poudre",TRUE
+"629",2,21,"eau",TRUE
+"630",2,21,"pates",TRUE
+"631",2,21,"bolo",TRUE
+"632",2,21,"langes",TRUE
+"633",2,21,"biere",TRUE
+"634",2,21,"soda",TRUE
+"635",2,21,"chocololat",TRUE
+"636",2,21,"lait poudre",TRUE
+"637",2,22,"biere",TRUE
+"638",2,22,"soda",TRUE
+"639",2,22,"chocololat",TRUE
+"640",2,22,"serviette",TRUE
+"641",2,22,"cure-dents",TRUE
+"642",2,23,"vin rouge",TRUE
+"643",2,24,"poires",TRUE
+"644",2,24,"dextro",TRUE
+"645",2,25,"pates",TRUE
+"646",2,25,"bolo",TRUE
+"647",2,25,"langes",TRUE
+"648",2,25,"chocololat",TRUE
+"649",2,25,"tomates",TRUE
+"650",2,25,"lait poudre",TRUE
+"651",2,26,"biere",TRUE
+"652",2,27,"pates",TRUE
+"653",2,27,"biere",TRUE
+"654",2,27,"chocololat",TRUE
+"655",2,27,"olives",TRUE
+"656",2,27,"tomates",TRUE
+"657",2,28,"pates",TRUE
+"658",2,28,"tomates",TRUE
+"659",2,29,"eau",TRUE
+"660",2,29,"pates",TRUE
+"661",2,29,"bolo",TRUE
+"662",2,29,"langes",TRUE
+"663",2,29,"pommes",TRUE
+"664",2,29,"poires",TRUE
+"665",2,29,"chocololat",TRUE
+"666",2,29,"olives",TRUE
+"667",2,29,"tomates",TRUE
+"668",2,29,"lait poudre",TRUE
+"669",2,30,"pates",TRUE
+"670",2,30,"langes",TRUE
+"671",2,30,"pommes",TRUE
+"672",2,30,"soda",TRUE
+"673",2,30,"chocololat",TRUE
+"674",2,30,"serviette",TRUE
+"675",2,30,"lait poudre",TRUE
+"676",2,31,"pates",TRUE
+"677",2,31,"soda",TRUE
+"678",2,31,"chocololat",TRUE
+"679",2,31,"serviette",TRUE
+"680",2,31,"olives",TRUE
+"681",2,32,"pates",TRUE
+"682",2,32,"pommes",TRUE
+"683",2,32,"dextro",TRUE
+"684",2,32,"tomates",TRUE
+"685",2,33,"eau",TRUE
+"686",2,33,"pates",TRUE
+"687",2,33,"langes",TRUE
+"688",2,33,"soda",TRUE
+"689",2,33,"chocololat",TRUE
+"690",2,33,"olives",TRUE
+"691",2,33,"tomates",TRUE
+"692",2,33,"lait poudre",TRUE
+"693",2,34,"eau",TRUE
+"694",2,34,"pates",TRUE
+"695",2,34,"pommes",TRUE
+"696",2,34,"vin rouge",TRUE
+"697",2,34,"soda",TRUE
+"698",2,34,"dextro",TRUE
+"699",2,35,"pates",TRUE
+"700",2,35,"soda",TRUE
+"701",2,35,"serviette",TRUE
+"702",2,35,"tomates",TRUE
+"703",2,36,"eau",TRUE
+"704",2,36,"pates",TRUE
+"705",2,36,"langes",TRUE
+"706",2,36,"soda",TRUE
+"707",2,36,"chocololat",TRUE
+"708",2,36,"tomates",TRUE
+"709",2,37,"eau",TRUE
+"710",2,37,"poires",TRUE
+"711",2,37,"serviette",TRUE
+"712",2,37,"dextro",TRUE
+"713",2,37,"tomates",TRUE
+"714",2,38,"eau",TRUE
+"715",2,38,"pates",TRUE
+"716",2,38,"soda",TRUE
+"717",2,38,"serviette",TRUE
+"718",2,38,"dextro",TRUE
+"719",2,38,"tomates",TRUE
+"720",2,39,"pates",TRUE
+"721",2,39,"vin rouge",TRUE
+"722",2,39,"olives",TRUE
+"723",2,40,"pates",TRUE
+"724",2,40,"bolo",TRUE
+"725",2,40,"langes",TRUE
+"726",2,40,"pommes",TRUE
+"727",2,40,"poires",TRUE
+"728",2,40,"chocololat",TRUE
+"729",2,41,"pates",TRUE
+"730",2,41,"tomates",TRUE
+"731",2,42,"soda",TRUE
+"732",2,42,"chocololat",TRUE
+"733",2,42,"serviette",TRUE
+"734",2,43,"poires",TRUE
+"735",2,43,"vin rouge",TRUE
+"736",2,44,"soda",TRUE
+"737",2,44,"olives",TRUE
+"738",2,45,"pates",TRUE
+"739",2,45,"langes",TRUE
+"740",2,45,"pommes",TRUE
+"741",2,45,"chocololat",TRUE
+"742",2,45,"tomates",TRUE
+"743",2,45,"lait poudre",TRUE
+"744",2,46,"pates",TRUE
+"745",2,46,"langes",TRUE
+"746",2,46,"pommes",TRUE
+"747",2,46,"vin rouge",TRUE
+"748",2,46,"chocololat",TRUE
+"749",2,46,"dextro",TRUE
+"750",2,46,"olives",TRUE
+"751",2,46,"tomates",TRUE
+"752",2,47,"pates",TRUE
+"753",2,47,"langes",TRUE
+"754",2,47,"pommes",TRUE
+"755",2,47,"soda",TRUE
+"756",2,47,"chocololat",TRUE
+"757",2,47,"lait poudre",TRUE
+"758",2,48,"pates",TRUE
+"759",2,48,"bolo",TRUE
+"760",2,48,"langes",TRUE
+"761",2,48,"vin rouge",TRUE
+"762",2,48,"chocololat",TRUE
+"763",2,48,"lait poudre",TRUE
+"764",2,49,"langes",TRUE
+"765",2,49,"soda",TRUE
+"766",2,49,"chocololat",TRUE
+"767",2,49,"lait poudre",TRUE
+"768",2,50,"pates",TRUE
+"769",2,50,"pommes",TRUE
+"770",2,50,"poires",TRUE
+"771",2,50,"soda",TRUE
+"772",2,50,"chocololat",TRUE
+"773",2,50,"dextro",TRUE
+"774",2,50,"lait poudre",TRUE
+"775",2,51,"pates",TRUE
+"776",2,51,"pommes",TRUE
+"777",2,51,"olives",TRUE
+"778",2,52,"pates",TRUE
+"779",2,52,"vin rouge",TRUE
+"780",2,52,"chocololat",TRUE
+"781",2,52,"tomates",TRUE
+"782",2,53,"eau",TRUE
+"783",2,53,"pommes",TRUE
+"784",2,53,"chocololat",TRUE
+"785",2,53,"dextro",TRUE
+"786",2,53,"lait poudre",TRUE
+"787",2,54,"eau",TRUE
+"788",2,54,"pates",TRUE
+"789",2,54,"pommes",TRUE
+"790",2,54,"biere",TRUE
+"791",2,54,"soda",TRUE
+"792",2,54,"chocololat",TRUE
+"793",2,54,"serviette",TRUE
+"794",2,55,"biere",TRUE
+"795",2,55,"soda",TRUE
+"796",2,55,"olives",TRUE
+"797",2,56,"vin rouge",TRUE
+"798",2,56,"biere",TRUE
+"799",2,56,"serviette",TRUE
+"800",2,57,"pates",TRUE
+"801",2,57,"bolo",TRUE
+"802",2,57,"langes",TRUE
+"803",2,57,"pommes",TRUE
+"804",2,57,"soda",TRUE
+"805",2,57,"chocololat",TRUE
+"806",2,57,"cure-dents",TRUE
+"807",2,57,"tomates",TRUE
+"808",2,58,"eau",TRUE
+"809",2,58,"soda",TRUE
+"810",2,58,"chocololat",TRUE
+"811",2,59,"eau",TRUE
+"812",2,59,"pates",TRUE
+"813",2,59,"langes",TRUE
+"814",2,59,"pommes",TRUE
+"815",2,59,"poires",TRUE
+"816",2,59,"chocololat",TRUE
+"817",2,59,"serviette",TRUE
+"818",2,59,"dextro",TRUE
+"819",2,59,"olives",TRUE
+"820",2,59,"tomates",TRUE
+"821",2,59,"lait poudre",TRUE
+"822",2,60,"pates",TRUE
+"823",2,60,"pommes",TRUE
+"824",2,60,"biere",TRUE
+"825",2,60,"chocololat",TRUE
+"826",2,60,"serviette",TRUE
+"827",2,60,"dextro",TRUE
+"828",2,60,"olives",TRUE
+"829",2,60,"tomates",TRUE
+"830",2,61,"eau",TRUE
+"831",2,61,"soda",TRUE
+"832",2,61,"chocololat",TRUE
+"833",2,62,"pates",TRUE
+"834",2,62,"bolo",TRUE
+"835",2,62,"pommes",TRUE
+"836",2,62,"chocololat",TRUE
+"837",2,62,"olives",TRUE
+"838",2,62,"cure-dents",TRUE
+"839",2,63,"pates",TRUE
+"840",2,63,"pommes",TRUE
+"841",2,63,"vin rouge",TRUE
+"842",2,63,"dextro",TRUE
+"843",2,63,"olives",TRUE
+"844",2,63,"cure-dents",TRUE
+"845",2,63,"tomates",TRUE
+"846",2,64,"eau",TRUE
+"847",2,64,"pates",TRUE
+"848",2,64,"langes",TRUE
+"849",2,64,"vin rouge",TRUE
+"850",2,64,"soda",TRUE
+"851",2,64,"chocololat",TRUE
+"852",2,64,"dextro",TRUE
+"853",2,64,"tomates",TRUE
+"854",2,64,"lait poudre",TRUE
+"855",2,65,"langes",TRUE
+"856",2,65,"soda",TRUE
+"857",2,65,"cure-dents",TRUE
+"858",2,65,"lait poudre",TRUE
+"859",2,66,"pommes",TRUE
+"860",2,66,"soda",TRUE
+"861",2,66,"cure-dents",TRUE
+"862",2,67,"eau",TRUE
+"863",2,67,"poires",TRUE
+"864",2,67,"biere",TRUE
+"865",2,67,"soda",TRUE
+"866",2,67,"serviette",TRUE
+"867",2,68,"eau",TRUE
+"868",2,68,"biere",TRUE
+"869",2,68,"serviette",TRUE
+"870",2,68,"dextro",TRUE
+"871",2,68,"olives",TRUE
+"872",2,68,"cure-dents",TRUE
+"873",2,69,"pates",TRUE
+"874",2,69,"langes",TRUE
+"875",2,69,"soda",TRUE
+"876",2,69,"chocololat",TRUE
+"877",2,70,"eau",TRUE
+"878",2,70,"pommes",TRUE
+"879",2,70,"biere",TRUE
+"880",2,70,"dextro",TRUE
+"881",2,70,"olives",TRUE
+"882",2,71,"poires",TRUE
+"883",2,71,"biere",TRUE
+"884",2,72,"eau",TRUE
+"885",2,72,"pommes",TRUE
+"886",2,72,"soda",TRUE
+"887",2,72,"serviette",TRUE
+"888",2,72,"dextro",TRUE
+"889",2,73,"eau",TRUE
+"890",2,73,"pates",TRUE
+"891",2,73,"langes",TRUE
+"892",2,73,"pommes",TRUE
+"893",2,73,"biere",TRUE
+"894",2,73,"soda",TRUE
+"895",2,73,"dextro",TRUE
+"896",2,73,"olives",TRUE
+"897",2,73,"tomates",TRUE
+"898",2,73,"lait poudre",TRUE
+"899",2,74,"eau",TRUE
+"900",2,74,"pates",TRUE
+"901",2,74,"bolo",TRUE
+"902",2,74,"langes",TRUE
+"903",2,74,"chocololat",TRUE
+"904",2,74,"dextro",TRUE
+"905",2,74,"tomates",TRUE
+"906",2,75,"eau",TRUE
+"907",2,75,"langes",TRUE
+"908",2,75,"vin rouge",TRUE
+"909",2,75,"lait poudre",TRUE
+"910",2,76,"eau",TRUE
+"911",2,76,"pates",TRUE
+"912",2,76,"bolo",TRUE
+"913",2,76,"langes",TRUE
+"914",2,76,"poires",TRUE
+"915",2,76,"dextro",TRUE
+"916",2,76,"tomates",TRUE
+"917",2,76,"lait poudre",TRUE
+"918",2,77,"pates",TRUE
+"919",2,77,"bolo",TRUE
+"920",2,77,"langes",TRUE
+"921",2,77,"pommes",TRUE
+"922",2,77,"soda",TRUE
+"923",2,77,"chocololat",TRUE
+"924",2,77,"dextro",TRUE
+"925",2,77,"tomates",TRUE
+"926",2,77,"lait poudre",TRUE
+"927",2,78,"pates",TRUE
+"928",2,78,"serviette",TRUE
+"929",2,78,"tomates",TRUE
+"930",2,79,"bolo",TRUE
+"931",2,79,"langes",TRUE
+"932",2,79,"poires",TRUE
+"933",2,79,"chocololat",TRUE
+"934",2,79,"lait poudre",TRUE
+"935",2,80,"eau",TRUE
+"936",2,80,"pates",TRUE
+"937",2,80,"bolo",TRUE
+"938",2,80,"langes",TRUE
+"939",2,80,"serviette",TRUE
+"940",2,80,"cure-dents",TRUE
+"941",2,80,"lait poudre",TRUE
+"942",2,81,"pates",TRUE
+"943",2,81,"langes",TRUE
+"944",2,81,"pommes",TRUE
+"945",2,81,"poires",TRUE
+"946",2,81,"chocololat",TRUE
+"947",2,81,"tomates",TRUE
+"948",2,81,"lait poudre",TRUE
+"949",2,82,"chocololat",TRUE
+"950",2,83,"eau",TRUE
+"951",2,83,"vin rouge",TRUE
+"952",2,83,"soda",TRUE
+"953",2,83,"dextro",TRUE
+"954",2,84,"pates",TRUE
+"955",2,84,"bolo",TRUE
+"956",2,84,"pommes",TRUE
+"957",2,84,"soda",TRUE
+"958",2,84,"chocololat",TRUE
+"959",2,84,"tomates",TRUE
+"960",2,85,"pates",TRUE
+"961",2,85,"poires",TRUE
+"962",2,85,"vin rouge",TRUE
+"963",2,85,"tomates",TRUE
+"964",2,86,"pates",TRUE
+"965",2,86,"vin rouge",TRUE
+"966",2,86,"biere",TRUE
+"967",2,86,"chocololat",TRUE
+"968",2,86,"tomates",TRUE
+"969",2,86,"lait poudre",TRUE
+"970",2,87,"pates",TRUE
+"971",2,87,"soda",TRUE
+"972",2,87,"olives",TRUE
+"973",2,87,"tomates",TRUE
+"974",2,88,"pates",TRUE
+"975",2,88,"langes",TRUE
+"976",2,88,"chocololat",TRUE
+"977",2,88,"tomates",TRUE
+"978",2,88,"lait poudre",TRUE
+"979",2,89,"eau",TRUE
+"980",2,89,"pates",TRUE
+"981",2,89,"bolo",TRUE
+"982",2,89,"langes",TRUE
+"983",2,89,"pommes",TRUE
+"984",2,89,"soda",TRUE
+"985",2,89,"chocololat",TRUE
+"986",2,89,"dextro",TRUE
+"987",2,89,"olives",TRUE
+"988",2,89,"tomates",TRUE
+"989",2,89,"lait poudre",TRUE
+"990",2,90,"eau",TRUE
+"991",2,90,"pates",TRUE
+"992",2,90,"langes",TRUE
+"993",2,90,"pommes",TRUE
+"994",2,90,"soda",TRUE
+"995",2,90,"dextro",TRUE
+"996",2,90,"olives",TRUE
+"997",2,90,"lait poudre",TRUE
+"998",2,91,"eau",TRUE
+"999",2,91,"pates",TRUE
+"1000",2,91,"bolo",TRUE
+"1001",2,91,"langes",TRUE
+"1002",2,91,"pommes",TRUE
+"1003",2,91,"vin rouge",TRUE
+"1004",2,91,"chocololat",TRUE
+"1005",2,91,"tomates",TRUE
+"1006",2,92,"pates",TRUE
+"1007",2,92,"langes",TRUE
+"1008",2,92,"pommes",TRUE
+"1009",2,92,"vin rouge",TRUE
+"1010",2,92,"soda",TRUE
+"1011",2,92,"chocololat",TRUE
+"1012",2,92,"dextro",TRUE
+"1013",2,92,"cure-dents",TRUE
+"1014",2,92,"tomates",TRUE
+"1015",2,92,"lait poudre",TRUE
+"1016",2,93,"eau",TRUE
+"1017",2,93,"pates",TRUE
+"1018",2,93,"bolo",TRUE
+"1019",2,93,"langes",TRUE
+"1020",2,93,"chocololat",TRUE
+"1021",2,93,"lait poudre",TRUE
+"1022",2,94,"pates",TRUE
+"1023",2,94,"bolo",TRUE
+"1024",2,94,"vin rouge",TRUE
+"1025",2,94,"olives",TRUE
+"1026",2,94,"tomates",TRUE
+"1027",2,94,"lait poudre",TRUE
+"1028",2,95,"vin rouge",TRUE
+"1029",2,95,"soda",TRUE
+"1030",2,95,"chocololat",TRUE
+"1031",2,95,"serviette",TRUE
+"1032",2,96,"biere",TRUE
+"1033",2,96,"chocololat",TRUE
+"1034",2,96,"serviette",TRUE
+"1035",2,97,"eau",TRUE
+"1036",2,97,"pommes",TRUE
+"1037",2,97,"biere",TRUE
+"1038",2,97,"serviette",TRUE
+"1039",2,97,"dextro",TRUE
+"1040",2,98,"bolo",TRUE
+"1041",2,98,"langes",TRUE
+"1042",2,98,"chocololat",TRUE
+"1043",2,98,"olives",TRUE
+"1044",2,98,"lait poudre",TRUE
+"1045",2,99,"pates",TRUE
+"1046",2,99,"poires",TRUE
+"1047",2,99,"biere",TRUE
+"1048",2,99,"dextro",TRUE
+"1049",2,99,"olives",TRUE
+"1050",2,99,"tomates",TRUE
+"1051",2,100,"pates",TRUE
+"1052",2,100,"langes",TRUE
+"1053",2,100,"vin rouge",TRUE
+"1054",2,100,"chocololat",TRUE
+"1055",2,100,"olives",TRUE
+"1056",2,100,"tomates",TRUE
+"1057",3,1,"vin rouge",TRUE
+"1058",3,1,"chocololat",TRUE
+"1059",3,2,"pates",TRUE
+"1060",3,2,"bolo",TRUE
+"1061",3,2,"langes",TRUE
+"1062",3,2,"pommes",TRUE
+"1063",3,2,"vin rouge",TRUE
+"1064",3,2,"soda",TRUE
+"1065",3,2,"olives",TRUE
+"1066",3,2,"cure-dents",TRUE
+"1067",3,2,"lait poudre",TRUE
+"1068",3,3,"eau",TRUE
+"1069",3,3,"pates",TRUE
+"1070",3,3,"poires",TRUE
+"1071",3,3,"dextro",TRUE
+"1072",3,3,"olives",TRUE
+"1073",3,3,"tomates",TRUE
+"1074",3,4,"eau",TRUE
+"1075",3,4,"pommes",TRUE
+"1076",3,4,"vin rouge",TRUE
+"1077",3,4,"soda",TRUE
+"1078",3,4,"dextro",TRUE
+"1079",3,4,"olives",TRUE
+"1080",3,4,"cure-dents",TRUE
+"1081",3,5,"eau",TRUE
+"1082",3,5,"poires",TRUE
+"1083",3,5,"soda",TRUE
+"1084",3,5,"dextro",TRUE
+"1085",3,5,"olives",TRUE
+"1086",3,5,"cure-dents",TRUE
+"1087",3,5,"tomates",TRUE
+"1088",3,6,"bolo",TRUE
+"1089",3,6,"poires",TRUE
+"1090",3,6,"vin rouge",TRUE
+"1091",3,6,"chocololat",TRUE
+"1092",3,7,"langes",TRUE
+"1093",3,7,"pommes",TRUE
+"1094",3,7,"poires",TRUE
+"1095",3,7,"soda",TRUE
+"1096",3,7,"chocololat",TRUE
+"1097",3,7,"dextro",TRUE
+"1098",3,7,"olives",TRUE
+"1099",3,7,"cure-dents",TRUE
+"1100",3,7,"lait poudre",TRUE
+"1101",3,8,"pates",TRUE
+"1102",3,8,"bolo",TRUE
+"1103",3,8,"chocololat",TRUE
+"1104",3,9,"pates",TRUE
+"1105",3,9,"bolo",TRUE
+"1106",3,9,"langes",TRUE
+"1107",3,9,"pommes",TRUE
+"1108",3,9,"poires",TRUE
+"1109",3,9,"vin rouge",TRUE
+"1110",3,9,"soda",TRUE
+"1111",3,9,"olives",TRUE
+"1112",3,9,"lait poudre",TRUE
+"1113",3,10,"eau",TRUE
+"1114",3,10,"langes",TRUE
+"1115",3,10,"chocololat",TRUE
+"1116",3,11,"eau",TRUE
+"1117",3,11,"langes",TRUE
+"1118",3,11,"pommes",TRUE
+"1119",3,11,"chocololat",TRUE
+"1120",3,11,"olives",TRUE
+"1121",3,11,"tomates",TRUE
+"1122",3,11,"lait poudre",TRUE
+"1123",3,12,"pates",TRUE
+"1124",3,12,"bolo",TRUE
+"1125",3,12,"langes",TRUE
+"1126",3,12,"vin rouge",TRUE
+"1127",3,12,"chocololat",TRUE
+"1128",3,13,"biere",TRUE
+"1129",3,13,"chocololat",TRUE
+"1130",3,14,"soda",TRUE
+"1131",3,15,"eau",TRUE
+"1132",3,15,"langes",TRUE
+"1133",3,15,"pommes",TRUE
+"1134",3,15,"vin rouge",TRUE
+"1135",3,15,"chocololat",TRUE
+"1136",3,15,"dextro",TRUE
+"1137",3,15,"tomates",TRUE
+"1138",3,15,"lait poudre",TRUE
+"1139",3,16,"pates",TRUE
+"1140",3,16,"soda",TRUE
+"1141",3,16,"chocololat",TRUE
+"1142",3,16,"dextro",TRUE
+"1143",3,17,"bolo",TRUE
+"1144",3,17,"langes",TRUE
+"1145",3,17,"biere",TRUE
+"1146",3,17,"lait poudre",TRUE
+"1147",3,18,"serviette",TRUE
+"1148",3,18,"dextro",TRUE
+"1149",3,18,"olives",TRUE
+"1150",3,18,"cure-dents",TRUE
+"1151",3,19,"pommes",TRUE
+"1152",3,19,"biere",TRUE
+"1153",3,19,"dextro",TRUE
+"1154",3,20,"langes",TRUE
+"1155",3,20,"chocololat",TRUE
+"1156",3,20,"olives",TRUE
+"1157",3,20,"lait poudre",TRUE
+"1158",3,21,"eau",TRUE
+"1159",3,21,"pates",TRUE
+"1160",3,21,"langes",TRUE
+"1161",3,21,"poires",TRUE
+"1162",3,21,"soda",TRUE
+"1163",3,21,"olives",TRUE
+"1164",3,21,"lait poudre",TRUE
+"1165",3,22,"olives",TRUE
+"1166",3,23,"pates",TRUE
+"1167",3,23,"tomates",TRUE
+"1168",3,24,"eau",TRUE
+"1169",3,24,"pommes",TRUE
+"1170",3,25,"pates",TRUE
+"1171",3,25,"bolo",TRUE
+"1172",3,25,"soda",TRUE
+"1173",3,25,"chocololat",TRUE
+"1174",3,25,"serviette",TRUE
+"1175",3,25,"olives",TRUE
+"1176",3,26,"pates",TRUE
+"1177",3,26,"soda",TRUE
+"1178",3,26,"olives",TRUE
+"1179",3,26,"cure-dents",TRUE
+"1180",3,27,"poires",TRUE
+"1181",3,27,"olives",TRUE
+"1182",3,28,"pates",TRUE
+"1183",3,28,"soda",TRUE
+"1184",3,28,"chocololat",TRUE
+"1185",3,28,"olives",TRUE
+"1186",3,28,"tomates",TRUE
+"1187",3,29,"eau",TRUE
+"1188",3,29,"pates",TRUE
+"1189",3,29,"bolo",TRUE
+"1190",3,29,"langes",TRUE
+"1191",3,29,"pommes",TRUE
+"1192",3,29,"soda",TRUE
+"1193",3,29,"chocololat",TRUE
+"1194",3,29,"lait poudre",TRUE
+"1195",3,30,"eau",TRUE
+"1196",3,30,"pates",TRUE
+"1197",3,30,"bolo",TRUE
+"1198",3,30,"langes",TRUE
+"1199",3,30,"poires",TRUE
+"1200",3,30,"biere",TRUE
+"1201",3,30,"tomates",TRUE
+"1202",3,31,"chocololat",TRUE
+"1203",3,31,"serviette",TRUE
+"1204",3,32,"pates",TRUE
+"1205",3,32,"poires",TRUE
+"1206",3,32,"soda",TRUE
+"1207",3,32,"serviette",TRUE
+"1208",3,33,"pates",TRUE
+"1209",3,33,"bolo",TRUE
+"1210",3,33,"langes",TRUE
+"1211",3,33,"poires",TRUE
+"1212",3,33,"vin rouge",TRUE
+"1213",3,33,"soda",TRUE
+"1214",3,33,"tomates",TRUE
+"1215",3,34,"pommes",TRUE
+"1216",3,34,"biere",TRUE
+"1217",3,34,"soda",TRUE
+"1218",3,34,"cure-dents",TRUE
+"1219",3,35,"pates",TRUE
+"1220",3,35,"langes",TRUE
+"1221",3,35,"chocololat",TRUE
+"1222",3,35,"serviette",TRUE
+"1223",3,35,"olives",TRUE
+"1224",3,35,"tomates",TRUE
+"1225",3,35,"lait poudre",TRUE
+"1226",3,36,"eau",TRUE
+"1227",3,36,"langes",TRUE
+"1228",3,36,"soda",TRUE
+"1229",3,36,"chocololat",TRUE
+"1230",3,36,"lait poudre",TRUE
+"1231",3,37,"pates",TRUE
+"1232",3,37,"pommes",TRUE
+"1233",3,37,"biere",TRUE
+"1234",3,37,"dextro",TRUE
+"1235",3,38,"eau",TRUE
+"1236",3,38,"pommes",TRUE
+"1237",3,38,"vin rouge",TRUE
+"1238",3,38,"olives",TRUE
+"1239",3,39,"pates",TRUE
+"1240",3,39,"pommes",TRUE
+"1241",3,40,"pates",TRUE
+"1242",3,40,"bolo",TRUE
+"1243",3,40,"langes",TRUE
+"1244",3,40,"soda",TRUE
+"1245",3,40,"olives",TRUE
+"1246",3,40,"lait poudre",TRUE
+"1247",3,41,"pates",TRUE
+"1248",3,41,"bolo",TRUE
+"1249",3,41,"vin rouge",TRUE
+"1250",3,41,"chocololat",TRUE
+"1251",3,41,"olives",TRUE
+"1252",3,42,"pates",TRUE
+"1253",3,42,"soda",TRUE
+"1254",3,42,"chocololat",TRUE
+"1255",3,42,"tomates",TRUE
+"1256",3,43,"pates",TRUE
+"1257",3,43,"vin rouge",TRUE
+"1258",3,43,"chocololat",TRUE
+"1259",3,43,"olives",TRUE
+"1260",3,43,"tomates",TRUE
+"1261",3,44,"pommes",TRUE
+"1262",3,44,"biere",TRUE
+"1263",3,44,"olives",TRUE
+"1264",3,45,"pates",TRUE
+"1265",3,45,"langes",TRUE
+"1266",3,45,"pommes",TRUE
+"1267",3,45,"soda",TRUE
+"1268",3,45,"chocololat",TRUE
+"1269",3,45,"tomates",TRUE
+"1270",3,45,"lait poudre",TRUE
+"1271",3,46,"eau",TRUE
+"1272",3,46,"pates",TRUE
+"1273",3,46,"pommes",TRUE
+"1274",3,46,"vin rouge",TRUE
+"1275",3,46,"dextro",TRUE
+"1276",3,46,"tomates",TRUE
+"1277",3,46,"lait poudre",TRUE
+"1278",3,47,"pates",TRUE
+"1279",3,47,"bolo",TRUE
+"1280",3,47,"langes",TRUE
+"1281",3,47,"soda",TRUE
+"1282",3,47,"chocololat",TRUE
+"1283",3,47,"tomates",TRUE
+"1284",3,47,"lait poudre",TRUE
+"1285",3,48,"pates",TRUE
+"1286",3,48,"langes",TRUE
+"1287",3,48,"poires",TRUE
+"1288",3,48,"biere",TRUE
+"1289",3,48,"chocololat",TRUE
+"1290",3,48,"tomates",TRUE
+"1291",3,48,"lait poudre",TRUE
+"1292",3,49,"eau",TRUE
+"1293",3,49,"pates",TRUE
+"1294",3,49,"bolo",TRUE
+"1295",3,49,"langes",TRUE
+"1296",3,49,"soda",TRUE
+"1297",3,49,"chocololat",TRUE
+"1298",3,49,"serviette",TRUE
+"1299",3,49,"tomates",TRUE
+"1300",3,49,"lait poudre",TRUE
+"1301",3,50,"pates",TRUE
+"1302",3,50,"bolo",TRUE
+"1303",3,50,"langes",TRUE
+"1304",3,50,"soda",TRUE
+"1305",3,50,"chocololat",TRUE
+"1306",3,51,"eau",TRUE
+"1307",3,51,"pates",TRUE
+"1308",3,51,"pommes",TRUE
+"1309",3,51,"biere",TRUE
+"1310",3,51,"soda",TRUE
+"1311",3,51,"dextro",TRUE
+"1312",3,51,"olives",TRUE
+"1313",3,52,"biere",TRUE
+"1314",3,53,"eau",TRUE
+"1315",3,53,"pates",TRUE
+"1316",3,53,"bolo",TRUE
+"1317",3,53,"langes",TRUE
+"1318",3,53,"vin rouge",TRUE
+"1319",3,53,"olives",TRUE
+"1320",3,53,"tomates",TRUE
+"1321",3,54,"eau",TRUE
+"1322",3,54,"soda",TRUE
+"1323",3,54,"dextro",TRUE
+"1324",3,54,"olives",TRUE
+"1325",3,55,"poires",TRUE
+"1326",3,55,"biere",TRUE
+"1327",3,55,"soda",TRUE
+"1328",3,56,"pates",TRUE
+"1329",3,56,"bolo",TRUE
+"1330",3,57,"eau",TRUE
+"1331",3,57,"pates",TRUE
+"1332",3,57,"pommes",TRUE
+"1333",3,57,"vin rouge",TRUE
+"1334",3,57,"soda",TRUE
+"1335",3,57,"chocololat",TRUE
+"1336",3,57,"lait poudre",TRUE
+"1337",3,58,"pates",TRUE
+"1338",3,58,"pommes",TRUE
+"1339",3,58,"chocololat",TRUE
+"1340",3,58,"tomates",TRUE
+"1341",3,59,"eau",TRUE
+"1342",3,59,"pates",TRUE
+"1343",3,59,"langes",TRUE
+"1344",3,59,"pommes",TRUE
+"1345",3,59,"soda",TRUE
+"1346",3,59,"chocololat",TRUE
+"1347",3,59,"dextro",TRUE
+"1348",3,59,"tomates",TRUE
+"1349",3,60,"eau",TRUE
+"1350",3,60,"pates",TRUE
+"1351",3,60,"pommes",TRUE
+"1352",3,60,"soda",TRUE
+"1353",3,60,"chocololat",TRUE
+"1354",3,61,"eau",TRUE
+"1355",3,61,"vin rouge",TRUE
+"1356",3,61,"biere",TRUE
+"1357",3,61,"soda",TRUE
+"1358",3,61,"serviette",TRUE
+"1359",3,62,"soda",TRUE
+"1360",3,62,"chocololat",TRUE
+"1361",3,63,"poires",TRUE
+"1362",3,63,"vin rouge",TRUE
+"1363",3,63,"olives",TRUE
+"1364",3,63,"tomates",TRUE
+"1365",3,64,"eau",TRUE
+"1366",3,64,"pates",TRUE
+"1367",3,64,"langes",TRUE
+"1368",3,64,"vin rouge",TRUE
+"1369",3,64,"chocololat",TRUE
+"1370",3,64,"dextro",TRUE
+"1371",3,64,"olives",TRUE
+"1372",3,64,"tomates",TRUE
+"1373",3,64,"lait poudre",TRUE
+"1374",3,65,"eau",TRUE
+"1375",3,65,"pates",TRUE
+"1376",3,65,"bolo",TRUE
+"1377",3,65,"langes",TRUE
+"1378",3,65,"vin rouge",TRUE
+"1379",3,65,"soda",TRUE
+"1380",3,65,"chocololat",TRUE
+"1381",3,65,"tomates",TRUE
+"1382",3,65,"lait poudre",TRUE
+"1383",3,66,"pommes",TRUE
+"1384",3,66,"poires",TRUE
+"1385",3,66,"chocololat",TRUE
+"1386",3,66,"olives",TRUE
+"1387",3,67,"pates",TRUE
+"1388",3,68,"eau",TRUE
+"1389",3,68,"tomates",TRUE
+"1390",3,69,"eau",TRUE
+"1391",3,69,"bolo",TRUE
+"1392",3,69,"langes",TRUE
+"1393",3,69,"chocololat",TRUE
+"1394",3,69,"lait poudre",TRUE
+"1395",3,70,"eau",TRUE
+"1396",3,70,"pommes",TRUE
+"1397",3,70,"serviette",TRUE
+"1398",3,70,"dextro",TRUE
+"1399",3,71,"pates",TRUE
+"1400",3,71,"biere",TRUE
+"1401",3,71,"chocololat",TRUE
+"1402",3,71,"serviette",TRUE
+"1403",3,72,"eau",TRUE
+"1404",3,72,"dextro",TRUE
+"1405",3,72,"olives",TRUE
+"1406",3,73,"eau",TRUE
+"1407",3,73,"pates",TRUE
+"1408",3,73,"bolo",TRUE
+"1409",3,73,"langes",TRUE
+"1410",3,73,"pommes",TRUE
+"1411",3,73,"poires",TRUE
+"1412",3,73,"dextro",TRUE
+"1413",3,74,"eau",TRUE
+"1414",3,74,"pates",TRUE
+"1415",3,74,"bolo",TRUE
+"1416",3,74,"langes",TRUE
+"1417",3,74,"soda",TRUE
+"1418",3,74,"chocololat",TRUE
+"1419",3,74,"dextro",TRUE
+"1420",3,74,"lait poudre",TRUE
+"1421",3,75,"pates",TRUE
+"1422",3,75,"bolo",TRUE
+"1423",3,75,"langes",TRUE
+"1424",3,75,"vin rouge",TRUE
+"1425",3,75,"biere",TRUE
+"1426",3,75,"chocololat",TRUE
+"1427",3,75,"tomates",TRUE
+"1428",3,76,"eau",TRUE
+"1429",3,76,"pates",TRUE
+"1430",3,76,"langes",TRUE
+"1431",3,76,"pommes",TRUE
+"1432",3,76,"soda",TRUE
+"1433",3,76,"olives",TRUE
+"1434",3,76,"cure-dents",TRUE
+"1435",3,76,"tomates",TRUE
+"1436",3,77,"eau",TRUE
+"1437",3,77,"pates",TRUE
+"1438",3,77,"langes",TRUE
+"1439",3,77,"soda",TRUE
+"1440",3,77,"chocololat",TRUE
+"1441",3,77,"tomates",TRUE
+"1442",3,77,"lait poudre",TRUE
+"1443",3,78,"pates",TRUE
+"1444",3,78,"vin rouge",TRUE
+"1445",3,78,"biere",TRUE
+"1446",3,78,"soda",TRUE
+"1447",3,78,"chocololat",TRUE
+"1448",3,78,"tomates",TRUE
+"1449",3,79,"pates",TRUE
+"1450",3,79,"langes",TRUE
+"1451",3,79,"pommes",TRUE
+"1452",3,79,"soda",TRUE
+"1453",3,79,"chocololat",TRUE
+"1454",3,79,"olives",TRUE
+"1455",3,80,"pates",TRUE
+"1456",3,80,"bolo",TRUE
+"1457",3,80,"langes",TRUE
+"1458",3,80,"poires",TRUE
+"1459",3,80,"chocololat",TRUE
+"1460",3,80,"olives",TRUE
+"1461",3,81,"langes",TRUE
+"1462",3,81,"pommes",TRUE
+"1463",3,81,"soda",TRUE
+"1464",3,81,"chocololat",TRUE
+"1465",3,81,"olives",TRUE
+"1466",3,81,"tomates",TRUE
+"1467",3,81,"lait poudre",TRUE
+"1468",3,82,"pates",TRUE
+"1469",3,82,"soda",TRUE
+"1470",3,82,"serviette",TRUE
+"1471",3,82,"dextro",TRUE
+"1472",3,83,"pates",TRUE
+"1473",3,83,"soda",TRUE
+"1474",3,83,"tomates",TRUE
+"1475",3,84,"eau",TRUE
+"1476",3,84,"pates",TRUE
+"1477",3,84,"bolo",TRUE
+"1478",3,84,"langes",TRUE
+"1479",3,84,"soda",TRUE
+"1480",3,84,"chocololat",TRUE
+"1481",3,85,"vin rouge",TRUE
+"1482",3,85,"biere",TRUE
+"1483",3,86,"langes",TRUE
+"1484",3,86,"chocololat",TRUE
+"1485",3,87,"bolo",TRUE
+"1486",3,87,"serviette",TRUE
+"1487",3,87,"olives",TRUE
+"1488",3,88,"eau",TRUE
+"1489",3,88,"soda",TRUE
+"1490",3,88,"serviette",TRUE
+"1491",3,88,"olives",TRUE
+"1492",3,89,"eau",TRUE
+"1493",3,89,"langes",TRUE
+"1494",3,89,"pommes",TRUE
+"1495",3,89,"poires",TRUE
+"1496",3,89,"soda",TRUE
+"1497",3,89,"serviette",TRUE
+"1498",3,90,"pates",TRUE
+"1499",3,90,"langes",TRUE
+"1500",3,90,"serviette",TRUE
+"1501",3,90,"dextro",TRUE
+"1502",3,90,"olives",TRUE
+"1503",3,91,"langes",TRUE
+"1504",3,91,"pommes",TRUE
+"1505",3,91,"chocololat",TRUE
+"1506",3,91,"lait poudre",TRUE
+"1507",3,92,"eau",TRUE
+"1508",3,92,"pates",TRUE
+"1509",3,92,"langes",TRUE
+"1510",3,92,"pommes",TRUE
+"1511",3,92,"chocololat",TRUE
+"1512",3,92,"dextro",TRUE
+"1513",3,92,"tomates",TRUE
+"1514",3,93,"pates",TRUE
+"1515",3,93,"langes",TRUE
+"1516",3,93,"poires",TRUE
+"1517",3,93,"soda",TRUE
+"1518",3,93,"chocololat",TRUE
+"1519",3,93,"serviette",TRUE
+"1520",3,93,"olives",TRUE
+"1521",3,93,"tomates",TRUE
+"1522",3,93,"lait poudre",TRUE
+"1523",3,94,"pates",TRUE
+"1524",3,94,"langes",TRUE
+"1525",3,94,"chocololat",TRUE
+"1526",3,94,"serviette",TRUE
+"1527",3,94,"tomates",TRUE
+"1528",3,94,"lait poudre",TRUE
+"1529",3,95,"serviette",TRUE
+"1530",3,95,"tomates",TRUE
+"1531",3,96,"eau",TRUE
+"1532",3,97,"poires",TRUE
+"1533",3,97,"biere",TRUE
+"1534",3,98,"langes",TRUE
+"1535",3,98,"poires",TRUE
+"1536",3,98,"vin rouge",TRUE
+"1537",3,98,"soda",TRUE
+"1538",3,98,"chocololat",TRUE
+"1539",3,99,"eau",TRUE
+"1540",3,99,"pommes",TRUE
+"1541",3,99,"poires",TRUE
+"1542",3,99,"biere",TRUE
+"1543",3,99,"dextro",TRUE
+"1544",3,99,"olives",TRUE
+"1545",3,99,"cure-dents",TRUE
+"1546",3,100,"pates",TRUE
+"1547",3,100,"chocololat",TRUE
+"1548",3,100,"olives",TRUE
+"1549",3,100,"cure-dents",TRUE
+"1550",3,100,"tomates",TRUE
+"1551",3,100,"lait poudre",TRUE
+"1552",4,1,"pates",TRUE
+"1553",4,1,"vin rouge",TRUE
+"1554",4,2,"pates",TRUE
+"1555",4,2,"bolo",TRUE
+"1556",4,2,"langes",TRUE
+"1557",4,2,"chocololat",TRUE
+"1558",4,2,"olives",TRUE
+"1559",4,2,"tomates",TRUE
+"1560",4,2,"lait poudre",TRUE
+"1561",4,3,"eau",TRUE
+"1562",4,3,"pates",TRUE
+"1563",4,3,"tomates",TRUE
+"1564",4,4,"biere",TRUE
+"1565",4,4,"soda",TRUE
+"1566",4,4,"chocololat",TRUE
+"1567",4,4,"dextro",TRUE
+"1568",4,4,"olives",TRUE
+"1569",4,4,"cure-dents",TRUE
+"1570",4,5,"eau",TRUE
+"1571",4,5,"pates",TRUE
+"1572",4,5,"soda",TRUE
+"1573",4,5,"serviette",TRUE
+"1574",4,6,"chocololat",TRUE
+"1575",4,6,"olives",TRUE
+"1576",4,6,"cure-dents",TRUE
+"1577",4,7,"eau",TRUE
+"1578",4,7,"pates",TRUE
+"1579",4,7,"langes",TRUE
+"1580",4,7,"olives",TRUE
+"1581",4,7,"tomates",TRUE
+"1582",4,7,"lait poudre",TRUE
+"1583",4,8,"biere",TRUE
+"1584",4,8,"soda",TRUE
+"1585",4,8,"chocololat",TRUE
+"1586",4,9,"pates",TRUE
+"1587",4,9,"bolo",TRUE
+"1588",4,9,"langes",TRUE
+"1589",4,9,"pommes",TRUE
+"1590",4,9,"poires",TRUE
+"1591",4,9,"chocololat",TRUE
+"1592",4,9,"olives",TRUE
+"1593",4,9,"cure-dents",TRUE
+"1594",4,9,"lait poudre",TRUE
+"1595",4,10,"langes",TRUE
+"1596",4,10,"vin rouge",TRUE
+"1597",4,10,"soda",TRUE
+"1598",4,10,"chocololat",TRUE
+"1599",4,10,"olives",TRUE
+"1600",4,10,"cure-dents",TRUE
+"1601",4,10,"lait poudre",TRUE
+"1602",4,11,"pates",TRUE
+"1603",4,11,"langes",TRUE
+"1604",4,11,"vin rouge",TRUE
+"1605",4,11,"chocololat",TRUE
+"1606",4,11,"tomates",TRUE
+"1607",4,11,"lait poudre",TRUE
+"1608",4,12,"pates",TRUE
+"1609",4,12,"langes",TRUE
+"1610",4,12,"vin rouge",TRUE
+"1611",4,12,"tomates",TRUE
+"1612",4,13,"soda",TRUE
+"1613",4,13,"chocololat",TRUE
+"1614",4,13,"serviette",TRUE
+"1615",4,13,"olives",TRUE
+"1616",4,14,"vin rouge",TRUE
+"1617",4,14,"biere",TRUE
+"1618",4,14,"soda",TRUE
+"1619",4,14,"chocololat",TRUE
+"1620",4,14,"olives",TRUE
+"1621",4,15,"eau",TRUE
+"1622",4,15,"pates",TRUE
+"1623",4,15,"bolo",TRUE
+"1624",4,15,"langes",TRUE
+"1625",4,15,"vin rouge",TRUE
+"1626",4,16,"eau",TRUE
+"1627",4,16,"biere",TRUE
+"1628",4,16,"tomates",TRUE
+"1629",4,17,"langes",TRUE
+"1630",4,17,"chocololat",TRUE
+"1631",4,17,"serviette",TRUE
+"1632",4,17,"olives",TRUE
+"1633",4,17,"cure-dents",TRUE
+"1634",4,17,"lait poudre",TRUE
+"1635",4,18,"pates",TRUE
+"1636",4,18,"poires",TRUE
+"1637",4,18,"chocololat",TRUE
+"1638",4,19,"eau",TRUE
+"1639",4,19,"pommes",TRUE
+"1640",4,19,"soda",TRUE
+"1641",4,19,"chocololat",TRUE
+"1642",4,20,"pates",TRUE
+"1643",4,20,"bolo",TRUE
+"1644",4,20,"soda",TRUE
+"1645",4,20,"tomates",TRUE
+"1646",4,20,"lait poudre",TRUE
+"1647",4,21,"pates",TRUE
+"1648",4,21,"bolo",TRUE
+"1649",4,21,"langes",TRUE
+"1650",4,21,"soda",TRUE
+"1651",4,21,"chocololat",TRUE
+"1652",4,21,"olives",TRUE
+"1653",4,22,"eau",TRUE
+"1654",4,22,"soda",TRUE
+"1655",4,22,"serviette",TRUE
+"1656",4,23,"soda",TRUE
+"1657",4,23,"chocololat",TRUE
+"1658",4,24,"eau",TRUE
+"1659",4,24,"pates",TRUE
+"1660",4,24,"poires",TRUE
+"1661",4,24,"soda",TRUE
+"1662",4,24,"dextro",TRUE
+"1663",4,24,"olives",TRUE
+"1664",4,25,"pates",TRUE
+"1665",4,25,"bolo",TRUE
+"1666",4,25,"langes",TRUE
+"1667",4,25,"pommes",TRUE
+"1668",4,25,"vin rouge",TRUE
+"1669",4,25,"soda",TRUE
+"1670",4,25,"chocololat",TRUE
+"1671",4,25,"olives",TRUE
+"1672",4,25,"cure-dents",TRUE
+"1673",4,25,"tomates",TRUE
+"1674",4,26,"pates",TRUE
+"1675",4,26,"bolo",TRUE
+"1676",4,26,"pommes",TRUE
+"1677",4,26,"soda",TRUE
+"1678",4,26,"olives",TRUE
+"1679",4,27,"pates",TRUE
+"1680",4,27,"olives",TRUE
+"1681",4,28,"eau",TRUE
+"1682",4,28,"soda",TRUE
+"1683",4,28,"serviette",TRUE
+"1684",4,29,"eau",TRUE
+"1685",4,29,"pates",TRUE
+"1686",4,29,"langes",TRUE
+"1687",4,29,"poires",TRUE
+"1688",4,29,"serviette",TRUE
+"1689",4,30,"bolo",TRUE
+"1690",4,30,"langes",TRUE
+"1691",4,30,"poires",TRUE
+"1692",4,30,"serviette",TRUE
+"1693",4,30,"dextro",TRUE
+"1694",4,30,"lait poudre",TRUE
+"1695",4,32,"eau",TRUE
+"1696",4,32,"serviette",TRUE
+"1697",4,32,"dextro",TRUE
+"1698",4,33,"bolo",TRUE
+"1699",4,33,"langes",TRUE
+"1700",4,33,"vin rouge",TRUE
+"1701",4,33,"chocololat",TRUE
+"1702",4,33,"olives",TRUE
+"1703",4,33,"cure-dents",TRUE
+"1704",4,33,"lait poudre",TRUE
+"1705",4,34,"pates",TRUE
+"1706",4,34,"soda",TRUE
+"1707",4,34,"chocololat",TRUE
+"1708",4,34,"dextro",TRUE
+"1709",4,34,"tomates",TRUE
+"1710",4,35,"pates",TRUE
+"1711",4,35,"bolo",TRUE
+"1712",4,35,"langes",TRUE
+"1713",4,35,"soda",TRUE
+"1714",4,35,"chocololat",TRUE
+"1715",4,35,"olives",TRUE
+"1716",4,35,"tomates",TRUE
+"1717",4,36,"pates",TRUE
+"1718",4,36,"bolo",TRUE
+"1719",4,36,"chocololat",TRUE
+"1720",4,36,"lait poudre",TRUE
+"1721",4,37,"pates",TRUE
+"1722",4,37,"biere",TRUE
+"1723",4,37,"soda",TRUE
+"1724",4,37,"dextro",TRUE
+"1725",4,37,"tomates",TRUE
+"1726",4,38,"eau",TRUE
+"1727",4,38,"pates",TRUE
+"1728",4,38,"pommes",TRUE
+"1729",4,39,"eau",TRUE
+"1730",4,39,"serviette",TRUE
+"1731",4,40,"pates",TRUE
+"1732",4,40,"bolo",TRUE
+"1733",4,40,"chocololat",TRUE
+"1734",4,40,"lait poudre",TRUE
+"1735",4,41,"poires",TRUE
+"1736",4,41,"vin rouge",TRUE
+"1737",4,42,"serviette",TRUE
+"1738",4,42,"olives",TRUE
+"1739",4,44,"eau",TRUE
+"1740",4,44,"pommes",TRUE
+"1741",4,44,"serviette",TRUE
+"1742",4,44,"olives",TRUE
+"1743",4,45,"pates",TRUE
+"1744",4,45,"bolo",TRUE
+"1745",4,45,"pommes",TRUE
+"1746",4,45,"vin rouge",TRUE
+"1747",4,45,"chocololat",TRUE
+"1748",4,45,"tomates",TRUE
+"1749",4,45,"lait poudre",TRUE
+"1750",4,46,"eau",TRUE
+"1751",4,46,"pates",TRUE
+"1752",4,46,"langes",TRUE
+"1753",4,46,"pommes",TRUE
+"1754",4,46,"chocololat",TRUE
+"1755",4,46,"lait poudre",TRUE
+"1756",4,47,"pates",TRUE
+"1757",4,47,"bolo",TRUE
+"1758",4,47,"chocololat",TRUE
+"1759",4,47,"olives",TRUE
+"1760",4,47,"tomates",TRUE
+"1761",4,47,"lait poudre",TRUE
+"1762",4,48,"pates",TRUE
+"1763",4,48,"bolo",TRUE
+"1764",4,48,"pommes",TRUE
+"1765",4,48,"chocololat",TRUE
+"1766",4,49,"pates",TRUE
+"1767",4,49,"bolo",TRUE
+"1768",4,49,"langes",TRUE
+"1769",4,49,"soda",TRUE
+"1770",4,49,"chocololat",TRUE
+"1771",4,49,"lait poudre",TRUE
+"1772",4,50,"eau",TRUE
+"1773",4,50,"pates",TRUE
+"1774",4,50,"langes",TRUE
+"1775",4,50,"pommes",TRUE
+"1776",4,50,"chocololat",TRUE
+"1777",4,50,"tomates",TRUE
+"1778",4,51,"eau",TRUE
+"1779",4,51,"pates",TRUE
+"1780",4,51,"olives",TRUE
+"1781",4,52,"soda",TRUE
+"1782",4,52,"chocololat",TRUE
+"1783",4,52,"serviette",TRUE
+"1784",4,52,"olives",TRUE
+"1785",4,53,"eau",TRUE
+"1786",4,53,"pates",TRUE
+"1787",4,53,"bolo",TRUE
+"1788",4,53,"pommes",TRUE
+"1789",4,53,"olives",TRUE
+"1790",4,54,"eau",TRUE
+"1791",4,54,"pates",TRUE
+"1792",4,54,"pommes",TRUE
+"1793",4,54,"poires",TRUE
+"1794",4,54,"soda",TRUE
+"1795",4,54,"dextro",TRUE
+"1796",4,54,"olives",TRUE
+"1797",4,54,"tomates",TRUE
+"1798",4,55,"vin rouge",TRUE
+"1799",4,55,"biere",TRUE
+"1800",4,55,"soda",TRUE
+"1801",4,55,"olives",TRUE
+"1802",4,55,"cure-dents",TRUE
+"1803",4,56,"pommes",TRUE
+"1804",4,56,"vin rouge",TRUE
+"1805",4,56,"soda",TRUE
+"1806",4,56,"chocololat",TRUE
+"1807",4,56,"serviette",TRUE
+"1808",4,57,"pates",TRUE
+"1809",4,57,"bolo",TRUE
+"1810",4,57,"langes",TRUE
+"1811",4,57,"chocololat",TRUE
+"1812",4,57,"tomates",TRUE
+"1813",4,58,"eau",TRUE
+"1814",4,58,"biere",TRUE
+"1815",4,58,"olives",TRUE
+"1816",4,59,"eau",TRUE
+"1817",4,59,"pates",TRUE
+"1818",4,59,"bolo",TRUE
+"1819",4,59,"pommes",TRUE
+"1820",4,59,"poires",TRUE
+"1821",4,59,"soda",TRUE
+"1822",4,59,"tomates",TRUE
+"1823",4,60,"eau",TRUE
+"1824",4,60,"chocololat",TRUE
+"1825",4,60,"dextro",TRUE
+"1826",4,61,"biere",TRUE
+"1827",4,61,"soda",TRUE
+"1828",4,61,"cure-dents",TRUE
+"1829",4,62,"biere",TRUE
+"1830",4,62,"soda",TRUE
+"1831",4,62,"chocololat",TRUE
+"1832",4,62,"olives",TRUE
+"1833",4,62,"cure-dents",TRUE
+"1834",4,62,"tomates",TRUE
+"1835",4,63,"eau",TRUE
+"1836",4,63,"pates",TRUE
+"1837",4,63,"vin rouge",TRUE
+"1838",4,63,"dextro",TRUE
+"1839",4,63,"tomates",TRUE
+"1840",4,64,"eau",TRUE
+"1841",4,64,"pates",TRUE
+"1842",4,64,"bolo",TRUE
+"1843",4,64,"pommes",TRUE
+"1844",4,64,"tomates",TRUE
+"1845",4,64,"lait poudre",TRUE
+"1846",4,65,"pates",TRUE
+"1847",4,65,"bolo",TRUE
+"1848",4,65,"vin rouge",TRUE
+"1849",4,65,"soda",TRUE
+"1850",4,65,"chocololat",TRUE
+"1851",4,65,"tomates",TRUE
+"1852",4,65,"lait poudre",TRUE
+"1853",4,66,"eau",TRUE
+"1854",4,66,"pates",TRUE
+"1855",4,66,"pommes",TRUE
+"1856",4,66,"biere",TRUE
+"1857",4,66,"dextro",TRUE
+"1858",4,66,"tomates",TRUE
+"1859",4,67,"pommes",TRUE
+"1860",4,67,"biere",TRUE
+"1861",4,67,"chocololat",TRUE
+"1862",4,68,"eau",TRUE
+"1863",4,68,"pates",TRUE
+"1864",4,68,"pommes",TRUE
+"1865",4,68,"soda",TRUE
+"1866",4,68,"dextro",TRUE
+"1867",4,68,"tomates",TRUE
+"1868",4,69,"eau",TRUE
+"1869",4,69,"pates",TRUE
+"1870",4,69,"bolo",TRUE
+"1871",4,69,"langes",TRUE
+"1872",4,69,"biere",TRUE
+"1873",4,69,"soda",TRUE
+"1874",4,69,"chocololat",TRUE
+"1875",4,69,"lait poudre",TRUE
+"1876",4,70,"eau",TRUE
+"1877",4,70,"poires",TRUE
+"1878",4,70,"chocololat",TRUE
+"1879",4,70,"serviette",TRUE
+"1880",4,70,"dextro",TRUE
+"1881",4,71,"bolo",TRUE
+"1882",4,71,"pommes",TRUE
+"1883",4,71,"poires",TRUE
+"1884",4,71,"vin rouge",TRUE
+"1885",4,71,"biere",TRUE
+"1886",4,71,"olives",TRUE
+"1887",4,71,"cure-dents",TRUE
+"1888",4,72,"pates",TRUE
+"1889",4,72,"poires",TRUE
+"1890",4,72,"soda",TRUE
+"1891",4,72,"tomates",TRUE
+"1892",4,73,"eau",TRUE
+"1893",4,73,"poires",TRUE
+"1894",4,73,"chocololat",TRUE
+"1895",4,73,"dextro",TRUE
+"1896",4,73,"olives",TRUE
+"1897",4,73,"lait poudre",TRUE
+"1898",4,74,"eau",TRUE
+"1899",4,74,"pates",TRUE
+"1900",4,74,"langes",TRUE
+"1901",4,74,"pommes",TRUE
+"1902",4,74,"poires",TRUE
+"1903",4,74,"soda",TRUE
+"1904",4,74,"dextro",TRUE
+"1905",4,74,"olives",TRUE
+"1906",4,74,"lait poudre",TRUE
+"1907",4,75,"pates",TRUE
+"1908",4,75,"bolo",TRUE
+"1909",4,75,"langes",TRUE
+"1910",4,75,"vin rouge",TRUE
+"1911",4,75,"soda",TRUE
+"1912",4,75,"chocololat",TRUE
+"1913",4,75,"olives",TRUE
+"1914",4,75,"cure-dents",TRUE
+"1915",4,75,"tomates",TRUE
+"1916",4,75,"lait poudre",TRUE
+"1917",4,76,"eau",TRUE
+"1918",4,76,"pates",TRUE
+"1919",4,76,"bolo",TRUE
+"1920",4,76,"langes",TRUE
+"1921",4,76,"pommes",TRUE
+"1922",4,76,"soda",TRUE
+"1923",4,76,"chocololat",TRUE
+"1924",4,76,"olives",TRUE
+"1925",4,76,"tomates",TRUE
+"1926",4,76,"lait poudre",TRUE
+"1927",4,77,"eau",TRUE
+"1928",4,77,"pates",TRUE
+"1929",4,77,"langes",TRUE
+"1930",4,77,"pommes",TRUE
+"1931",4,77,"soda",TRUE
+"1932",4,77,"chocololat",TRUE
+"1933",4,77,"dextro",TRUE
+"1934",4,77,"tomates",TRUE
+"1935",4,77,"lait poudre",TRUE
+"1936",4,78,"pates",TRUE
+"1937",4,78,"chocololat",TRUE
+"1938",4,78,"olives",TRUE
+"1939",4,79,"eau",TRUE
+"1940",4,79,"pates",TRUE
+"1941",4,79,"langes",TRUE
+"1942",4,79,"poires",TRUE
+"1943",4,79,"soda",TRUE
+"1944",4,79,"chocololat",TRUE
+"1945",4,79,"tomates",TRUE
+"1946",4,79,"lait poudre",TRUE
+"1947",4,80,"pates",TRUE
+"1948",4,80,"bolo",TRUE
+"1949",4,80,"langes",TRUE
+"1950",4,80,"pommes",TRUE
+"1951",4,80,"chocololat",TRUE
+"1952",4,80,"serviette",TRUE
+"1953",4,80,"tomates",TRUE
+"1954",4,80,"lait poudre",TRUE
+"1955",4,81,"bolo",TRUE
+"1956",4,81,"langes",TRUE
+"1957",4,81,"pommes",TRUE
+"1958",4,81,"poires",TRUE
+"1959",4,81,"vin rouge",TRUE
+"1960",4,81,"soda",TRUE
+"1961",4,82,"pates",TRUE
+"1962",4,82,"chocololat",TRUE
+"1963",4,82,"dextro",TRUE
+"1964",4,82,"tomates",TRUE
+"1965",4,83,"eau",TRUE
+"1966",4,83,"pates",TRUE
+"1967",4,83,"poires",TRUE
+"1968",4,83,"biere",TRUE
+"1969",4,83,"serviette",TRUE
+"1970",4,83,"dextro",TRUE
+"1971",4,84,"eau",TRUE
+"1972",4,84,"pates",TRUE
+"1973",4,84,"langes",TRUE
+"1974",4,84,"pommes",TRUE
+"1975",4,84,"poires",TRUE
+"1976",4,84,"vin rouge",TRUE
+"1977",4,84,"chocololat",TRUE
+"1978",4,84,"serviette",TRUE
+"1979",4,84,"olives",TRUE
+"1980",4,84,"cure-dents",TRUE
+"1981",4,84,"lait poudre",TRUE
+"1982",4,85,"pates",TRUE
+"1983",4,85,"vin rouge",TRUE
+"1984",4,85,"biere",TRUE
+"1985",4,85,"chocololat",TRUE
+"1986",4,85,"tomates",TRUE
+"1987",4,86,"pates",TRUE
+"1988",4,86,"bolo",TRUE
+"1989",4,86,"pommes",TRUE
+"1990",4,86,"poires",TRUE
+"1991",4,86,"vin rouge",TRUE
+"1992",4,86,"biere",TRUE
+"1993",4,86,"chocololat",TRUE
+"1994",4,86,"serviette",TRUE
+"1995",4,86,"lait poudre",TRUE
+"1996",4,88,"eau",TRUE
+"1997",4,88,"pates",TRUE
+"1998",4,88,"langes",TRUE
+"1999",4,88,"pommes",TRUE
+"2000",4,88,"poires",TRUE
+"2001",4,88,"serviette",TRUE
+"2002",4,88,"lait poudre",TRUE
+"2003",4,89,"eau",TRUE
+"2004",4,89,"pates",TRUE
+"2005",4,89,"bolo",TRUE
+"2006",4,89,"langes",TRUE
+"2007",4,89,"pommes",TRUE
+"2008",4,89,"poires",TRUE
+"2009",4,89,"biere",TRUE
+"2010",4,89,"soda",TRUE
+"2011",4,89,"chocololat",TRUE
+"2012",4,89,"tomates",TRUE
+"2013",4,89,"lait poudre",TRUE
+"2014",4,90,"eau",TRUE
+"2015",4,90,"pates",TRUE
+"2016",4,90,"langes",TRUE
+"2017",4,90,"pommes",TRUE
+"2018",4,90,"dextro",TRUE
+"2019",4,90,"lait poudre",TRUE
+"2020",4,91,"eau",TRUE
+"2021",4,91,"pates",TRUE
+"2022",4,91,"bolo",TRUE
+"2023",4,91,"soda",TRUE
+"2024",4,91,"chocololat",TRUE
+"2025",4,91,"tomates",TRUE
+"2026",4,91,"lait poudre",TRUE
+"2027",4,92,"pates",TRUE
+"2028",4,92,"bolo",TRUE
+"2029",4,92,"poires",TRUE
+"2030",4,92,"vin rouge",TRUE
+"2031",4,92,"tomates",TRUE
+"2032",4,92,"lait poudre",TRUE
+"2033",4,93,"langes",TRUE
+"2034",4,93,"pommes",TRUE
+"2035",4,93,"chocololat",TRUE
+"2036",4,94,"pates",TRUE
+"2037",4,94,"bolo",TRUE
+"2038",4,94,"langes",TRUE
+"2039",4,94,"vin rouge",TRUE
+"2040",4,94,"biere",TRUE
+"2041",4,94,"chocololat",TRUE
+"2042",4,95,"poires",TRUE
+"2043",4,96,"eau",TRUE
+"2044",4,96,"pommes",TRUE
+"2045",4,96,"chocololat",TRUE
+"2046",4,96,"dextro",TRUE
+"2047",4,97,"eau",TRUE
+"2048",4,97,"pates",TRUE
+"2049",4,97,"pommes",TRUE
+"2050",4,97,"biere",TRUE
+"2051",4,97,"soda",TRUE
+"2052",4,98,"eau",TRUE
+"2053",4,98,"bolo",TRUE
+"2054",4,98,"langes",TRUE
+"2055",4,98,"pommes",TRUE
+"2056",4,98,"soda",TRUE
+"2057",4,98,"chocololat",TRUE
+"2058",4,98,"lait poudre",TRUE
+"2059",4,99,"eau",TRUE
+"2060",4,99,"biere",TRUE
+"2061",4,99,"dextro",TRUE
+"2062",4,99,"cure-dents",TRUE
+"2063",4,100,"eau",TRUE
+"2064",4,100,"pates",TRUE
+"2065",4,100,"bolo",TRUE
+"2066",4,100,"vin rouge",TRUE
+"2067",4,100,"chocololat",TRUE
+"2068",4,100,"lait poudre",TRUE
+"2069",5,1,"pates",TRUE
+"2070",5,1,"vin rouge",TRUE
+"2071",5,1,"chocololat",TRUE
+"2072",5,1,"serviette",TRUE
+"2073",5,1,"tomates",TRUE
+"2074",5,2,"pates",TRUE
+"2075",5,2,"bolo",TRUE
+"2076",5,2,"langes",TRUE
+"2077",5,2,"chocololat",TRUE
+"2078",5,2,"tomates",TRUE
+"2079",5,3,"eau",TRUE
+"2080",5,3,"pates",TRUE
+"2081",5,3,"pommes",TRUE
+"2082",5,3,"poires",TRUE
+"2083",5,3,"vin rouge",TRUE
+"2084",5,3,"soda",TRUE
+"2085",5,3,"chocololat",TRUE
+"2086",5,3,"serviette",TRUE
+"2087",5,3,"dextro",TRUE
+"2088",5,3,"tomates",TRUE
+"2089",5,4,"eau",TRUE
+"2090",5,4,"poires",TRUE
+"2091",5,4,"dextro",TRUE
+"2092",5,5,"pommes",TRUE
+"2093",5,6,"pates",TRUE
+"2094",5,6,"bolo",TRUE
+"2095",5,6,"vin rouge",TRUE
+"2096",5,6,"chocololat",TRUE
+"2097",5,7,"eau",TRUE
+"2098",5,7,"pates",TRUE
+"2099",5,7,"pommes",TRUE
+"2100",5,7,"soda",TRUE
+"2101",5,7,"dextro",TRUE
+"2102",5,7,"olives",TRUE
+"2103",5,7,"tomates",TRUE
+"2104",5,7,"lait poudre",TRUE
+"2105",5,8,"soda",TRUE
+"2106",5,8,"chocololat",TRUE
+"2107",5,9,"langes",TRUE
+"2108",5,9,"chocololat",TRUE
+"2109",5,9,"olives",TRUE
+"2110",5,9,"cure-dents",TRUE
+"2111",5,10,"pates",TRUE
+"2112",5,10,"bolo",TRUE
+"2113",5,10,"langes",TRUE
+"2114",5,10,"pommes",TRUE
+"2115",5,10,"biere",TRUE
+"2116",5,10,"soda",TRUE
+"2117",5,10,"chocololat",TRUE
+"2118",5,10,"olives",TRUE
+"2119",5,10,"cure-dents",TRUE
+"2120",5,10,"tomates",TRUE
+"2121",5,10,"lait poudre",TRUE
+"2122",5,11,"langes",TRUE
+"2123",5,11,"chocololat",TRUE
+"2124",5,11,"serviette",TRUE
+"2125",5,11,"olives",TRUE
+"2126",5,11,"cure-dents",TRUE
+"2127",5,11,"lait poudre",TRUE
+"2128",5,12,"eau",TRUE
+"2129",5,12,"pates",TRUE
+"2130",5,12,"bolo",TRUE
+"2131",5,12,"langes",TRUE
+"2132",5,12,"vin rouge",TRUE
+"2133",5,12,"chocololat",TRUE
+"2134",5,13,"biere",TRUE
+"2135",5,14,"vin rouge",TRUE
+"2136",5,14,"chocololat",TRUE
+"2137",5,15,"eau",TRUE
+"2138",5,15,"pates",TRUE
+"2139",5,15,"langes",TRUE
+"2140",5,15,"pommes",TRUE
+"2141",5,15,"chocololat",TRUE
+"2142",5,15,"tomates",TRUE
+"2143",5,15,"lait poudre",TRUE
+"2144",5,16,"eau",TRUE
+"2145",5,16,"pates",TRUE
+"2146",5,16,"poires",TRUE
+"2147",5,16,"dextro",TRUE
+"2148",5,16,"tomates",TRUE
+"2149",5,17,"langes",TRUE
+"2150",5,17,"pommes",TRUE
+"2151",5,17,"soda",TRUE
+"2152",5,17,"chocololat",TRUE
+"2153",5,17,"olives",TRUE
+"2154",5,17,"lait poudre",TRUE
+"2155",5,18,"pates",TRUE
+"2156",5,18,"poires",TRUE
+"2157",5,18,"tomates",TRUE
+"2158",5,19,"eau",TRUE
+"2159",5,19,"pates",TRUE
+"2160",5,19,"biere",TRUE
+"2161",5,19,"chocololat",TRUE
+"2162",5,19,"dextro",TRUE
+"2163",5,20,"eau",TRUE
+"2164",5,20,"pates",TRUE
+"2165",5,20,"bolo",TRUE
+"2166",5,20,"pommes",TRUE
+"2167",5,20,"chocololat",TRUE
+"2168",5,20,"lait poudre",TRUE
+"2169",5,21,"eau",TRUE
+"2170",5,21,"pates",TRUE
+"2171",5,21,"bolo",TRUE
+"2172",5,21,"langes",TRUE
+"2173",5,21,"soda",TRUE
+"2174",5,21,"chocololat",TRUE
+"2175",5,21,"lait poudre",TRUE
+"2176",5,23,"pommes",TRUE
+"2177",5,23,"vin rouge",TRUE
+"2178",5,23,"chocololat",TRUE
+"2179",5,23,"serviette",TRUE
+"2180",5,23,"olives",TRUE
+"2181",5,24,"pommes",TRUE
+"2182",5,24,"serviette",TRUE
+"2183",5,25,"eau",TRUE
+"2184",5,25,"pates",TRUE
+"2185",5,25,"bolo",TRUE
+"2186",5,25,"langes",TRUE
+"2187",5,25,"pommes",TRUE
+"2188",5,25,"vin rouge",TRUE
+"2189",5,25,"chocololat",TRUE
+"2190",5,25,"tomates",TRUE
+"2191",5,25,"lait poudre",TRUE
+"2192",5,26,"poires",TRUE
+"2193",5,26,"biere",TRUE
+"2194",5,26,"chocololat",TRUE
+"2195",5,27,"soda",TRUE
+"2196",5,27,"chocololat",TRUE
+"2197",5,27,"serviette",TRUE
+"2198",5,28,"poires",TRUE
+"2199",5,28,"biere",TRUE
+"2200",5,28,"chocololat",TRUE
+"2201",5,28,"olives",TRUE
+"2202",5,28,"tomates",TRUE
+"2203",5,29,"eau",TRUE
+"2204",5,29,"pates",TRUE
+"2205",5,29,"langes",TRUE
+"2206",5,29,"serviette",TRUE
+"2207",5,29,"dextro",TRUE
+"2208",5,30,"eau",TRUE
+"2209",5,30,"pates",TRUE
+"2210",5,30,"langes",TRUE
+"2211",5,30,"pommes",TRUE
+"2212",5,30,"soda",TRUE
+"2213",5,30,"chocololat",TRUE
+"2214",5,30,"dextro",TRUE
+"2215",5,30,"olives",TRUE
+"2216",5,30,"tomates",TRUE
+"2217",5,31,"eau",TRUE
+"2218",5,31,"soda",TRUE
+"2219",5,31,"tomates",TRUE
+"2220",5,32,"eau",TRUE
+"2221",5,32,"vin rouge",TRUE
+"2222",5,32,"soda",TRUE
+"2223",5,32,"serviette",TRUE
+"2224",5,32,"dextro",TRUE
+"2225",5,32,"tomates",TRUE
+"2226",5,33,"pates",TRUE
+"2227",5,33,"bolo",TRUE
+"2228",5,33,"pommes",TRUE
+"2229",5,33,"chocololat",TRUE
+"2230",5,33,"tomates",TRUE
+"2231",5,34,"eau",TRUE
+"2232",5,34,"dextro",TRUE
+"2233",5,34,"olives",TRUE
+"2234",5,35,"pates",TRUE
+"2235",5,35,"langes",TRUE
+"2236",5,35,"pommes",TRUE
+"2237",5,35,"soda",TRUE
+"2238",5,35,"chocololat",TRUE
+"2239",5,35,"tomates",TRUE
+"2240",5,35,"lait poudre",TRUE
+"2241",5,36,"pates",TRUE
+"2242",5,36,"bolo",TRUE
+"2243",5,36,"pommes",TRUE
+"2244",5,36,"biere",TRUE
+"2245",5,36,"soda",TRUE
+"2246",5,36,"chocololat",TRUE
+"2247",5,36,"lait poudre",TRUE
+"2248",5,37,"eau",TRUE
+"2249",5,37,"pates",TRUE
+"2250",5,37,"pommes",TRUE
+"2251",5,37,"poires",TRUE
+"2252",5,37,"biere",TRUE
+"2253",5,37,"soda",TRUE
+"2254",5,37,"olives",TRUE
+"2255",5,37,"tomates",TRUE
+"2256",5,38,"pates",TRUE
+"2257",5,38,"biere",TRUE
+"2258",5,38,"soda",TRUE
+"2259",5,38,"chocololat",TRUE
+"2260",5,38,"olives",TRUE
+"2261",5,39,"chocololat",TRUE
+"2262",5,40,"langes",TRUE
+"2263",5,40,"soda",TRUE
+"2264",5,40,"chocololat",TRUE
+"2265",5,40,"serviette",TRUE
+"2266",5,40,"tomates",TRUE
+"2267",5,41,"vin rouge",TRUE
+"2268",5,41,"chocololat",TRUE
+"2269",5,42,"soda",TRUE
+"2270",5,43,"chocololat",TRUE
+"2271",5,44,"pates",TRUE
+"2272",5,44,"vin rouge",TRUE
+"2273",5,44,"olives",TRUE
+"2274",5,44,"tomates",TRUE
+"2275",5,45,"langes",TRUE
+"2276",5,45,"pommes",TRUE
+"2277",5,45,"vin rouge",TRUE
+"2278",5,45,"chocololat",TRUE
+"2279",5,45,"lait poudre",TRUE
+"2280",5,46,"eau",TRUE
+"2281",5,46,"langes",TRUE
+"2282",5,46,"pommes",TRUE
+"2283",5,46,"chocololat",TRUE
+"2284",5,46,"dextro",TRUE
+"2285",5,46,"olives",TRUE
+"2286",5,46,"tomates",TRUE
+"2287",5,46,"lait poudre",TRUE
+"2288",5,47,"bolo",TRUE
+"2289",5,47,"pommes",TRUE
+"2290",5,47,"vin rouge",TRUE
+"2291",5,47,"chocololat",TRUE
+"2292",5,48,"eau",TRUE
+"2293",5,48,"pates",TRUE
+"2294",5,48,"bolo",TRUE
+"2295",5,48,"pommes",TRUE
+"2296",5,48,"vin rouge",TRUE
+"2297",5,48,"chocololat",TRUE
+"2298",5,49,"bolo",TRUE
+"2299",5,49,"chocololat",TRUE
+"2300",5,49,"serviette",TRUE
+"2301",5,50,"eau",TRUE
+"2302",5,50,"pates",TRUE
+"2303",5,50,"chocololat",TRUE
+"2304",5,50,"olives",TRUE
+"2305",5,50,"cure-dents",TRUE
+"2306",5,51,"eau",TRUE
+"2307",5,51,"pates",TRUE
+"2308",5,51,"poires",TRUE
+"2309",5,52,"pates",TRUE
+"2310",5,52,"bolo",TRUE
+"2311",5,52,"biere",TRUE
+"2312",5,53,"eau",TRUE
+"2313",5,53,"pates",TRUE
+"2314",5,53,"langes",TRUE
+"2315",5,53,"pommes",TRUE
+"2316",5,53,"vin rouge",TRUE
+"2317",5,53,"chocololat",TRUE
+"2318",5,53,"tomates",TRUE
+"2319",5,53,"lait poudre",TRUE
+"2320",5,54,"eau",TRUE
+"2321",5,54,"pates",TRUE
+"2322",5,54,"poires",TRUE
+"2323",5,54,"biere",TRUE
+"2324",5,54,"soda",TRUE
+"2325",5,54,"dextro",TRUE
+"2326",5,54,"tomates",TRUE
+"2327",5,55,"biere",TRUE
+"2328",5,56,"biere",TRUE
+"2329",5,56,"chocololat",TRUE
+"2330",5,57,"eau",TRUE
+"2331",5,57,"bolo",TRUE
+"2332",5,57,"langes",TRUE
+"2333",5,57,"chocololat",TRUE
+"2334",5,57,"olives",TRUE
+"2335",5,57,"lait poudre",TRUE
+"2336",5,58,"eau",TRUE
+"2337",5,58,"olives",TRUE
+"2338",5,59,"eau",TRUE
+"2339",5,59,"pates",TRUE
+"2340",5,59,"langes",TRUE
+"2341",5,59,"pommes",TRUE
+"2342",5,59,"soda",TRUE
+"2343",5,59,"chocololat",TRUE
+"2344",5,59,"dextro",TRUE
+"2345",5,59,"olives",TRUE
+"2346",5,59,"tomates",TRUE
+"2347",5,60,"eau",TRUE
+"2348",5,60,"pates",TRUE
+"2349",5,60,"pommes",TRUE
+"2350",5,60,"poires",TRUE
+"2351",5,60,"biere",TRUE
+"2352",5,60,"dextro",TRUE
+"2353",5,61,"soda",TRUE
+"2354",5,61,"chocololat",TRUE
+"2355",5,61,"olives",TRUE
+"2356",5,62,"eau",TRUE
+"2357",5,62,"soda",TRUE
+"2358",5,62,"olives",TRUE
+"2359",5,63,"eau",TRUE
+"2360",5,63,"vin rouge",TRUE
+"2361",5,63,"olives",TRUE
+"2362",5,63,"tomates",TRUE
+"2363",5,64,"eau",TRUE
+"2364",5,64,"pates",TRUE
+"2365",5,64,"langes",TRUE
+"2366",5,64,"pommes",TRUE
+"2367",5,64,"chocololat",TRUE
+"2368",5,64,"tomates",TRUE
+"2369",5,64,"lait poudre",TRUE
+"2370",5,65,"pates",TRUE
+"2371",5,65,"langes",TRUE
+"2372",5,65,"vin rouge",TRUE
+"2373",5,65,"soda",TRUE
+"2374",5,65,"chocololat",TRUE
+"2375",5,65,"lait poudre",TRUE
+"2376",5,66,"eau",TRUE
+"2377",5,66,"pommes",TRUE
+"2378",5,66,"dextro",TRUE
+"2379",5,66,"olives",TRUE
+"2380",5,67,"biere",TRUE
+"2381",5,67,"soda",TRUE
+"2382",5,67,"chocololat",TRUE
+"2383",5,67,"olives",TRUE
+"2384",5,68,"eau",TRUE
+"2385",5,68,"biere",TRUE
+"2386",5,68,"soda",TRUE
+"2387",5,69,"pates",TRUE
+"2388",5,69,"bolo",TRUE
+"2389",5,69,"langes",TRUE
+"2390",5,69,"pommes",TRUE
+"2391",5,69,"soda",TRUE
+"2392",5,69,"chocololat",TRUE
+"2393",5,69,"olives",TRUE
+"2394",5,70,"pates",TRUE
+"2395",5,70,"dextro",TRUE
+"2396",5,70,"tomates",TRUE
+"2397",5,71,"biere",TRUE
+"2398",5,71,"soda",TRUE
+"2399",5,72,"pommes",TRUE
+"2400",5,72,"tomates",TRUE
+"2401",5,73,"eau",TRUE
+"2402",5,73,"pates",TRUE
+"2403",5,73,"langes",TRUE
+"2404",5,73,"poires",TRUE
+"2405",5,73,"olives",TRUE
+"2406",5,73,"cure-dents",TRUE
+"2407",5,73,"lait poudre",TRUE
+"2408",5,74,"eau",TRUE
+"2409",5,74,"pates",TRUE
+"2410",5,74,"bolo",TRUE
+"2411",5,74,"langes",TRUE
+"2412",5,74,"pommes",TRUE
+"2413",5,74,"dextro",TRUE
+"2414",5,74,"olives",TRUE
+"2415",5,74,"tomates",TRUE
+"2416",5,74,"lait poudre",TRUE
+"2417",5,75,"langes",TRUE
+"2418",5,75,"pommes",TRUE
+"2419",5,75,"vin rouge",TRUE
+"2420",5,75,"biere",TRUE
+"2421",5,75,"soda",TRUE
+"2422",5,75,"chocololat",TRUE
+"2423",5,75,"tomates",TRUE
+"2424",5,76,"eau",TRUE
+"2425",5,76,"pates",TRUE
+"2426",5,76,"vin rouge",TRUE
+"2427",5,76,"chocololat",TRUE
+"2428",5,76,"tomates",TRUE
+"2429",5,76,"lait poudre",TRUE
+"2430",5,77,"eau",TRUE
+"2431",5,77,"pates",TRUE
+"2432",5,77,"langes",TRUE
+"2433",5,77,"pommes",TRUE
+"2434",5,77,"soda",TRUE
+"2435",5,77,"chocololat",TRUE
+"2436",5,77,"serviette",TRUE
+"2437",5,77,"dextro",TRUE
+"2438",5,77,"olives",TRUE
+"2439",5,77,"lait poudre",TRUE
+"2440",5,78,"pates",TRUE
+"2441",5,78,"chocololat",TRUE
+"2442",5,78,"olives",TRUE
+"2443",5,78,"tomates",TRUE
+"2444",5,79,"eau",TRUE
+"2445",5,79,"langes",TRUE
+"2446",5,79,"pommes",TRUE
+"2447",5,79,"soda",TRUE
+"2448",5,79,"chocololat",TRUE
+"2449",5,79,"serviette",TRUE
+"2450",5,79,"dextro",TRUE
+"2451",5,79,"lait poudre",TRUE
+"2452",5,80,"langes",TRUE
+"2453",5,80,"pommes",TRUE
+"2454",5,80,"soda",TRUE
+"2455",5,80,"chocololat",TRUE
+"2456",5,80,"olives",TRUE
+"2457",5,80,"lait poudre",TRUE
+"2458",5,81,"bolo",TRUE
+"2459",5,81,"langes",TRUE
+"2460",5,81,"vin rouge",TRUE
+"2461",5,81,"chocololat",TRUE
+"2462",5,81,"lait poudre",TRUE
+"2463",5,82,"eau",TRUE
+"2464",5,82,"pates",TRUE
+"2465",5,82,"pommes",TRUE
+"2466",5,82,"soda",TRUE
+"2467",5,82,"chocololat",TRUE
+"2468",5,82,"dextro",TRUE
+"2469",5,82,"olives",TRUE
+"2470",5,82,"tomates",TRUE
+"2471",5,83,"eau",TRUE
+"2472",5,83,"pommes",TRUE
+"2473",5,83,"olives",TRUE
+"2474",5,84,"eau",TRUE
+"2475",5,84,"pates",TRUE
+"2476",5,84,"langes",TRUE
+"2477",5,84,"pommes",TRUE
+"2478",5,84,"poires",TRUE
+"2479",5,84,"biere",TRUE
+"2480",5,84,"serviette",TRUE
+"2481",5,84,"lait poudre",TRUE
+"2482",5,85,"pommes",TRUE
+"2483",5,85,"chocololat",TRUE
+"2484",5,85,"olives",TRUE
+"2485",5,85,"tomates",TRUE
+"2486",5,86,"vin rouge",TRUE
+"2487",5,86,"soda",TRUE
+"2488",5,86,"chocololat",TRUE
+"2489",5,86,"olives",TRUE
+"2490",5,86,"lait poudre",TRUE
+"2491",5,87,"eau",TRUE
+"2492",5,87,"soda",TRUE
+"2493",5,87,"serviette",TRUE
+"2494",5,87,"olives",TRUE
+"2495",5,87,"cure-dents",TRUE
+"2496",5,87,"tomates",TRUE
+"2497",5,88,"eau",TRUE
+"2498",5,88,"pates",TRUE
+"2499",5,88,"pommes",TRUE
+"2500",5,88,"chocololat",TRUE
+"2501",5,88,"serviette",TRUE
+"2502",5,88,"dextro",TRUE
+"2503",5,88,"lait poudre",TRUE
+"2504",5,89,"eau",TRUE
+"2505",5,89,"pates",TRUE
+"2506",5,89,"langes",TRUE
+"2507",5,89,"lait poudre",TRUE
+"2508",5,90,"eau",TRUE
+"2509",5,90,"pates",TRUE
+"2510",5,90,"bolo",TRUE
+"2511",5,90,"langes",TRUE
+"2512",5,90,"poires",TRUE
+"2513",5,90,"soda",TRUE
+"2514",5,90,"chocololat",TRUE
+"2515",5,90,"lait poudre",TRUE
+"2516",5,91,"eau",TRUE
+"2517",5,91,"pates",TRUE
+"2518",5,91,"bolo",TRUE
+"2519",5,91,"soda",TRUE
+"2520",5,91,"chocololat",TRUE
+"2521",5,91,"olives",TRUE
+"2522",5,91,"tomates",TRUE
+"2523",5,91,"lait poudre",TRUE
+"2524",5,92,"pates",TRUE
+"2525",5,92,"langes",TRUE
+"2526",5,92,"pommes",TRUE
+"2527",5,92,"poires",TRUE
+"2528",5,92,"vin rouge",TRUE
+"2529",5,92,"tomates",TRUE
+"2530",5,92,"lait poudre",TRUE
+"2531",5,93,"eau",TRUE
+"2532",5,93,"langes",TRUE
+"2533",5,93,"cure-dents",TRUE
+"2534",5,94,"pates",TRUE
+"2535",5,94,"bolo",TRUE
+"2536",5,94,"langes",TRUE
+"2537",5,94,"vin rouge",TRUE
+"2538",5,94,"soda",TRUE
+"2539",5,94,"chocololat",TRUE
+"2540",5,94,"lait poudre",TRUE
+"2541",5,95,"biere",TRUE
+"2542",5,95,"soda",TRUE
+"2543",5,95,"chocololat",TRUE
+"2544",5,95,"serviette",TRUE
+"2545",5,95,"olives",TRUE
+"2546",5,95,"tomates",TRUE
+"2547",5,96,"eau",TRUE
+"2548",5,96,"pates",TRUE
+"2549",5,96,"pommes",TRUE
+"2550",5,96,"biere",TRUE
+"2551",5,96,"chocololat",TRUE
+"2552",5,96,"serviette",TRUE
+"2553",5,97,"eau",TRUE
+"2554",5,97,"pommes",TRUE
+"2555",5,97,"biere",TRUE
+"2556",5,97,"chocololat",TRUE
+"2557",5,97,"olives",TRUE
+"2558",5,97,"cure-dents",TRUE
+"2559",5,98,"pates",TRUE
+"2560",5,98,"langes",TRUE
+"2561",5,98,"pommes",TRUE
+"2562",5,98,"soda",TRUE
+"2563",5,98,"chocololat",TRUE
+"2564",5,98,"tomates",TRUE
+"2565",5,98,"lait poudre",TRUE
+"2566",5,99,"eau",TRUE
+"2567",5,99,"pommes",TRUE
+"2568",5,99,"biere",TRUE
+"2569",5,99,"dextro",TRUE
+"2570",5,99,"olives",TRUE
+"2571",5,99,"cure-dents",TRUE
+"2572",5,100,"langes",TRUE
+"2573",5,100,"soda",TRUE
+"2574",5,100,"chocololat",TRUE
+"2575",6,1,"poires",TRUE
+"2576",6,1,"vin rouge",TRUE
+"2577",6,1,"chocololat",TRUE
+"2578",6,1,"tomates",TRUE
+"2579",6,2,"eau",TRUE
+"2580",6,2,"pates",TRUE
+"2581",6,2,"soda",TRUE
+"2582",6,2,"chocololat",TRUE
+"2583",6,3,"eau",TRUE
+"2584",6,3,"pates",TRUE
+"2585",6,3,"biere",TRUE
+"2586",6,3,"dextro",TRUE
+"2587",6,3,"olives",TRUE
+"2588",6,3,"tomates",TRUE
+"2589",6,4,"eau",TRUE
+"2590",6,4,"biere",TRUE
+"2591",6,4,"cure-dents",TRUE
+"2592",6,5,"pates",TRUE
+"2593",6,5,"biere",TRUE
+"2594",6,5,"chocololat",TRUE
+"2595",6,5,"dextro",TRUE
+"2596",6,5,"cure-dents",TRUE
+"2597",6,5,"tomates",TRUE
+"2598",6,6,"vin rouge",TRUE
+"2599",6,6,"serviette",TRUE
+"2600",6,7,"eau",TRUE
+"2601",6,7,"langes",TRUE
+"2602",6,7,"pommes",TRUE
+"2603",6,7,"tomates",TRUE
+"2604",6,7,"lait poudre",TRUE
+"2605",6,8,"biere",TRUE
+"2606",6,8,"soda",TRUE
+"2607",6,8,"chocololat",TRUE
+"2608",6,9,"eau",TRUE
+"2609",6,9,"pates",TRUE
+"2610",6,9,"bolo",TRUE
+"2611",6,9,"langes",TRUE
+"2612",6,9,"pommes",TRUE
+"2613",6,9,"poires",TRUE
+"2614",6,9,"chocololat",TRUE
+"2615",6,9,"tomates",TRUE
+"2616",6,9,"lait poudre",TRUE
+"2617",6,10,"langes",TRUE
+"2618",6,10,"pommes",TRUE
+"2619",6,10,"vin rouge",TRUE
+"2620",6,10,"soda",TRUE
+"2621",6,10,"chocololat",TRUE
+"2622",6,10,"olives",TRUE
+"2623",6,10,"tomates",TRUE
+"2624",6,11,"pates",TRUE
+"2625",6,11,"langes",TRUE
+"2626",6,11,"pommes",TRUE
+"2627",6,12,"pates",TRUE
+"2628",6,12,"bolo",TRUE
+"2629",6,12,"langes",TRUE
+"2630",6,12,"pommes",TRUE
+"2631",6,14,"biere",TRUE
+"2632",6,14,"soda",TRUE
+"2633",6,15,"eau",TRUE
+"2634",6,15,"pates",TRUE
+"2635",6,15,"bolo",TRUE
+"2636",6,15,"langes",TRUE
+"2637",6,15,"pommes",TRUE
+"2638",6,15,"soda",TRUE
+"2639",6,15,"chocololat",TRUE
+"2640",6,15,"dextro",TRUE
+"2641",6,15,"tomates",TRUE
+"2642",6,16,"eau",TRUE
+"2643",6,16,"pates",TRUE
+"2644",6,16,"poires",TRUE
+"2645",6,16,"vin rouge",TRUE
+"2646",6,16,"soda",TRUE
+"2647",6,16,"chocololat",TRUE
+"2648",6,17,"pates",TRUE
+"2649",6,17,"langes",TRUE
+"2650",6,17,"pommes",TRUE
+"2651",6,17,"olives",TRUE
+"2652",6,17,"tomates",TRUE
+"2653",6,17,"lait poudre",TRUE
+"2654",6,18,"pommes",TRUE
+"2655",6,18,"dextro",TRUE
+"2656",6,18,"olives",TRUE
+"2657",6,18,"tomates",TRUE
+"2658",6,19,"eau",TRUE
+"2659",6,19,"pates",TRUE
+"2660",6,19,"pommes",TRUE
+"2661",6,19,"soda",TRUE
+"2662",6,19,"dextro",TRUE
+"2663",6,19,"tomates",TRUE
+"2664",6,20,"pates",TRUE
+"2665",6,20,"langes",TRUE
+"2666",6,20,"vin rouge",TRUE
+"2667",6,20,"chocololat",TRUE
+"2668",6,20,"serviette",TRUE
+"2669",6,20,"olives",TRUE
+"2670",6,20,"tomates",TRUE
+"2671",6,20,"lait poudre",TRUE
+"2672",6,21,"eau",TRUE
+"2673",6,21,"bolo",TRUE
+"2674",6,21,"langes",TRUE
+"2675",6,21,"pommes",TRUE
+"2676",6,21,"soda",TRUE
+"2677",6,21,"olives",TRUE
+"2678",6,21,"cure-dents",TRUE
+"2679",6,21,"lait poudre",TRUE
+"2680",6,22,"chocololat",TRUE
+"2681",6,23,"vin rouge",TRUE
+"2682",6,23,"chocololat",TRUE
+"2683",6,24,"pommes",TRUE
+"2684",6,24,"serviette",TRUE
+"2685",6,24,"olives",TRUE
+"2686",6,24,"cure-dents",TRUE
+"2687",6,25,"pates",TRUE
+"2688",6,25,"bolo",TRUE
+"2689",6,25,"vin rouge",TRUE
+"2690",6,25,"chocololat",TRUE
+"2691",6,25,"tomates",TRUE
+"2692",6,25,"lait poudre",TRUE
+"2693",6,26,"poires",TRUE
+"2694",6,26,"biere",TRUE
+"2695",6,26,"soda",TRUE
+"2696",6,26,"olives",TRUE
+"2697",6,27,"vin rouge",TRUE
+"2698",6,27,"serviette",TRUE
+"2699",6,28,"pates",TRUE
+"2700",6,28,"bolo",TRUE
+"2701",6,29,"eau",TRUE
+"2702",6,29,"pates",TRUE
+"2703",6,29,"langes",TRUE
+"2704",6,29,"pommes",TRUE
+"2705",6,29,"soda",TRUE
+"2706",6,29,"chocololat",TRUE
+"2707",6,29,"serviette",TRUE
+"2708",6,29,"dextro",TRUE
+"2709",6,29,"olives",TRUE
+"2710",6,29,"tomates",TRUE
+"2711",6,30,"pates",TRUE
+"2712",6,30,"bolo",TRUE
+"2713",6,30,"langes",TRUE
+"2714",6,30,"pommes",TRUE
+"2715",6,30,"poires",TRUE
+"2716",6,30,"soda",TRUE
+"2717",6,30,"chocololat",TRUE
+"2718",6,30,"dextro",TRUE
+"2719",6,30,"olives",TRUE
+"2720",6,30,"lait poudre",TRUE
+"2721",6,31,"serviette",TRUE
+"2722",6,32,"pommes",TRUE
+"2723",6,32,"soda",TRUE
+"2724",6,32,"tomates",TRUE
+"2725",6,33,"langes",TRUE
+"2726",6,33,"pommes",TRUE
+"2727",6,33,"poires",TRUE
+"2728",6,33,"soda",TRUE
+"2729",6,33,"chocololat",TRUE
+"2730",6,33,"olives",TRUE
+"2731",6,33,"cure-dents",TRUE
+"2732",6,33,"lait poudre",TRUE
+"2733",6,34,"eau",TRUE
+"2734",6,34,"pates",TRUE
+"2735",6,34,"biere",TRUE
+"2736",6,34,"dextro",TRUE
+"2737",6,34,"olives",TRUE
+"2738",6,34,"cure-dents",TRUE
+"2739",6,35,"pates",TRUE
+"2740",6,35,"bolo",TRUE
+"2741",6,35,"langes",TRUE
+"2742",6,35,"poires",TRUE
+"2743",6,35,"chocololat",TRUE
+"2744",6,35,"serviette",TRUE
+"2745",6,35,"tomates",TRUE
+"2746",6,35,"lait poudre",TRUE
+"2747",6,36,"pates",TRUE
+"2748",6,36,"langes",TRUE
+"2749",6,36,"chocololat",TRUE
+"2750",6,36,"serviette",TRUE
+"2751",6,36,"lait poudre",TRUE
+"2752",6,37,"dextro",TRUE
+"2753",6,38,"chocololat",TRUE
+"2754",6,39,"eau",TRUE
+"2755",6,39,"vin rouge",TRUE
+"2756",6,39,"biere",TRUE
+"2757",6,39,"chocololat",TRUE
+"2758",6,39,"serviette",TRUE
+"2759",6,40,"lait poudre",TRUE
+"2760",6,41,"pates",TRUE
+"2761",6,41,"bolo",TRUE
+"2762",6,41,"vin rouge",TRUE
+"2763",6,41,"tomates",TRUE
+"2764",6,42,"chocololat",TRUE
+"2765",6,42,"serviette",TRUE
+"2766",6,43,"pates",TRUE
+"2767",6,43,"vin rouge",TRUE
+"2768",6,43,"chocololat",TRUE
+"2769",6,43,"tomates",TRUE
+"2770",6,44,"serviette",TRUE
+"2771",6,45,"eau",TRUE
+"2772",6,45,"pates",TRUE
+"2773",6,45,"langes",TRUE
+"2774",6,45,"pommes",TRUE
+"2775",6,45,"poires",TRUE
+"2776",6,45,"vin rouge",TRUE
+"2777",6,45,"chocololat",TRUE
+"2778",6,45,"tomates",TRUE
+"2779",6,45,"lait poudre",TRUE
+"2780",6,46,"eau",TRUE
+"2781",6,46,"pates",TRUE
+"2782",6,46,"pommes",TRUE
+"2783",6,46,"dextro",TRUE
+"2784",6,46,"olives",TRUE
+"2785",6,46,"tomates",TRUE
+"2786",6,46,"lait poudre",TRUE
+"2787",6,47,"eau",TRUE
+"2788",6,47,"pates",TRUE
+"2789",6,47,"langes",TRUE
+"2790",6,47,"pommes",TRUE
+"2791",6,47,"vin rouge",TRUE
+"2792",6,47,"biere",TRUE
+"2793",6,47,"chocololat",TRUE
+"2794",6,47,"serviette",TRUE
+"2795",6,47,"tomates",TRUE
+"2796",6,48,"eau",TRUE
+"2797",6,48,"pates",TRUE
+"2798",6,48,"bolo",TRUE
+"2799",6,48,"langes",TRUE
+"2800",6,48,"vin rouge",TRUE
+"2801",6,48,"soda",TRUE
+"2802",6,48,"chocololat",TRUE
+"2803",6,48,"lait poudre",TRUE
+"2804",6,49,"pommes",TRUE
+"2805",6,49,"chocololat",TRUE
+"2806",6,49,"tomates",TRUE
+"2807",6,49,"lait poudre",TRUE
+"2808",6,50,"pates",TRUE
+"2809",6,50,"langes",TRUE
+"2810",6,50,"pommes",TRUE
+"2811",6,50,"soda",TRUE
+"2812",6,50,"dextro",TRUE
+"2813",6,50,"lait poudre",TRUE
+"2814",6,51,"eau",TRUE
+"2815",6,51,"pates",TRUE
+"2816",6,51,"biere",TRUE
+"2817",6,51,"soda",TRUE
+"2818",6,52,"poires",TRUE
+"2819",6,52,"chocololat",TRUE
+"2820",6,53,"pates",TRUE
+"2821",6,53,"pommes",TRUE
+"2822",6,53,"dextro",TRUE
+"2823",6,53,"tomates",TRUE
+"2824",6,53,"lait poudre",TRUE
+"2825",6,54,"pommes",TRUE
+"2826",6,54,"soda",TRUE
+"2827",6,54,"chocololat",TRUE
+"2828",6,54,"olives",TRUE
+"2829",6,54,"cure-dents",TRUE
+"2830",6,55,"pates",TRUE
+"2831",6,55,"chocololat",TRUE
+"2832",6,55,"serviette",TRUE
+"2833",6,55,"olives",TRUE
+"2834",6,56,"chocololat",TRUE
+"2835",6,57,"eau",TRUE
+"2836",6,57,"pates",TRUE
+"2837",6,57,"bolo",TRUE
+"2838",6,57,"langes",TRUE
+"2839",6,57,"pommes",TRUE
+"2840",6,57,"vin rouge",TRUE
+"2841",6,57,"chocololat",TRUE
+"2842",6,57,"lait poudre",TRUE
+"2843",6,58,"pates",TRUE
+"2844",6,58,"poires",TRUE
+"2845",6,58,"soda",TRUE
+"2846",6,58,"dextro",TRUE
+"2847",6,58,"olives",TRUE
+"2848",6,58,"tomates",TRUE
+"2849",6,59,"eau",TRUE
+"2850",6,59,"pates",TRUE
+"2851",6,59,"langes",TRUE
+"2852",6,59,"pommes",TRUE
+"2853",6,59,"soda",TRUE
+"2854",6,59,"tomates",TRUE
+"2855",6,59,"lait poudre",TRUE
+"2856",6,60,"poires",TRUE
+"2857",6,60,"soda",TRUE
+"2858",6,60,"olives",TRUE
+"2859",6,61,"biere",TRUE
+"2860",6,61,"olives",TRUE
+"2861",6,62,"chocololat",TRUE
+"2862",6,63,"pates",TRUE
+"2863",6,63,"vin rouge",TRUE
+"2864",6,63,"olives",TRUE
+"2865",6,63,"cure-dents",TRUE
+"2866",6,63,"tomates",TRUE
+"2867",6,64,"pates",TRUE
+"2868",6,64,"langes",TRUE
+"2869",6,64,"soda",TRUE
+"2870",6,64,"chocololat",TRUE
+"2871",6,64,"serviette",TRUE
+"2872",6,64,"dextro",TRUE
+"2873",6,64,"tomates",TRUE
+"2874",6,64,"lait poudre",TRUE
+"2875",6,65,"eau",TRUE
+"2876",6,65,"pates",TRUE
+"2877",6,65,"langes",TRUE
+"2878",6,65,"soda",TRUE
+"2879",6,65,"chocololat",TRUE
+"2880",6,65,"olives",TRUE
+"2881",6,65,"lait poudre",TRUE
+"2882",6,66,"biere",TRUE
+"2883",6,66,"soda",TRUE
+"2884",6,66,"chocololat",TRUE
+"2885",6,66,"serviette",TRUE
+"2886",6,66,"dextro",TRUE
+"2887",6,66,"olives",TRUE
+"2888",6,67,"vin rouge",TRUE
+"2889",6,67,"soda",TRUE
+"2890",6,67,"chocololat",TRUE
+"2891",6,67,"serviette",TRUE
+"2892",6,68,"eau",TRUE
+"2893",6,68,"pates",TRUE
+"2894",6,68,"pommes",TRUE
+"2895",6,68,"soda",TRUE
+"2896",6,69,"soda",TRUE
+"2897",6,69,"chocololat",TRUE
+"2898",6,69,"olives",TRUE
+"2899",6,70,"eau",TRUE
+"2900",6,70,"pates",TRUE
+"2901",6,70,"poires",TRUE
+"2902",6,70,"chocololat",TRUE
+"2903",6,70,"dextro",TRUE
+"2904",6,70,"cure-dents",TRUE
+"2905",6,71,"chocololat",TRUE
+"2906",6,72,"eau",TRUE
+"2907",6,72,"biere",TRUE
+"2908",6,72,"chocololat",TRUE
+"2909",6,72,"serviette",TRUE
+"2910",6,73,"eau",TRUE
+"2911",6,73,"pates",TRUE
+"2912",6,73,"langes",TRUE
+"2913",6,73,"pommes",TRUE
+"2914",6,73,"poires",TRUE
+"2915",6,73,"soda",TRUE
+"2916",6,73,"chocololat",TRUE
+"2917",6,73,"lait poudre",TRUE
+"2918",6,74,"eau",TRUE
+"2919",6,74,"pates",TRUE
+"2920",6,74,"langes",TRUE
+"2921",6,74,"pommes",TRUE
+"2922",6,74,"soda",TRUE
+"2923",6,74,"chocololat",TRUE
+"2924",6,74,"serviette",TRUE
+"2925",6,74,"tomates",TRUE
+"2926",6,75,"pates",TRUE
+"2927",6,75,"bolo",TRUE
+"2928",6,75,"langes",TRUE
+"2929",6,75,"chocololat",TRUE
+"2930",6,76,"eau",TRUE
+"2931",6,76,"langes",TRUE
+"2932",6,76,"pommes",TRUE
+"2933",6,76,"soda",TRUE
+"2934",6,76,"chocololat",TRUE
+"2935",6,76,"lait poudre",TRUE
+"2936",6,77,"pates",TRUE
+"2937",6,77,"bolo",TRUE
+"2938",6,77,"langes",TRUE
+"2939",6,77,"chocololat",TRUE
+"2940",6,77,"dextro",TRUE
+"2941",6,77,"tomates",TRUE
+"2942",6,78,"pates",TRUE
+"2943",6,78,"chocololat",TRUE
+"2944",6,78,"tomates",TRUE
+"2945",6,79,"eau",TRUE
+"2946",6,79,"pates",TRUE
+"2947",6,79,"langes",TRUE
+"2948",6,79,"pommes",TRUE
+"2949",6,79,"poires",TRUE
+"2950",6,79,"chocololat",TRUE
+"2951",6,79,"dextro",TRUE
+"2952",6,79,"tomates",TRUE
+"2953",6,79,"lait poudre",TRUE
+"2954",6,80,"pates",TRUE
+"2955",6,80,"langes",TRUE
+"2956",6,80,"pommes",TRUE
+"2957",6,80,"soda",TRUE
+"2958",6,80,"chocololat",TRUE
+"2959",6,80,"tomates",TRUE
+"2960",6,80,"lait poudre",TRUE
+"2961",6,81,"bolo",TRUE
+"2962",6,81,"langes",TRUE
+"2963",6,81,"soda",TRUE
+"2964",6,81,"chocololat",TRUE
+"2965",6,81,"olives",TRUE
+"2966",6,81,"lait poudre",TRUE
+"2967",6,82,"chocololat",TRUE
+"2968",6,82,"tomates",TRUE
+"2969",6,83,"biere",TRUE
+"2970",6,83,"dextro",TRUE
+"2971",6,83,"tomates",TRUE
+"2972",6,84,"pates",TRUE
+"2973",6,84,"langes",TRUE
+"2974",6,84,"pommes",TRUE
+"2975",6,84,"vin rouge",TRUE
+"2976",6,84,"biere",TRUE
+"2977",6,84,"chocololat",TRUE
+"2978",6,84,"olives",TRUE
+"2979",6,84,"lait poudre",TRUE
+"2980",6,85,"bolo",TRUE
+"2981",6,85,"vin rouge",TRUE
+"2982",6,85,"serviette",TRUE
+"2983",6,86,"pates",TRUE
+"2984",6,86,"vin rouge",TRUE
+"2985",6,86,"chocololat",TRUE
+"2986",6,86,"serviette",TRUE
+"2987",6,86,"olives",TRUE
+"2988",6,86,"lait poudre",TRUE
+"2989",6,87,"vin rouge",TRUE
+"2990",6,87,"chocololat",TRUE
+"2991",6,88,"eau",TRUE
+"2992",6,88,"pates",TRUE
+"2993",6,88,"bolo",TRUE
+"2994",6,88,"langes",TRUE
+"2995",6,88,"chocololat",TRUE
+"2996",6,88,"olives",TRUE
+"2997",6,88,"tomates",TRUE
+"2998",6,88,"lait poudre",TRUE
+"2999",6,89,"eau",TRUE
+"3000",6,89,"pates",TRUE
+"3001",6,89,"langes",TRUE
+"3002",6,89,"pommes",TRUE
+"3003",6,89,"poires",TRUE
+"3004",6,89,"serviette",TRUE
+"3005",6,89,"dextro",TRUE
+"3006",6,90,"eau",TRUE
+"3007",6,90,"pates",TRUE
+"3008",6,90,"langes",TRUE
+"3009",6,90,"olives",TRUE
+"3010",6,90,"tomates",TRUE
+"3011",6,90,"lait poudre",TRUE
+"3012",6,91,"pates",TRUE
+"3013",6,91,"langes",TRUE
+"3014",6,91,"pommes",TRUE
+"3015",6,91,"vin rouge",TRUE
+"3016",6,91,"chocololat",TRUE
+"3017",6,91,"serviette",TRUE
+"3018",6,91,"olives",TRUE
+"3019",6,91,"cure-dents",TRUE
+"3020",6,91,"tomates",TRUE
+"3021",6,92,"eau",TRUE
+"3022",6,92,"pates",TRUE
+"3023",6,92,"langes",TRUE
+"3024",6,92,"dextro",TRUE
+"3025",6,92,"tomates",TRUE
+"3026",6,93,"eau",TRUE
+"3027",6,93,"pates",TRUE
+"3028",6,93,"bolo",TRUE
+"3029",6,93,"langes",TRUE
+"3030",6,93,"soda",TRUE
+"3031",6,93,"chocololat",TRUE
+"3032",6,93,"serviette",TRUE
+"3033",6,93,"tomates",TRUE
+"3034",6,94,"pates",TRUE
+"3035",6,94,"chocololat",TRUE
+"3036",6,94,"cure-dents",TRUE
+"3037",6,96,"poires",TRUE
+"3038",6,96,"biere",TRUE
+"3039",6,96,"serviette",TRUE
+"3040",6,96,"dextro",TRUE
+"3041",6,97,"eau",TRUE
+"3042",6,97,"pommes",TRUE
+"3043",6,97,"dextro",TRUE
+"3044",6,98,"bolo",TRUE
+"3045",6,98,"langes",TRUE
+"3046",6,98,"chocololat",TRUE
+"3047",6,98,"olives",TRUE
+"3048",6,98,"cure-dents",TRUE
+"3049",6,98,"lait poudre",TRUE
+"3050",6,99,"eau",TRUE
+"3051",6,99,"pates",TRUE
+"3052",6,99,"pommes",TRUE
+"3053",6,99,"poires",TRUE
+"3054",6,99,"biere",TRUE
+"3055",6,99,"soda",TRUE
+"3056",6,99,"dextro",TRUE
+"3057",6,99,"olives",TRUE
+"3058",6,99,"tomates",TRUE
+"3059",6,100,"pates",TRUE
+"3060",6,100,"pommes",TRUE
+"3061",6,100,"tomates",TRUE
+"3062",6,100,"lait poudre",TRUE
+"3063",7,1,"pates",TRUE
+"3064",7,1,"vin rouge",TRUE
+"3065",7,1,"biere",TRUE
+"3066",7,1,"olives",TRUE
+"3067",7,1,"cure-dents",TRUE
+"3068",7,1,"tomates",TRUE
+"3069",7,2,"bolo",TRUE
+"3070",7,2,"langes",TRUE
+"3071",7,2,"pommes",TRUE
+"3072",7,2,"soda",TRUE
+"3073",7,2,"chocololat",TRUE
+"3074",7,3,"eau",TRUE
+"3075",7,3,"pommes",TRUE
+"3076",7,3,"poires",TRUE
+"3077",7,3,"serviette",TRUE
+"3078",7,3,"olives",TRUE
+"3079",7,3,"cure-dents",TRUE
+"3080",7,4,"pommes",TRUE
+"3081",7,4,"biere",TRUE
+"3082",7,4,"dextro",TRUE
+"3083",7,5,"pates",TRUE
+"3084",7,5,"soda",TRUE
+"3085",7,5,"olives",TRUE
+"3086",7,6,"pates",TRUE
+"3087",7,6,"biere",TRUE
+"3088",7,6,"serviette",TRUE
+"3089",7,6,"olives",TRUE
+"3090",7,7,"eau",TRUE
+"3091",7,7,"pates",TRUE
+"3092",7,7,"langes",TRUE
+"3093",7,7,"pommes",TRUE
+"3094",7,7,"soda",TRUE
+"3095",7,7,"chocololat",TRUE
+"3096",7,7,"serviette",TRUE
+"3097",7,7,"tomates",TRUE
+"3098",7,8,"biere",TRUE
+"3099",7,8,"soda",TRUE
+"3100",7,8,"chocololat",TRUE
+"3101",7,9,"eau",TRUE
+"3102",7,9,"pates",TRUE
+"3103",7,9,"bolo",TRUE
+"3104",7,9,"langes",TRUE
+"3105",7,9,"vin rouge",TRUE
+"3106",7,9,"chocololat",TRUE
+"3107",7,9,"serviette",TRUE
+"3108",7,9,"lait poudre",TRUE
+"3109",7,10,"langes",TRUE
+"3110",7,10,"chocololat",TRUE
+"3111",7,10,"tomates",TRUE
+"3112",7,11,"langes",TRUE
+"3113",7,11,"pommes",TRUE
+"3114",7,11,"poires",TRUE
+"3115",7,11,"vin rouge",TRUE
+"3116",7,11,"chocololat",TRUE
+"3117",7,11,"lait poudre",TRUE
+"3118",7,12,"bolo",TRUE
+"3119",7,12,"langes",TRUE
+"3120",7,12,"chocololat",TRUE
+"3121",7,13,"serviette",TRUE
+"3122",7,14,"vin rouge",TRUE
+"3123",7,14,"biere",TRUE
+"3124",7,14,"soda",TRUE
+"3125",7,14,"chocololat",TRUE
+"3126",7,15,"eau",TRUE
+"3127",7,15,"pates",TRUE
+"3128",7,15,"pommes",TRUE
+"3129",7,15,"poires",TRUE
+"3130",7,15,"chocololat",TRUE
+"3131",7,15,"tomates",TRUE
+"3132",7,15,"lait poudre",TRUE
+"3133",7,16,"pates",TRUE
+"3134",7,16,"soda",TRUE
+"3135",7,16,"dextro",TRUE
+"3136",7,17,"eau",TRUE
+"3137",7,17,"bolo",TRUE
+"3138",7,17,"langes",TRUE
+"3139",7,17,"soda",TRUE
+"3140",7,17,"chocololat",TRUE
+"3141",7,17,"lait poudre",TRUE
+"3142",7,18,"pates",TRUE
+"3143",7,18,"dextro",TRUE
+"3144",7,18,"tomates",TRUE
+"3145",7,19,"eau",TRUE
+"3146",7,19,"pates",TRUE
+"3147",7,19,"poires",TRUE
+"3148",7,19,"chocololat",TRUE
+"3149",7,19,"olives",TRUE
+"3150",7,20,"eau",TRUE
+"3151",7,20,"pommes",TRUE
+"3152",7,20,"chocololat",TRUE
+"3153",7,20,"lait poudre",TRUE
+"3154",7,21,"eau",TRUE
+"3155",7,21,"langes",TRUE
+"3156",7,21,"vin rouge",TRUE
+"3157",7,21,"biere",TRUE
+"3158",7,21,"soda",TRUE
+"3159",7,21,"chocololat",TRUE
+"3160",7,21,"olives",TRUE
+"3161",7,21,"lait poudre",TRUE
+"3162",7,22,"biere",TRUE
+"3163",7,22,"chocololat",TRUE
+"3164",7,22,"olives",TRUE
+"3165",7,23,"eau",TRUE
+"3166",7,23,"biere",TRUE
+"3167",7,23,"tomates",TRUE
+"3168",7,24,"eau",TRUE
+"3169",7,24,"pates",TRUE
+"3170",7,24,"vin rouge",TRUE
+"3171",7,24,"soda",TRUE
+"3172",7,24,"serviette",TRUE
+"3173",7,25,"eau",TRUE
+"3174",7,25,"pates",TRUE
+"3175",7,25,"langes",TRUE
+"3176",7,25,"biere",TRUE
+"3177",7,25,"tomates",TRUE
+"3178",7,26,"pates",TRUE
+"3179",7,26,"pommes",TRUE
+"3180",7,26,"poires",TRUE
+"3181",7,26,"vin rouge",TRUE
+"3182",7,27,"chocololat",TRUE
+"3183",7,27,"serviette",TRUE
+"3184",7,28,"pates",TRUE
+"3185",7,28,"tomates",TRUE
+"3186",7,29,"eau",TRUE
+"3187",7,29,"langes",TRUE
+"3188",7,29,"chocololat",TRUE
+"3189",7,29,"serviette",TRUE
+"3190",7,29,"dextro",TRUE
+"3191",7,29,"olives",TRUE
+"3192",7,29,"tomates",TRUE
+"3193",7,29,"lait poudre",TRUE
+"3194",7,30,"eau",TRUE
+"3195",7,30,"pates",TRUE
+"3196",7,30,"langes",TRUE
+"3197",7,30,"poires",TRUE
+"3198",7,30,"biere",TRUE
+"3199",7,30,"soda",TRUE
+"3200",7,30,"olives",TRUE
+"3201",7,30,"lait poudre",TRUE
+"3202",7,31,"pates",TRUE
+"3203",7,31,"olives",TRUE
+"3204",7,32,"soda",TRUE
+"3205",7,33,"eau",TRUE
+"3206",7,33,"pates",TRUE
+"3207",7,33,"bolo",TRUE
+"3208",7,33,"pommes",TRUE
+"3209",7,33,"chocololat",TRUE
+"3210",7,34,"eau",TRUE
+"3211",7,34,"pates",TRUE
+"3212",7,34,"pommes",TRUE
+"3213",7,34,"dextro",TRUE
+"3214",7,34,"olives",TRUE
+"3215",7,34,"cure-dents",TRUE
+"3216",7,35,"pates",TRUE
+"3217",7,35,"bolo",TRUE
+"3218",7,35,"langes",TRUE
+"3219",7,35,"pommes",TRUE
+"3220",7,35,"chocololat",TRUE
+"3221",7,35,"lait poudre",TRUE
+"3222",7,36,"eau",TRUE
+"3223",7,36,"pates",TRUE
+"3224",7,36,"bolo",TRUE
+"3225",7,36,"langes",TRUE
+"3226",7,36,"pommes",TRUE
+"3227",7,36,"soda",TRUE
+"3228",7,36,"chocololat",TRUE
+"3229",7,36,"serviette",TRUE
+"3230",7,36,"olives",TRUE
+"3231",7,36,"cure-dents",TRUE
+"3232",7,36,"lait poudre",TRUE
+"3233",7,37,"eau",TRUE
+"3234",7,37,"pates",TRUE
+"3235",7,37,"pommes",TRUE
+"3236",7,37,"poires",TRUE
+"3237",7,38,"pommes",TRUE
+"3238",7,38,"poires",TRUE
+"3239",7,38,"biere",TRUE
+"3240",7,38,"chocololat",TRUE
+"3241",7,38,"dextro",TRUE
+"3242",7,39,"biere",TRUE
+"3243",7,39,"chocololat",TRUE
+"3244",7,40,"pates",TRUE
+"3245",7,40,"bolo",TRUE
+"3246",7,40,"langes",TRUE
+"3247",7,40,"pommes",TRUE
+"3248",7,40,"poires",TRUE
+"3249",7,40,"chocololat",TRUE
+"3250",7,40,"serviette",TRUE
+"3251",7,40,"olives",TRUE
+"3252",7,41,"pates",TRUE
+"3253",7,41,"bolo",TRUE
+"3254",7,41,"chocololat",TRUE
+"3255",7,41,"olives",TRUE
+"3256",7,41,"tomates",TRUE
+"3257",7,42,"poires",TRUE
+"3258",7,42,"vin rouge",TRUE
+"3259",7,42,"serviette",TRUE
+"3260",7,42,"olives",TRUE
+"3261",7,43,"serviette",TRUE
+"3262",7,43,"olives",TRUE
+"3263",7,43,"cure-dents",TRUE
+"3264",7,44,"pates",TRUE
+"3265",7,44,"chocololat",TRUE
+"3266",7,44,"serviette",TRUE
+"3267",7,44,"tomates",TRUE
+"3268",7,45,"pates",TRUE
+"3269",7,45,"langes",TRUE
+"3270",7,45,"chocololat",TRUE
+"3271",7,45,"lait poudre",TRUE
+"3272",7,46,"pates",TRUE
+"3273",7,46,"langes",TRUE
+"3274",7,46,"pommes",TRUE
+"3275",7,46,"olives",TRUE
+"3276",7,46,"cure-dents",TRUE
+"3277",7,46,"tomates",TRUE
+"3278",7,46,"lait poudre",TRUE
+"3279",7,47,"pates",TRUE
+"3280",7,47,"bolo",TRUE
+"3281",7,47,"langes",TRUE
+"3282",7,47,"pommes",TRUE
+"3283",7,47,"soda",TRUE
+"3284",7,47,"chocololat",TRUE
+"3285",7,47,"olives",TRUE
+"3286",7,47,"lait poudre",TRUE
+"3287",7,48,"pates",TRUE
+"3288",7,48,"bolo",TRUE
+"3289",7,48,"langes",TRUE
+"3290",7,48,"chocololat",TRUE
+"3291",7,48,"olives",TRUE
+"3292",7,48,"tomates",TRUE
+"3293",7,48,"lait poudre",TRUE
+"3294",7,49,"langes",TRUE
+"3295",7,49,"pommes",TRUE
+"3296",7,49,"vin rouge",TRUE
+"3297",7,49,"biere",TRUE
+"3298",7,49,"soda",TRUE
+"3299",7,49,"serviette",TRUE
+"3300",7,49,"olives",TRUE
+"3301",7,50,"pates",TRUE
+"3302",7,50,"langes",TRUE
+"3303",7,50,"poires",TRUE
+"3304",7,50,"soda",TRUE
+"3305",7,50,"chocololat",TRUE
+"3306",7,50,"dextro",TRUE
+"3307",7,50,"olives",TRUE
+"3308",7,50,"lait poudre",TRUE
+"3309",7,51,"eau",TRUE
+"3310",7,51,"chocololat",TRUE
+"3311",7,51,"dextro",TRUE
+"3312",7,52,"pates",TRUE
+"3313",7,52,"tomates",TRUE
+"3314",7,53,"eau",TRUE
+"3315",7,53,"pates",TRUE
+"3316",7,53,"langes",TRUE
+"3317",7,53,"poires",TRUE
+"3318",7,53,"vin rouge",TRUE
+"3319",7,53,"chocololat",TRUE
+"3320",7,53,"serviette",TRUE
+"3321",7,53,"dextro",TRUE
+"3322",7,53,"olives",TRUE
+"3323",7,53,"tomates",TRUE
+"3324",7,53,"lait poudre",TRUE
+"3325",7,54,"eau",TRUE
+"3326",7,54,"poires",TRUE
+"3327",7,55,"vin rouge",TRUE
+"3328",7,55,"soda",TRUE
+"3329",7,55,"chocololat",TRUE
+"3330",7,56,"serviette",TRUE
+"3331",7,56,"olives",TRUE
+"3332",7,57,"pates",TRUE
+"3333",7,57,"bolo",TRUE
+"3334",7,57,"langes",TRUE
+"3335",7,57,"pommes",TRUE
+"3336",7,57,"chocololat",TRUE
+"3337",7,57,"olives",TRUE
+"3338",7,57,"tomates",TRUE
+"3339",7,57,"lait poudre",TRUE
+"3340",7,58,"dextro",TRUE
+"3341",7,59,"eau",TRUE
+"3342",7,59,"pates",TRUE
+"3343",7,59,"bolo",TRUE
+"3344",7,59,"pommes",TRUE
+"3345",7,59,"soda",TRUE
+"3346",7,59,"chocololat",TRUE
+"3347",7,59,"dextro",TRUE
+"3348",7,59,"lait poudre",TRUE
+"3349",7,60,"eau",TRUE
+"3350",7,60,"pommes",TRUE
+"3351",7,60,"vin rouge",TRUE
+"3352",7,60,"soda",TRUE
+"3353",7,60,"dextro",TRUE
+"3354",7,61,"soda",TRUE
+"3355",7,61,"olives",TRUE
+"3356",7,62,"pommes",TRUE
+"3357",7,62,"soda",TRUE
+"3358",7,62,"chocololat",TRUE
+"3359",7,62,"serviette",TRUE
+"3360",7,63,"eau",TRUE
+"3361",7,63,"olives",TRUE
+"3362",7,64,"eau",TRUE
+"3363",7,64,"pates",TRUE
+"3364",7,64,"langes",TRUE
+"3365",7,64,"pommes",TRUE
+"3366",7,64,"vin rouge",TRUE
+"3367",7,64,"chocololat",TRUE
+"3368",7,64,"dextro",TRUE
+"3369",7,64,"lait poudre",TRUE
+"3370",7,65,"pates",TRUE
+"3371",7,65,"langes",TRUE
+"3372",7,65,"pommes",TRUE
+"3373",7,65,"vin rouge",TRUE
+"3374",7,65,"chocololat",TRUE
+"3375",7,65,"olives",TRUE
+"3376",7,65,"tomates",TRUE
+"3377",7,65,"lait poudre",TRUE
+"3378",7,66,"poires",TRUE
+"3379",7,66,"soda",TRUE
+"3380",7,66,"serviette",TRUE
+"3381",7,66,"olives",TRUE
+"3382",7,66,"cure-dents",TRUE
+"3383",7,66,"tomates",TRUE
+"3384",7,67,"pates",TRUE
+"3385",7,67,"biere",TRUE
+"3386",7,67,"soda",TRUE
+"3387",7,67,"chocololat",TRUE
+"3388",7,67,"olives",TRUE
+"3389",7,68,"eau",TRUE
+"3390",7,68,"serviette",TRUE
+"3391",7,68,"dextro",TRUE
+"3392",7,68,"olives",TRUE
+"3393",7,68,"tomates",TRUE
+"3394",7,69,"pates",TRUE
+"3395",7,69,"bolo",TRUE
+"3396",7,69,"langes",TRUE
+"3397",7,69,"poires",TRUE
+"3398",7,69,"soda",TRUE
+"3399",7,69,"chocololat",TRUE
+"3400",7,70,"pates",TRUE
+"3401",7,70,"poires",TRUE
+"3402",7,70,"tomates",TRUE
+"3403",7,71,"bolo",TRUE
+"3404",7,71,"poires",TRUE
+"3405",7,71,"chocololat",TRUE
+"3406",7,72,"poires",TRUE
+"3407",7,72,"biere",TRUE
+"3408",7,73,"eau",TRUE
+"3409",7,73,"pates",TRUE
+"3410",7,73,"bolo",TRUE
+"3411",7,73,"langes",TRUE
+"3412",7,73,"pommes",TRUE
+"3413",7,73,"soda",TRUE
+"3414",7,73,"chocololat",TRUE
+"3415",7,73,"dextro",TRUE
+"3416",7,73,"tomates",TRUE
+"3417",7,73,"lait poudre",TRUE
+"3418",7,74,"eau",TRUE
+"3419",7,74,"pates",TRUE
+"3420",7,74,"pommes",TRUE
+"3421",7,74,"soda",TRUE
+"3422",7,74,"chocololat",TRUE
+"3423",7,74,"serviette",TRUE
+"3424",7,74,"olives",TRUE
+"3425",7,74,"lait poudre",TRUE
+"3426",7,75,"langes",TRUE
+"3427",7,75,"soda",TRUE
+"3428",7,75,"chocololat",TRUE
+"3429",7,75,"lait poudre",TRUE
+"3430",7,76,"pates",TRUE
+"3431",7,76,"bolo",TRUE
+"3432",7,76,"langes",TRUE
+"3433",7,76,"pommes",TRUE
+"3434",7,76,"dextro",TRUE
+"3435",7,76,"tomates",TRUE
+"3436",7,76,"lait poudre",TRUE
+"3437",7,77,"pates",TRUE
+"3438",7,77,"bolo",TRUE
+"3439",7,77,"langes",TRUE
+"3440",7,77,"soda",TRUE
+"3441",7,77,"dextro",TRUE
+"3442",7,77,"lait poudre",TRUE
+"3443",7,78,"serviette",TRUE
+"3444",7,78,"tomates",TRUE
+"3445",7,79,"pates",TRUE
+"3446",7,79,"langes",TRUE
+"3447",7,79,"soda",TRUE
+"3448",7,79,"chocololat",TRUE
+"3449",7,79,"olives",TRUE
+"3450",7,79,"tomates",TRUE
+"3451",7,79,"lait poudre",TRUE
+"3452",7,80,"langes",TRUE
+"3453",7,80,"pommes",TRUE
+"3454",7,80,"soda",TRUE
+"3455",7,80,"chocololat",TRUE
+"3456",7,80,"serviette",TRUE
+"3457",7,80,"tomates",TRUE
+"3458",7,80,"lait poudre",TRUE
+"3459",7,81,"eau",TRUE
+"3460",7,81,"pates",TRUE
+"3461",7,81,"langes",TRUE
+"3462",7,81,"soda",TRUE
+"3463",7,81,"chocololat",TRUE
+"3464",7,81,"olives",TRUE
+"3465",7,81,"tomates",TRUE
+"3466",7,81,"lait poudre",TRUE
+"3467",7,82,"eau",TRUE
+"3468",7,82,"pates",TRUE
+"3469",7,82,"dextro",TRUE
+"3470",7,82,"olives",TRUE
+"3471",7,82,"cure-dents",TRUE
+"3472",7,84,"pates",TRUE
+"3473",7,84,"bolo",TRUE
+"3474",7,84,"langes",TRUE
+"3475",7,84,"pommes",TRUE
+"3476",7,84,"soda",TRUE
+"3477",7,84,"chocololat",TRUE
+"3478",7,84,"olives",TRUE
+"3479",7,84,"lait poudre",TRUE
+"3480",7,85,"chocololat",TRUE
+"3481",7,86,"eau",TRUE
+"3482",7,86,"pates",TRUE
+"3483",7,86,"bolo",TRUE
+"3484",7,86,"pommes",TRUE
+"3485",7,86,"vin rouge",TRUE
+"3486",7,86,"lait poudre",TRUE
+"3487",7,87,"chocololat",TRUE
+"3488",7,88,"eau",TRUE
+"3489",7,88,"pates",TRUE
+"3490",7,88,"langes",TRUE
+"3491",7,88,"pommes",TRUE
+"3492",7,88,"soda",TRUE
+"3493",7,88,"chocololat",TRUE
+"3494",7,88,"dextro",TRUE
+"3495",7,88,"olives",TRUE
+"3496",7,89,"eau",TRUE
+"3497",7,89,"pates",TRUE
+"3498",7,89,"langes",TRUE
+"3499",7,89,"pommes",TRUE
+"3500",7,89,"biere",TRUE
+"3501",7,89,"soda",TRUE
+"3502",7,89,"chocololat",TRUE
+"3503",7,89,"serviette",TRUE
+"3504",7,89,"tomates",TRUE
+"3505",7,90,"eau",TRUE
+"3506",7,90,"pates",TRUE
+"3507",7,90,"bolo",TRUE
+"3508",7,90,"langes",TRUE
+"3509",7,90,"pommes",TRUE
+"3510",7,90,"soda",TRUE
+"3511",7,90,"chocololat",TRUE
+"3512",7,91,"pates",TRUE
+"3513",7,91,"langes",TRUE
+"3514",7,91,"vin rouge",TRUE
+"3515",7,91,"soda",TRUE
+"3516",7,91,"chocololat",TRUE
+"3517",7,92,"eau",TRUE
+"3518",7,92,"pates",TRUE
+"3519",7,92,"pommes",TRUE
+"3520",7,92,"dextro",TRUE
+"3521",7,92,"olives",TRUE
+"3522",7,92,"tomates",TRUE
+"3523",7,93,"pates",TRUE
+"3524",7,93,"langes",TRUE
+"3525",7,93,"chocololat",TRUE
+"3526",7,93,"tomates",TRUE
+"3527",7,93,"lait poudre",TRUE
+"3528",7,94,"langes",TRUE
+"3529",7,94,"vin rouge",TRUE
+"3530",7,94,"chocololat",TRUE
+"3531",7,95,"serviette",TRUE
+"3532",7,95,"olives",TRUE
+"3533",7,96,"biere",TRUE
+"3534",7,96,"soda",TRUE
+"3535",7,96,"olives",TRUE
+"3536",7,97,"eau",TRUE
+"3537",7,97,"pates",TRUE
+"3538",7,97,"biere",TRUE
+"3539",7,97,"serviette",TRUE
+"3540",7,98,"pates",TRUE
+"3541",7,98,"bolo",TRUE
+"3542",7,98,"langes",TRUE
+"3543",7,98,"pommes",TRUE
+"3544",7,98,"biere",TRUE
+"3545",7,98,"soda",TRUE
+"3546",7,98,"olives",TRUE
+"3547",7,98,"lait poudre",TRUE
+"3548",7,99,"vin rouge",TRUE
+"3549",7,99,"biere",TRUE
+"3550",7,99,"chocololat",TRUE
+"3551",7,99,"serviette",TRUE
+"3552",7,100,"pates",TRUE
+"3553",7,100,"bolo",TRUE
+"3554",7,100,"langes",TRUE
+"3555",7,100,"chocololat",TRUE
+"3556",7,100,"tomates",TRUE
+"3557",8,1,"pates",TRUE
+"3558",8,1,"vin rouge",TRUE
+"3559",8,1,"olives",TRUE
+"3560",8,2,"pommes",TRUE
+"3561",8,2,"poires",TRUE
+"3562",8,2,"vin rouge",TRUE
+"3563",8,2,"chocololat",TRUE
+"3564",8,2,"tomates",TRUE
+"3565",8,2,"lait poudre",TRUE
+"3566",8,3,"poires",TRUE
+"3567",8,3,"chocololat",TRUE
+"3568",8,3,"dextro",TRUE
+"3569",8,4,"eau",TRUE
+"3570",8,4,"biere",TRUE
+"3571",8,5,"eau",TRUE
+"3572",8,5,"pates",TRUE
+"3573",8,5,"biere",TRUE
+"3574",8,5,"soda",TRUE
+"3575",8,5,"tomates",TRUE
+"3576",8,6,"pates",TRUE
+"3577",8,6,"bolo",TRUE
+"3578",8,6,"soda",TRUE
+"3579",8,6,"serviette",TRUE
+"3580",8,6,"olives",TRUE
+"3581",8,7,"eau",TRUE
+"3582",8,7,"pates",TRUE
+"3583",8,7,"pommes",TRUE
+"3584",8,7,"poires",TRUE
+"3585",8,7,"soda",TRUE
+"3586",8,7,"chocololat",TRUE
+"3587",8,7,"dextro",TRUE
+"3588",8,7,"olives",TRUE
+"3589",8,7,"tomates",TRUE
+"3590",8,7,"lait poudre",TRUE
+"3591",8,8,"biere",TRUE
+"3592",8,8,"soda",TRUE
+"3593",8,8,"chocololat",TRUE
+"3594",8,9,"pates",TRUE
+"3595",8,9,"bolo",TRUE
+"3596",8,9,"langes",TRUE
+"3597",8,9,"pommes",TRUE
+"3598",8,9,"poires",TRUE
+"3599",8,9,"chocololat",TRUE
+"3600",8,9,"cure-dents",TRUE
+"3601",8,10,"pates",TRUE
+"3602",8,10,"bolo",TRUE
+"3603",8,10,"langes",TRUE
+"3604",8,10,"vin rouge",TRUE
+"3605",8,10,"soda",TRUE
+"3606",8,10,"chocololat",TRUE
+"3607",8,10,"olives",TRUE
+"3608",8,10,"lait poudre",TRUE
+"3609",8,11,"pates",TRUE
+"3610",8,11,"chocololat",TRUE
+"3611",8,11,"lait poudre",TRUE
+"3612",8,12,"pates",TRUE
+"3613",8,12,"poires",TRUE
+"3614",8,12,"biere",TRUE
+"3615",8,12,"soda",TRUE
+"3616",8,12,"chocololat",TRUE
+"3617",8,12,"tomates",TRUE
+"3618",8,12,"lait poudre",TRUE
+"3619",8,13,"biere",TRUE
+"3620",8,13,"chocololat",TRUE
+"3621",8,14,"soda",TRUE
+"3622",8,14,"chocololat",TRUE
+"3623",8,14,"olives",TRUE
+"3624",8,15,"pates",TRUE
+"3625",8,15,"langes",TRUE
+"3626",8,15,"pommes",TRUE
+"3627",8,15,"poires",TRUE
+"3628",8,15,"vin rouge",TRUE
+"3629",8,15,"serviette",TRUE
+"3630",8,15,"dextro",TRUE
+"3631",8,16,"biere",TRUE
+"3632",8,16,"chocololat",TRUE
+"3633",8,16,"dextro",TRUE
+"3634",8,17,"pates",TRUE
+"3635",8,17,"bolo",TRUE
+"3636",8,17,"pommes",TRUE
+"3637",8,17,"chocololat",TRUE
+"3638",8,17,"lait poudre",TRUE
+"3639",8,18,"pates",TRUE
+"3640",8,18,"chocololat",TRUE
+"3641",8,18,"serviette",TRUE
+"3642",8,18,"dextro",TRUE
+"3643",8,18,"tomates",TRUE
+"3644",8,19,"eau",TRUE
+"3645",8,19,"pates",TRUE
+"3646",8,19,"pommes",TRUE
+"3647",8,19,"dextro",TRUE
+"3648",8,20,"eau",TRUE
+"3649",8,20,"biere",TRUE
+"3650",8,20,"soda",TRUE
+"3651",8,20,"chocololat",TRUE
+"3652",8,20,"serviette",TRUE
+"3653",8,20,"olives",TRUE
+"3654",8,20,"lait poudre",TRUE
+"3655",8,21,"pates",TRUE
+"3656",8,21,"langes",TRUE
+"3657",8,21,"pommes",TRUE
+"3658",8,21,"biere",TRUE
+"3659",8,21,"soda",TRUE
+"3660",8,21,"chocololat",TRUE
+"3661",8,21,"olives",TRUE
+"3662",8,21,"lait poudre",TRUE
+"3663",8,22,"pates",TRUE
+"3664",8,22,"poires",TRUE
+"3665",8,22,"olives",TRUE
+"3666",8,22,"cure-dents",TRUE
+"3667",8,22,"tomates",TRUE
+"3668",8,23,"chocololat",TRUE
+"3669",8,24,"eau",TRUE
+"3670",8,24,"biere",TRUE
+"3671",8,24,"dextro",TRUE
+"3672",8,24,"olives",TRUE
+"3673",8,24,"cure-dents",TRUE
+"3674",8,24,"tomates",TRUE
+"3675",8,25,"pates",TRUE
+"3676",8,25,"bolo",TRUE
+"3677",8,25,"langes",TRUE
+"3678",8,25,"pommes",TRUE
+"3679",8,25,"biere",TRUE
+"3680",8,25,"chocololat",TRUE
+"3681",8,25,"olives",TRUE
+"3682",8,25,"tomates",TRUE
+"3683",8,25,"lait poudre",TRUE
+"3684",8,26,"vin rouge",TRUE
+"3685",8,26,"biere",TRUE
+"3686",8,26,"soda",TRUE
+"3687",8,26,"chocololat",TRUE
+"3688",8,26,"olives",TRUE
+"3689",8,28,"biere",TRUE
+"3690",8,28,"chocololat",TRUE
+"3691",8,29,"eau",TRUE
+"3692",8,29,"pates",TRUE
+"3693",8,29,"bolo",TRUE
+"3694",8,29,"langes",TRUE
+"3695",8,29,"pommes",TRUE
+"3696",8,29,"poires",TRUE
+"3697",8,29,"soda",TRUE
+"3698",8,29,"chocololat",TRUE
+"3699",8,29,"dextro",TRUE
+"3700",8,29,"tomates",TRUE
+"3701",8,29,"lait poudre",TRUE
+"3702",8,30,"eau",TRUE
+"3703",8,30,"pates",TRUE
+"3704",8,30,"langes",TRUE
+"3705",8,30,"soda",TRUE
+"3706",8,30,"chocololat",TRUE
+"3707",8,30,"dextro",TRUE
+"3708",8,30,"tomates",TRUE
+"3709",8,30,"lait poudre",TRUE
+"3710",8,31,"eau",TRUE
+"3711",8,31,"biere",TRUE
+"3712",8,31,"chocololat",TRUE
+"3713",8,31,"olives",TRUE
+"3714",8,32,"dextro",TRUE
+"3715",8,32,"tomates",TRUE
+"3716",8,33,"eau",TRUE
+"3717",8,33,"pates",TRUE
+"3718",8,33,"bolo",TRUE
+"3719",8,33,"langes",TRUE
+"3720",8,33,"vin rouge",TRUE
+"3721",8,33,"soda",TRUE
+"3722",8,33,"chocololat",TRUE
+"3723",8,33,"tomates",TRUE
+"3724",8,33,"lait poudre",TRUE
+"3725",8,34,"biere",TRUE
+"3726",8,34,"serviette",TRUE
+"3727",8,35,"pates",TRUE
+"3728",8,35,"langes",TRUE
+"3729",8,35,"soda",TRUE
+"3730",8,35,"chocololat",TRUE
+"3731",8,35,"olives",TRUE
+"3732",8,35,"tomates",TRUE
+"3733",8,35,"lait poudre",TRUE
+"3734",8,36,"pates",TRUE
+"3735",8,36,"langes",TRUE
+"3736",8,36,"soda",TRUE
+"3737",8,36,"chocololat",TRUE
+"3738",8,36,"olives",TRUE
+"3739",8,36,"cure-dents",TRUE
+"3740",8,36,"tomates",TRUE
+"3741",8,36,"lait poudre",TRUE
+"3742",8,37,"eau",TRUE
+"3743",8,37,"pates",TRUE
+"3744",8,37,"poires",TRUE
+"3745",8,37,"soda",TRUE
+"3746",8,37,"chocololat",TRUE
+"3747",8,37,"serviette",TRUE
+"3748",8,37,"dextro",TRUE
+"3749",8,37,"tomates",TRUE
+"3750",8,38,"eau",TRUE
+"3751",8,38,"pates",TRUE
+"3752",8,38,"pommes",TRUE
+"3753",8,38,"soda",TRUE
+"3754",8,39,"pates",TRUE
+"3755",8,39,"bolo",TRUE
+"3756",8,39,"chocololat",TRUE
+"3757",8,40,"pates",TRUE
+"3758",8,40,"bolo",TRUE
+"3759",8,40,"langes",TRUE
+"3760",8,40,"soda",TRUE
+"3761",8,40,"chocololat",TRUE
+"3762",8,41,"pates",TRUE
+"3763",8,41,"vin rouge",TRUE
+"3764",8,41,"chocololat",TRUE
+"3765",8,41,"tomates",TRUE
+"3766",8,42,"pates",TRUE
+"3767",8,42,"bolo",TRUE
+"3768",8,42,"soda",TRUE
+"3769",8,42,"olives",TRUE
+"3770",8,42,"cure-dents",TRUE
+"3771",8,43,"pates",TRUE
+"3772",8,43,"vin rouge",TRUE
+"3773",8,43,"chocololat",TRUE
+"3774",8,43,"serviette",TRUE
+"3775",8,43,"olives",TRUE
+"3776",8,43,"tomates",TRUE
+"3777",8,44,"vin rouge",TRUE
+"3778",8,44,"chocololat",TRUE
+"3779",8,45,"eau",TRUE
+"3780",8,45,"bolo",TRUE
+"3781",8,45,"langes",TRUE
+"3782",8,45,"pommes",TRUE
+"3783",8,45,"vin rouge",TRUE
+"3784",8,45,"chocololat",TRUE
+"3785",8,45,"lait poudre",TRUE
+"3786",8,46,"pates",TRUE
+"3787",8,46,"langes",TRUE
+"3788",8,46,"vin rouge",TRUE
+"3789",8,46,"soda",TRUE
+"3790",8,46,"chocololat",TRUE
+"3791",8,46,"dextro",TRUE
+"3792",8,46,"olives",TRUE
+"3793",8,46,"cure-dents",TRUE
+"3794",8,46,"tomates",TRUE
+"3795",8,47,"eau",TRUE
+"3796",8,47,"pates",TRUE
+"3797",8,47,"bolo",TRUE
+"3798",8,47,"langes",TRUE
+"3799",8,47,"vin rouge",TRUE
+"3800",8,47,"chocololat",TRUE
+"3801",8,47,"serviette",TRUE
+"3802",8,47,"olives",TRUE
+"3803",8,47,"cure-dents",TRUE
+"3804",8,47,"tomates",TRUE
+"3805",8,47,"lait poudre",TRUE
+"3806",8,48,"eau",TRUE
+"3807",8,48,"pates",TRUE
+"3808",8,48,"langes",TRUE
+"3809",8,48,"vin rouge",TRUE
+"3810",8,48,"serviette",TRUE
+"3811",8,49,"eau",TRUE
+"3812",8,49,"pates",TRUE
+"3813",8,49,"langes",TRUE
+"3814",8,49,"poires",TRUE
+"3815",8,49,"soda",TRUE
+"3816",8,49,"chocololat",TRUE
+"3817",8,49,"olives",TRUE
+"3818",8,49,"lait poudre",TRUE
+"3819",8,50,"pates",TRUE
+"3820",8,50,"bolo",TRUE
+"3821",8,50,"langes",TRUE
+"3822",8,50,"soda",TRUE
+"3823",8,50,"dextro",TRUE
+"3824",8,50,"lait poudre",TRUE
+"3825",8,51,"pates",TRUE
+"3826",8,51,"pommes",TRUE
+"3827",8,51,"chocololat",TRUE
+"3828",8,51,"dextro",TRUE
+"3829",8,52,"soda",TRUE
+"3830",8,52,"chocololat",TRUE
+"3831",8,52,"serviette",TRUE
+"3832",8,53,"eau",TRUE
+"3833",8,53,"pates",TRUE
+"3834",8,53,"langes",TRUE
+"3835",8,53,"pommes",TRUE
+"3836",8,53,"tomates",TRUE
+"3837",8,53,"lait poudre",TRUE
+"3838",8,54,"eau",TRUE
+"3839",8,54,"pates",TRUE
+"3840",8,54,"pommes",TRUE
+"3841",8,54,"biere",TRUE
+"3842",8,54,"chocololat",TRUE
+"3843",8,54,"dextro",TRUE
+"3844",8,54,"tomates",TRUE
+"3845",8,55,"bolo",TRUE
+"3846",8,55,"olives",TRUE
+"3847",8,55,"cure-dents",TRUE
+"3848",8,56,"biere",TRUE
+"3849",8,56,"soda",TRUE
+"3850",8,56,"olives",TRUE
+"3851",8,57,"pates",TRUE
+"3852",8,57,"bolo",TRUE
+"3853",8,57,"vin rouge",TRUE
+"3854",8,57,"soda",TRUE
+"3855",8,58,"eau",TRUE
+"3856",8,58,"pommes",TRUE
+"3857",8,58,"soda",TRUE
+"3858",8,58,"serviette",TRUE
+"3859",8,58,"dextro",TRUE
+"3860",8,58,"olives",TRUE
+"3861",8,59,"eau",TRUE
+"3862",8,59,"pates",TRUE
+"3863",8,59,"bolo",TRUE
+"3864",8,59,"langes",TRUE
+"3865",8,59,"pommes",TRUE
+"3866",8,59,"chocololat",TRUE
+"3867",8,59,"tomates",TRUE
+"3868",8,59,"lait poudre",TRUE
+"3869",8,60,"biere",TRUE
+"3870",8,60,"soda",TRUE
+"3871",8,60,"dextro",TRUE
+"3872",8,60,"tomates",TRUE
+"3873",8,61,"biere",TRUE
+"3874",8,61,"chocololat",TRUE
+"3875",8,62,"biere",TRUE
+"3876",8,62,"serviette",TRUE
+"3877",8,62,"olives",TRUE
+"3878",8,63,"eau",TRUE
+"3879",8,63,"pates",TRUE
+"3880",8,63,"biere",TRUE
+"3881",8,63,"dextro",TRUE
+"3882",8,64,"eau",TRUE
+"3883",8,64,"pates",TRUE
+"3884",8,64,"bolo",TRUE
+"3885",8,64,"langes",TRUE
+"3886",8,64,"chocololat",TRUE
+"3887",8,64,"dextro",TRUE
+"3888",8,64,"tomates",TRUE
+"3889",8,64,"lait poudre",TRUE
+"3890",8,65,"eau",TRUE
+"3891",8,65,"langes",TRUE
+"3892",8,65,"olives",TRUE
+"3893",8,65,"lait poudre",TRUE
+"3894",8,66,"eau",TRUE
+"3895",8,66,"pates",TRUE
+"3896",8,66,"poires",TRUE
+"3897",8,66,"tomates",TRUE
+"3898",8,67,"soda",TRUE
+"3899",8,67,"chocololat",TRUE
+"3900",8,67,"olives",TRUE
+"3901",8,68,"biere",TRUE
+"3902",8,68,"chocololat",TRUE
+"3903",8,68,"serviette",TRUE
+"3904",8,68,"dextro",TRUE
+"3905",8,68,"olives",TRUE
+"3906",8,68,"cure-dents",TRUE
+"3907",8,69,"eau",TRUE
+"3908",8,69,"langes",TRUE
+"3909",8,69,"pommes",TRUE
+"3910",8,69,"chocololat",TRUE
+"3911",8,70,"eau",TRUE
+"3912",8,70,"pommes",TRUE
+"3913",8,70,"biere",TRUE
+"3914",8,70,"olives",TRUE
+"3915",8,71,"biere",TRUE
+"3916",8,72,"biere",TRUE
+"3917",8,73,"eau",TRUE
+"3918",8,73,"langes",TRUE
+"3919",8,73,"pommes",TRUE
+"3920",8,73,"poires",TRUE
+"3921",8,73,"biere",TRUE
+"3922",8,73,"soda",TRUE
+"3923",8,73,"chocololat",TRUE
+"3924",8,73,"olives",TRUE
+"3925",8,73,"cure-dents",TRUE
+"3926",8,73,"lait poudre",TRUE
+"3927",8,74,"eau",TRUE
+"3928",8,74,"pates",TRUE
+"3929",8,74,"bolo",TRUE
+"3930",8,74,"langes",TRUE
+"3931",8,74,"pommes",TRUE
+"3932",8,74,"chocololat",TRUE
+"3933",8,74,"serviette",TRUE
+"3934",8,74,"dextro",TRUE
+"3935",8,74,"olives",TRUE
+"3936",8,74,"tomates",TRUE
+"3937",8,74,"lait poudre",TRUE
+"3938",8,75,"langes",TRUE
+"3939",8,75,"pommes",TRUE
+"3940",8,75,"chocololat",TRUE
+"3941",8,75,"lait poudre",TRUE
+"3942",8,76,"eau",TRUE
+"3943",8,76,"pates",TRUE
+"3944",8,76,"langes",TRUE
+"3945",8,76,"pommes",TRUE
+"3946",8,76,"vin rouge",TRUE
+"3947",8,76,"chocololat",TRUE
+"3948",8,76,"dextro",TRUE
+"3949",8,76,"olives",TRUE
+"3950",8,76,"cure-dents",TRUE
+"3951",8,76,"tomates",TRUE
+"3952",8,77,"eau",TRUE
+"3953",8,77,"pates",TRUE
+"3954",8,77,"bolo",TRUE
+"3955",8,77,"chocololat",TRUE
+"3956",8,77,"serviette",TRUE
+"3957",8,77,"dextro",TRUE
+"3958",8,77,"tomates",TRUE
+"3959",8,77,"lait poudre",TRUE
+"3960",8,79,"eau",TRUE
+"3961",8,79,"pates",TRUE
+"3962",8,79,"bolo",TRUE
+"3963",8,79,"poires",TRUE
+"3964",8,79,"chocololat",TRUE
+"3965",8,79,"serviette",TRUE
+"3966",8,79,"dextro",TRUE
+"3967",8,79,"tomates",TRUE
+"3968",8,79,"lait poudre",TRUE
+"3969",8,80,"pommes",TRUE
+"3970",8,80,"biere",TRUE
+"3971",8,80,"soda",TRUE
+"3972",8,80,"chocololat",TRUE
+"3973",8,80,"olives",TRUE
+"3974",8,81,"pates",TRUE
+"3975",8,81,"langes",TRUE
+"3976",8,81,"pommes",TRUE
+"3977",8,81,"chocololat",TRUE
+"3978",8,82,"eau",TRUE
+"3979",8,82,"pates",TRUE
+"3980",8,82,"pommes",TRUE
+"3981",8,82,"serviette",TRUE
+"3982",8,82,"dextro",TRUE
+"3983",8,82,"olives",TRUE
+"3984",8,83,"pates",TRUE
+"3985",8,83,"olives",TRUE
+"3986",8,83,"cure-dents",TRUE
+"3987",8,83,"tomates",TRUE
+"3988",8,84,"pates",TRUE
+"3989",8,84,"langes",TRUE
+"3990",8,84,"soda",TRUE
+"3991",8,84,"chocololat",TRUE
+"3992",8,84,"tomates",TRUE
+"3993",8,84,"lait poudre",TRUE
+"3994",8,85,"chocololat",TRUE
+"3995",8,85,"olives",TRUE
+"3996",8,86,"eau",TRUE
+"3997",8,86,"pates",TRUE
+"3998",8,86,"bolo",TRUE
+"3999",8,86,"langes",TRUE
+"4000",8,86,"pommes",TRUE
+"4001",8,86,"vin rouge",TRUE
+"4002",8,86,"chocololat",TRUE
+"4003",8,87,"tomates",TRUE
+"4004",8,88,"eau",TRUE
+"4005",8,88,"pates",TRUE
+"4006",8,88,"langes",TRUE
+"4007",8,88,"pommes",TRUE
+"4008",8,88,"soda",TRUE
+"4009",8,88,"serviette",TRUE
+"4010",8,88,"dextro",TRUE
+"4011",8,89,"eau",TRUE
+"4012",8,89,"pates",TRUE
+"4013",8,89,"langes",TRUE
+"4014",8,89,"pommes",TRUE
+"4015",8,89,"biere",TRUE
+"4016",8,89,"soda",TRUE
+"4017",8,89,"chocololat",TRUE
+"4018",8,89,"cure-dents",TRUE
+"4019",8,89,"tomates",TRUE
+"4020",8,90,"pates",TRUE
+"4021",8,90,"langes",TRUE
+"4022",8,90,"chocololat",TRUE
+"4023",8,90,"serviette",TRUE
+"4024",8,90,"dextro",TRUE
+"4025",8,90,"tomates",TRUE
+"4026",8,90,"lait poudre",TRUE
+"4027",8,91,"eau",TRUE
+"4028",8,91,"pates",TRUE
+"4029",8,91,"langes",TRUE
+"4030",8,91,"pommes",TRUE
+"4031",8,91,"soda",TRUE
+"4032",8,91,"chocololat",TRUE
+"4033",8,91,"lait poudre",TRUE
+"4034",8,92,"eau",TRUE
+"4035",8,92,"pates",TRUE
+"4036",8,92,"langes",TRUE
+"4037",8,92,"vin rouge",TRUE
+"4038",8,92,"chocololat",TRUE
+"4039",8,92,"lait poudre",TRUE
+"4040",8,93,"pates",TRUE
+"4041",8,93,"langes",TRUE
+"4042",8,93,"pommes",TRUE
+"4043",8,93,"vin rouge",TRUE
+"4044",8,93,"chocololat",TRUE
+"4045",8,93,"lait poudre",TRUE
+"4046",8,94,"eau",TRUE
+"4047",8,94,"pates",TRUE
+"4048",8,94,"bolo",TRUE
+"4049",8,94,"langes",TRUE
+"4050",8,94,"poires",TRUE
+"4051",8,94,"vin rouge",TRUE
+"4052",8,94,"chocololat",TRUE
+"4053",8,94,"serviette",TRUE
+"4054",8,94,"olives",TRUE
+"4055",8,94,"cure-dents",TRUE
+"4056",8,95,"vin rouge",TRUE
+"4057",8,95,"chocololat",TRUE
+"4058",8,96,"eau",TRUE
+"4059",8,96,"pommes",TRUE
+"4060",8,96,"biere",TRUE
+"4061",8,96,"chocololat",TRUE
+"4062",8,96,"serviette",TRUE
+"4063",8,96,"dextro",TRUE
+"4064",8,96,"olives",TRUE
+"4065",8,97,"eau",TRUE
+"4066",8,97,"pates",TRUE
+"4067",8,97,"pommes",TRUE
+"4068",8,97,"chocololat",TRUE
+"4069",8,97,"dextro",TRUE
+"4070",8,97,"olives",TRUE
+"4071",8,97,"tomates",TRUE
+"4072",8,98,"pates",TRUE
+"4073",8,98,"bolo",TRUE
+"4074",8,98,"vin rouge",TRUE
+"4075",8,98,"lait poudre",TRUE
+"4076",8,99,"pates",TRUE
+"4077",8,99,"pommes",TRUE
+"4078",8,99,"soda",TRUE
+"4079",8,99,"dextro",TRUE
+"4080",8,99,"tomates",TRUE
+"4081",8,100,"eau",TRUE
+"4082",8,100,"pates",TRUE
+"4083",8,100,"bolo",TRUE
+"4084",8,100,"langes",TRUE
+"4085",8,100,"vin rouge",TRUE
+"4086",8,100,"biere",TRUE
+"4087",8,100,"chocololat",TRUE
+"4088",8,100,"serviette",TRUE
+"4089",8,100,"olives",TRUE
+"4090",8,100,"lait poudre",TRUE
+"4091",9,1,"vin rouge",TRUE
+"4092",9,2,"poires",TRUE
+"4093",9,2,"vin rouge",TRUE
+"4094",9,2,"chocololat",TRUE
+"4095",9,2,"lait poudre",TRUE
+"4096",9,3,"eau",TRUE
+"4097",9,3,"pates",TRUE
+"4098",9,3,"pommes",TRUE
+"4099",9,3,"tomates",TRUE
+"4100",9,4,"eau",TRUE
+"4101",9,4,"pates",TRUE
+"4102",9,4,"vin rouge",TRUE
+"4103",9,4,"biere",TRUE
+"4104",9,4,"dextro",TRUE
+"4105",9,5,"pommes",TRUE
+"4106",9,5,"soda",TRUE
+"4107",9,5,"chocololat",TRUE
+"4108",9,5,"dextro",TRUE
+"4109",9,5,"olives",TRUE
+"4110",9,5,"cure-dents",TRUE
+"4111",9,5,"tomates",TRUE
+"4112",9,6,"vin rouge",TRUE
+"4113",9,6,"soda",TRUE
+"4114",9,7,"eau",TRUE
+"4115",9,7,"pates",TRUE
+"4116",9,7,"langes",TRUE
+"4117",9,7,"pommes",TRUE
+"4118",9,7,"dextro",TRUE
+"4119",9,7,"olives",TRUE
+"4120",9,7,"cure-dents",TRUE
+"4121",9,8,"soda",TRUE
+"4122",9,8,"chocololat",TRUE
+"4123",9,9,"pates",TRUE
+"4124",9,9,"poires",TRUE
+"4125",9,9,"chocololat",TRUE
+"4126",9,9,"tomates",TRUE
+"4127",9,9,"lait poudre",TRUE
+"4128",9,10,"langes",TRUE
+"4129",9,10,"vin rouge",TRUE
+"4130",9,10,"chocololat",TRUE
+"4131",9,10,"olives",TRUE
+"4132",9,10,"lait poudre",TRUE
+"4133",9,11,"pates",TRUE
+"4134",9,11,"langes",TRUE
+"4135",9,11,"pommes",TRUE
+"4136",9,11,"vin rouge",TRUE
+"4137",9,11,"chocololat",TRUE
+"4138",9,11,"tomates",TRUE
+"4139",9,11,"lait poudre",TRUE
+"4140",9,12,"eau",TRUE
+"4141",9,12,"pates",TRUE
+"4142",9,12,"bolo",TRUE
+"4143",9,12,"langes",TRUE
+"4144",9,12,"pommes",TRUE
+"4145",9,12,"poires",TRUE
+"4146",9,12,"vin rouge",TRUE
+"4147",9,12,"chocololat",TRUE
+"4148",9,12,"olives",TRUE
+"4149",9,12,"tomates",TRUE
+"4150",9,12,"lait poudre",TRUE
+"4151",9,13,"chocololat",TRUE
+"4152",9,13,"serviette",TRUE
+"4153",9,13,"olives",TRUE
+"4154",9,13,"cure-dents",TRUE
+"4155",9,14,"biere",TRUE
+"4156",9,14,"soda",TRUE
+"4157",9,14,"chocololat",TRUE
+"4158",9,15,"pates",TRUE
+"4159",9,15,"langes",TRUE
+"4160",9,15,"pommes",TRUE
+"4161",9,15,"soda",TRUE
+"4162",9,15,"dextro",TRUE
+"4163",9,15,"tomates",TRUE
+"4164",9,15,"lait poudre",TRUE
+"4165",9,16,"eau",TRUE
+"4166",9,16,"pates",TRUE
+"4167",9,16,"olives",TRUE
+"4168",9,16,"cure-dents",TRUE
+"4169",9,17,"langes",TRUE
+"4170",9,17,"chocololat",TRUE
+"4171",9,17,"lait poudre",TRUE
+"4172",9,18,"pates",TRUE
+"4173",9,18,"pommes",TRUE
+"4174",9,18,"poires",TRUE
+"4175",9,18,"serviette",TRUE
+"4176",9,18,"dextro",TRUE
+"4177",9,18,"tomates",TRUE
+"4178",9,19,"pates",TRUE
+"4179",9,19,"pommes",TRUE
+"4180",9,19,"poires",TRUE
+"4181",9,19,"chocololat",TRUE
+"4182",9,19,"serviette",TRUE
+"4183",9,19,"dextro",TRUE
+"4184",9,19,"tomates",TRUE
+"4185",9,20,"eau",TRUE
+"4186",9,20,"langes",TRUE
+"4187",9,20,"soda",TRUE
+"4188",9,20,"chocololat",TRUE
+"4189",9,20,"lait poudre",TRUE
+"4190",9,21,"pates",TRUE
+"4191",9,21,"bolo",TRUE
+"4192",9,21,"pommes",TRUE
+"4193",9,21,"biere",TRUE
+"4194",9,21,"soda",TRUE
+"4195",9,21,"olives",TRUE
+"4196",9,22,"bolo",TRUE
+"4197",9,22,"pommes",TRUE
+"4198",9,23,"vin rouge",TRUE
+"4199",9,24,"eau",TRUE
+"4200",9,24,"pates",TRUE
+"4201",9,24,"pommes",TRUE
+"4202",9,24,"biere",TRUE
+"4203",9,24,"chocololat",TRUE
+"4204",9,24,"serviette",TRUE
+"4205",9,24,"tomates",TRUE
+"4206",9,25,"langes",TRUE
+"4207",9,25,"poires",TRUE
+"4208",9,25,"soda",TRUE
+"4209",9,25,"olives",TRUE
+"4210",9,25,"lait poudre",TRUE
+"4211",9,26,"biere",TRUE
+"4212",9,26,"chocololat",TRUE
+"4213",9,26,"olives",TRUE
+"4214",9,27,"pates",TRUE
+"4215",9,27,"pommes",TRUE
+"4216",9,27,"chocololat",TRUE
+"4217",9,27,"serviette",TRUE
+"4218",9,27,"tomates",TRUE
+"4219",9,28,"pates",TRUE
+"4220",9,28,"bolo",TRUE
+"4221",9,28,"pommes",TRUE
+"4222",9,28,"vin rouge",TRUE
+"4223",9,28,"chocololat",TRUE
+"4224",9,29,"eau",TRUE
+"4225",9,29,"pates",TRUE
+"4226",9,29,"bolo",TRUE
+"4227",9,29,"langes",TRUE
+"4228",9,29,"pommes",TRUE
+"4229",9,29,"dextro",TRUE
+"4230",9,29,"lait poudre",TRUE
+"4231",9,30,"pates",TRUE
+"4232",9,30,"langes",TRUE
+"4233",9,30,"soda",TRUE
+"4234",9,30,"olives",TRUE
+"4235",9,30,"cure-dents",TRUE
+"4236",9,30,"tomates",TRUE
+"4237",9,30,"lait poudre",TRUE
+"4238",9,31,"pates",TRUE
+"4239",9,31,"soda",TRUE
+"4240",9,31,"serviette",TRUE
+"4241",9,31,"olives",TRUE
+"4242",9,32,"pates",TRUE
+"4243",9,32,"soda",TRUE
+"4244",9,32,"tomates",TRUE
+"4245",9,33,"pates",TRUE
+"4246",9,33,"bolo",TRUE
+"4247",9,33,"langes",TRUE
+"4248",9,33,"pommes",TRUE
+"4249",9,33,"vin rouge",TRUE
+"4250",9,33,"biere",TRUE
+"4251",9,33,"chocololat",TRUE
+"4252",9,34,"pates",TRUE
+"4253",9,34,"biere",TRUE
+"4254",9,34,"chocololat",TRUE
+"4255",9,34,"serviette",TRUE
+"4256",9,34,"dextro",TRUE
+"4257",9,34,"tomates",TRUE
+"4258",9,35,"pates",TRUE
+"4259",9,35,"langes",TRUE
+"4260",9,35,"soda",TRUE
+"4261",9,35,"chocololat",TRUE
+"4262",9,35,"tomates",TRUE
+"4263",9,36,"pates",TRUE
+"4264",9,36,"langes",TRUE
+"4265",9,36,"pommes",TRUE
+"4266",9,36,"vin rouge",TRUE
+"4267",9,36,"chocololat",TRUE
+"4268",9,37,"pommes",TRUE
+"4269",9,37,"soda",TRUE
+"4270",9,37,"serviette",TRUE
+"4271",9,37,"olives",TRUE
+"4272",9,38,"eau",TRUE
+"4273",9,38,"biere",TRUE
+"4274",9,38,"dextro",TRUE
+"4275",9,39,"biere",TRUE
+"4276",9,39,"soda",TRUE
+"4277",9,39,"chocololat",TRUE
+"4278",9,39,"serviette",TRUE
+"4279",9,40,"pates",TRUE
+"4280",9,40,"langes",TRUE
+"4281",9,40,"poires",TRUE
+"4282",9,40,"chocololat",TRUE
+"4283",9,40,"serviette",TRUE
+"4284",9,40,"lait poudre",TRUE
+"4285",9,41,"vin rouge",TRUE
+"4286",9,41,"chocololat",TRUE
+"4287",9,41,"serviette",TRUE
+"4288",9,41,"olives",TRUE
+"4289",9,42,"eau",TRUE
+"4290",9,42,"vin rouge",TRUE
+"4291",9,42,"chocololat",TRUE
+"4292",9,42,"serviette",TRUE
+"4293",9,43,"eau",TRUE
+"4294",9,43,"chocololat",TRUE
+"4295",9,44,"eau",TRUE
+"4296",9,44,"soda",TRUE
+"4297",9,44,"chocololat",TRUE
+"4298",9,44,"serviette",TRUE
+"4299",9,45,"pates",TRUE
+"4300",9,45,"langes",TRUE
+"4301",9,45,"olives",TRUE
+"4302",9,46,"langes",TRUE
+"4303",9,46,"pommes",TRUE
+"4304",9,46,"vin rouge",TRUE
+"4305",9,46,"soda",TRUE
+"4306",9,46,"chocololat",TRUE
+"4307",9,46,"dextro",TRUE
+"4308",9,46,"lait poudre",TRUE
+"4309",9,47,"pates",TRUE
+"4310",9,47,"langes",TRUE
+"4311",9,47,"olives",TRUE
+"4312",9,47,"tomates",TRUE
+"4313",9,47,"lait poudre",TRUE
+"4314",9,48,"pates",TRUE
+"4315",9,48,"langes",TRUE
+"4316",9,48,"vin rouge",TRUE
+"4317",9,48,"chocololat",TRUE
+"4318",9,49,"langes",TRUE
+"4319",9,49,"pommes",TRUE
+"4320",9,49,"poires",TRUE
+"4321",9,49,"serviette",TRUE
+"4322",9,49,"tomates",TRUE
+"4323",9,49,"lait poudre",TRUE
+"4324",9,50,"eau",TRUE
+"4325",9,50,"pates",TRUE
+"4326",9,50,"langes",TRUE
+"4327",9,50,"pommes",TRUE
+"4328",9,50,"dextro",TRUE
+"4329",9,51,"pates",TRUE
+"4330",9,51,"dextro",TRUE
+"4331",9,51,"olives",TRUE
+"4332",9,52,"pates",TRUE
+"4333",9,52,"vin rouge",TRUE
+"4334",9,52,"chocololat",TRUE
+"4335",9,52,"serviette",TRUE
+"4336",9,52,"olives",TRUE
+"4337",9,52,"cure-dents",TRUE
+"4338",9,52,"tomates",TRUE
+"4339",9,53,"eau",TRUE
+"4340",9,53,"poires",TRUE
+"4341",9,53,"vin rouge",TRUE
+"4342",9,53,"soda",TRUE
+"4343",9,53,"chocololat",TRUE
+"4344",9,53,"lait poudre",TRUE
+"4345",9,54,"eau",TRUE
+"4346",9,54,"pates",TRUE
+"4347",9,54,"pommes",TRUE
+"4348",9,54,"poires",TRUE
+"4349",9,54,"biere",TRUE
+"4350",9,54,"soda",TRUE
+"4351",9,54,"chocololat",TRUE
+"4352",9,55,"biere",TRUE
+"4353",9,55,"chocololat",TRUE
+"4354",9,56,"biere",TRUE
+"4355",9,56,"olives",TRUE
+"4356",9,57,"eau",TRUE
+"4357",9,57,"langes",TRUE
+"4358",9,57,"pommes",TRUE
+"4359",9,57,"vin rouge",TRUE
+"4360",9,57,"biere",TRUE
+"4361",9,57,"chocololat",TRUE
+"4362",9,57,"olives",TRUE
+"4363",9,57,"tomates",TRUE
+"4364",9,57,"lait poudre",TRUE
+"4365",9,58,"poires",TRUE
+"4366",9,58,"chocololat",TRUE
+"4367",9,58,"tomates",TRUE
+"4368",9,59,"pates",TRUE
+"4369",9,59,"langes",TRUE
+"4370",9,59,"olives",TRUE
+"4371",9,59,"lait poudre",TRUE
+"4372",9,60,"eau",TRUE
+"4373",9,60,"biere",TRUE
+"4374",9,60,"serviette",TRUE
+"4375",9,60,"cure-dents",TRUE
+"4376",9,60,"tomates",TRUE
+"4377",9,61,"pates",TRUE
+"4378",9,61,"bolo",TRUE
+"4379",9,61,"soda",TRUE
+"4380",9,61,"chocololat",TRUE
+"4381",9,61,"serviette",TRUE
+"4382",9,61,"olives",TRUE
+"4383",9,62,"vin rouge",TRUE
+"4384",9,63,"eau",TRUE
+"4385",9,63,"pates",TRUE
+"4386",9,63,"pommes",TRUE
+"4387",9,63,"poires",TRUE
+"4388",9,63,"vin rouge",TRUE
+"4389",9,63,"dextro",TRUE
+"4390",9,63,"tomates",TRUE
+"4391",9,64,"pates",TRUE
+"4392",9,64,"bolo",TRUE
+"4393",9,64,"langes",TRUE
+"4394",9,64,"pommes",TRUE
+"4395",9,64,"poires",TRUE
+"4396",9,64,"soda",TRUE
+"4397",9,64,"tomates",TRUE
+"4398",9,64,"lait poudre",TRUE
+"4399",9,65,"eau",TRUE
+"4400",9,65,"pates",TRUE
+"4401",9,65,"langes",TRUE
+"4402",9,65,"poires",TRUE
+"4403",9,65,"soda",TRUE
+"4404",9,66,"eau",TRUE
+"4405",9,66,"pates",TRUE
+"4406",9,66,"serviette",TRUE
+"4407",9,66,"dextro",TRUE
+"4408",9,67,"soda",TRUE
+"4409",9,68,"pates",TRUE
+"4410",9,68,"biere",TRUE
+"4411",9,68,"dextro",TRUE
+"4412",9,68,"tomates",TRUE
+"4413",9,69,"langes",TRUE
+"4414",9,69,"poires",TRUE
+"4415",9,69,"soda",TRUE
+"4416",9,69,"chocololat",TRUE
+"4417",9,69,"lait poudre",TRUE
+"4418",9,70,"eau",TRUE
+"4419",9,70,"pates",TRUE
+"4420",9,70,"serviette",TRUE
+"4421",9,70,"olives",TRUE
+"4422",9,71,"biere",TRUE
+"4423",9,71,"soda",TRUE
+"4424",9,71,"chocololat",TRUE
+"4425",9,71,"olives",TRUE
+"4426",9,72,"eau",TRUE
+"4427",9,72,"pommes",TRUE
+"4428",9,72,"soda",TRUE
+"4429",9,72,"serviette",TRUE
+"4430",9,72,"dextro",TRUE
+"4431",9,73,"eau",TRUE
+"4432",9,73,"langes",TRUE
+"4433",9,73,"biere",TRUE
+"4434",9,73,"soda",TRUE
+"4435",9,73,"olives",TRUE
+"4436",9,74,"eau",TRUE
+"4437",9,74,"pates",TRUE
+"4438",9,74,"langes",TRUE
+"4439",9,74,"olives",TRUE
+"4440",9,74,"cure-dents",TRUE
+"4441",9,74,"tomates",TRUE
+"4442",9,75,"eau",TRUE
+"4443",9,75,"pates",TRUE
+"4444",9,75,"langes",TRUE
+"4445",9,75,"pommes",TRUE
+"4446",9,75,"poires",TRUE
+"4447",9,75,"chocololat",TRUE
+"4448",9,75,"olives",TRUE
+"4449",9,75,"tomates",TRUE
+"4450",9,75,"lait poudre",TRUE
+"4451",9,76,"eau",TRUE
+"4452",9,76,"pates",TRUE
+"4453",9,76,"bolo",TRUE
+"4454",9,76,"langes",TRUE
+"4455",9,76,"vin rouge",TRUE
+"4456",9,76,"chocololat",TRUE
+"4457",9,76,"serviette",TRUE
+"4458",9,76,"tomates",TRUE
+"4459",9,77,"eau",TRUE
+"4460",9,77,"pates",TRUE
+"4461",9,77,"bolo",TRUE
+"4462",9,77,"langes",TRUE
+"4463",9,77,"tomates",TRUE
+"4464",9,77,"lait poudre",TRUE
+"4465",9,78,"soda",TRUE
+"4466",9,78,"chocololat",TRUE
+"4467",9,79,"eau",TRUE
+"4468",9,79,"pates",TRUE
+"4469",9,79,"langes",TRUE
+"4470",9,79,"soda",TRUE
+"4471",9,79,"chocololat",TRUE
+"4472",9,79,"serviette",TRUE
+"4473",9,79,"lait poudre",TRUE
+"4474",9,80,"pates",TRUE
+"4475",9,80,"bolo",TRUE
+"4476",9,80,"langes",TRUE
+"4477",9,80,"soda",TRUE
+"4478",9,80,"chocololat",TRUE
+"4479",9,80,"olives",TRUE
+"4480",9,80,"cure-dents",TRUE
+"4481",9,81,"langes",TRUE
+"4482",9,81,"pommes",TRUE
+"4483",9,81,"vin rouge",TRUE
+"4484",9,81,"chocololat",TRUE
+"4485",9,81,"lait poudre",TRUE
+"4486",9,82,"pommes",TRUE
+"4487",9,82,"poires",TRUE
+"4488",9,82,"chocololat",TRUE
+"4489",9,82,"dextro",TRUE
+"4490",9,82,"tomates",TRUE
+"4491",9,83,"eau",TRUE
+"4492",9,83,"pates",TRUE
+"4493",9,83,"biere",TRUE
+"4494",9,83,"chocololat",TRUE
+"4495",9,83,"dextro",TRUE
+"4496",9,83,"tomates",TRUE
+"4497",9,84,"langes",TRUE
+"4498",9,84,"pommes",TRUE
+"4499",9,84,"poires",TRUE
+"4500",9,84,"chocololat",TRUE
+"4501",9,84,"lait poudre",TRUE
+"4502",9,86,"eau",TRUE
+"4503",9,86,"pates",TRUE
+"4504",9,86,"bolo",TRUE
+"4505",9,86,"vin rouge",TRUE
+"4506",9,86,"soda",TRUE
+"4507",9,86,"chocololat",TRUE
+"4508",9,86,"olives",TRUE
+"4509",9,86,"cure-dents",TRUE
+"4510",9,86,"tomates",TRUE
+"4511",9,87,"vin rouge",TRUE
+"4512",9,87,"biere",TRUE
+"4513",9,87,"chocololat",TRUE
+"4514",9,87,"olives",TRUE
+"4515",9,88,"eau",TRUE
+"4516",9,88,"pates",TRUE
+"4517",9,88,"bolo",TRUE
+"4518",9,88,"pommes",TRUE
+"4519",9,88,"chocololat",TRUE
+"4520",9,88,"serviette",TRUE
+"4521",9,88,"dextro",TRUE
+"4522",9,88,"tomates",TRUE
+"4523",9,88,"lait poudre",TRUE
+"4524",9,89,"eau",TRUE
+"4525",9,89,"langes",TRUE
+"4526",9,89,"poires",TRUE
+"4527",9,89,"biere",TRUE
+"4528",9,89,"lait poudre",TRUE
+"4529",9,90,"eau",TRUE
+"4530",9,90,"pates",TRUE
+"4531",9,90,"bolo",TRUE
+"4532",9,90,"soda",TRUE
+"4533",9,90,"dextro",TRUE
+"4534",9,90,"lait poudre",TRUE
+"4535",9,91,"pates",TRUE
+"4536",9,91,"langes",TRUE
+"4537",9,91,"vin rouge",TRUE
+"4538",9,91,"soda",TRUE
+"4539",9,91,"chocololat",TRUE
+"4540",9,91,"tomates",TRUE
+"4541",9,91,"lait poudre",TRUE
+"4542",9,92,"pates",TRUE
+"4543",9,92,"bolo",TRUE
+"4544",9,92,"langes",TRUE
+"4545",9,92,"poires",TRUE
+"4546",9,92,"vin rouge",TRUE
+"4547",9,92,"chocololat",TRUE
+"4548",9,92,"dextro",TRUE
+"4549",9,92,"tomates",TRUE
+"4550",9,92,"lait poudre",TRUE
+"4551",9,93,"pates",TRUE
+"4552",9,93,"bolo",TRUE
+"4553",9,93,"langes",TRUE
+"4554",9,93,"vin rouge",TRUE
+"4555",9,93,"soda",TRUE
+"4556",9,93,"tomates",TRUE
+"4557",9,94,"eau",TRUE
+"4558",9,94,"pates",TRUE
+"4559",9,94,"langes",TRUE
+"4560",9,94,"pommes",TRUE
+"4561",9,94,"vin rouge",TRUE
+"4562",9,94,"soda",TRUE
+"4563",9,94,"chocololat",TRUE
+"4564",9,94,"tomates",TRUE
+"4565",9,94,"lait poudre",TRUE
+"4566",9,95,"eau",TRUE
+"4567",9,95,"chocololat",TRUE
+"4568",9,95,"olives",TRUE
+"4569",9,95,"cure-dents",TRUE
+"4570",9,96,"eau",TRUE
+"4571",9,96,"chocololat",TRUE
+"4572",9,96,"dextro",TRUE
+"4573",9,97,"poires",TRUE
+"4574",9,97,"biere",TRUE
+"4575",9,97,"dextro",TRUE
+"4576",9,98,"langes",TRUE
+"4577",9,98,"pommes",TRUE
+"4578",9,98,"poires",TRUE
+"4579",9,98,"chocololat",TRUE
+"4580",9,99,"pates",TRUE
+"4581",9,99,"pommes",TRUE
+"4582",9,99,"biere",TRUE
+"4583",9,99,"tomates",TRUE
+"4584",9,100,"pates",TRUE
+"4585",9,100,"pommes",TRUE
+"4586",9,100,"vin rouge",TRUE
+"4587",9,100,"chocololat",TRUE
+"4588",9,100,"cure-dents",TRUE
+"4589",9,100,"lait poudre",TRUE
+"4590",10,1,"pates",TRUE
+"4591",10,1,"vin rouge",TRUE
+"4592",10,1,"chocololat",TRUE
+"4593",10,2,"eau",TRUE
+"4594",10,2,"pates",TRUE
+"4595",10,2,"bolo",TRUE
+"4596",10,2,"pommes",TRUE
+"4597",10,2,"vin rouge",TRUE
+"4598",10,2,"soda",TRUE
+"4599",10,2,"chocololat",TRUE
+"4600",10,2,"lait poudre",TRUE
+"4601",10,3,"pommes",TRUE
+"4602",10,3,"dextro",TRUE
+"4603",10,4,"pates",TRUE
+"4604",10,4,"pommes",TRUE
+"4605",10,4,"poires",TRUE
+"4606",10,4,"chocololat",TRUE
+"4607",10,4,"dextro",TRUE
+"4608",10,4,"olives",TRUE
+"4609",10,4,"tomates",TRUE
+"4610",10,5,"eau",TRUE
+"4611",10,5,"pates",TRUE
+"4612",10,5,"pommes",TRUE
+"4613",10,5,"poires",TRUE
+"4614",10,5,"dextro",TRUE
+"4615",10,6,"chocololat",TRUE
+"4616",10,6,"olives",TRUE
+"4617",10,7,"eau",TRUE
+"4618",10,7,"pates",TRUE
+"4619",10,7,"langes",TRUE
+"4620",10,7,"pommes",TRUE
+"4621",10,7,"soda",TRUE
+"4622",10,7,"chocololat",TRUE
+"4623",10,7,"dextro",TRUE
+"4624",10,7,"tomates",TRUE
+"4625",10,8,"eau",TRUE
+"4626",10,8,"pates",TRUE
+"4627",10,8,"chocololat",TRUE
+"4628",10,8,"olives",TRUE
+"4629",10,9,"eau",TRUE
+"4630",10,9,"vin rouge",TRUE
+"4631",10,9,"lait poudre",TRUE
+"4632",10,10,"eau",TRUE
+"4633",10,10,"pates",TRUE
+"4634",10,10,"langes",TRUE
+"4635",10,10,"vin rouge",TRUE
+"4636",10,10,"soda",TRUE
+"4637",10,10,"chocololat",TRUE
+"4638",10,10,"tomates",TRUE
+"4639",10,11,"pates",TRUE
+"4640",10,11,"langes",TRUE
+"4641",10,11,"pommes",TRUE
+"4642",10,11,"vin rouge",TRUE
+"4643",10,11,"soda",TRUE
+"4644",10,11,"chocololat",TRUE
+"4645",10,11,"tomates",TRUE
+"4646",10,12,"pates",TRUE
+"4647",10,12,"langes",TRUE
+"4648",10,12,"vin rouge",TRUE
+"4649",10,12,"chocololat",TRUE
+"4650",10,12,"tomates",TRUE
+"4651",10,13,"soda",TRUE
+"4652",10,14,"soda",TRUE
+"4653",10,14,"serviette",TRUE
+"4654",10,15,"eau",TRUE
+"4655",10,15,"pates",TRUE
+"4656",10,15,"langes",TRUE
+"4657",10,15,"chocololat",TRUE
+"4658",10,15,"dextro",TRUE
+"4659",10,15,"olives",TRUE
+"4660",10,15,"cure-dents",TRUE
+"4661",10,16,"pates",TRUE
+"4662",10,16,"dextro",TRUE
+"4663",10,17,"eau",TRUE
+"4664",10,17,"pates",TRUE
+"4665",10,17,"bolo",TRUE
+"4666",10,17,"langes",TRUE
+"4667",10,17,"pommes",TRUE
+"4668",10,17,"poires",TRUE
+"4669",10,17,"soda",TRUE
+"4670",10,17,"chocololat",TRUE
+"4671",10,17,"olives",TRUE
+"4672",10,17,"tomates",TRUE
+"4673",10,17,"lait poudre",TRUE
+"4674",10,18,"pates",TRUE
+"4675",10,18,"pommes",TRUE
+"4676",10,18,"vin rouge",TRUE
+"4677",10,18,"olives",TRUE
+"4678",10,18,"tomates",TRUE
+"4679",10,19,"eau",TRUE
+"4680",10,19,"vin rouge",TRUE
+"4681",10,19,"dextro",TRUE
+"4682",10,19,"olives",TRUE
+"4683",10,20,"pates",TRUE
+"4684",10,20,"bolo",TRUE
+"4685",10,20,"langes",TRUE
+"4686",10,20,"pommes",TRUE
+"4687",10,20,"chocololat",TRUE
+"4688",10,20,"serviette",TRUE
+"4689",10,20,"lait poudre",TRUE
+"4690",10,21,"pates",TRUE
+"4691",10,21,"biere",TRUE
+"4692",10,21,"soda",TRUE
+"4693",10,21,"chocololat",TRUE
+"4694",10,21,"serviette",TRUE
+"4695",10,22,"vin rouge",TRUE
+"4696",10,22,"biere",TRUE
+"4697",10,22,"chocololat",TRUE
+"4698",10,23,"eau",TRUE
+"4699",10,23,"pates",TRUE
+"4700",10,23,"vin rouge",TRUE
+"4701",10,23,"biere",TRUE
+"4702",10,23,"chocololat",TRUE
+"4703",10,23,"tomates",TRUE
+"4704",10,24,"eau",TRUE
+"4705",10,24,"poires",TRUE
+"4706",10,24,"vin rouge",TRUE
+"4707",10,24,"soda",TRUE
+"4708",10,24,"olives",TRUE
+"4709",10,24,"tomates",TRUE
+"4710",10,25,"bolo",TRUE
+"4711",10,25,"langes",TRUE
+"4712",10,25,"vin rouge",TRUE
+"4713",10,25,"soda",TRUE
+"4714",10,25,"olives",TRUE
+"4715",10,25,"lait poudre",TRUE
+"4716",10,26,"eau",TRUE
+"4717",10,26,"pommes",TRUE
+"4718",10,26,"biere",TRUE
+"4719",10,26,"olives",TRUE
+"4720",10,27,"pates",TRUE
+"4721",10,27,"bolo",TRUE
+"4722",10,27,"vin rouge",TRUE
+"4723",10,27,"biere",TRUE
+"4724",10,27,"chocololat",TRUE
+"4725",10,28,"pates",TRUE
+"4726",10,28,"bolo",TRUE
+"4727",10,28,"biere",TRUE
+"4728",10,28,"soda",TRUE
+"4729",10,28,"olives",TRUE
+"4730",10,29,"eau",TRUE
+"4731",10,29,"poires",TRUE
+"4732",10,29,"soda",TRUE
+"4733",10,29,"dextro",TRUE
+"4734",10,29,"tomates",TRUE
+"4735",10,29,"lait poudre",TRUE
+"4736",10,30,"eau",TRUE
+"4737",10,30,"pates",TRUE
+"4738",10,30,"pommes",TRUE
+"4739",10,30,"soda",TRUE
+"4740",10,30,"serviette",TRUE
+"4741",10,30,"tomates",TRUE
+"4742",10,30,"lait poudre",TRUE
+"4743",10,31,"bolo",TRUE
+"4744",10,31,"poires",TRUE
+"4745",10,31,"chocololat",TRUE
+"4746",10,31,"serviette",TRUE
+"4747",10,32,"pates",TRUE
+"4748",10,32,"soda",TRUE
+"4749",10,32,"tomates",TRUE
+"4750",10,33,"pates",TRUE
+"4751",10,33,"langes",TRUE
+"4752",10,33,"pommes",TRUE
+"4753",10,33,"soda",TRUE
+"4754",10,33,"serviette",TRUE
+"4755",10,33,"olives",TRUE
+"4756",10,33,"tomates",TRUE
+"4757",10,33,"lait poudre",TRUE
+"4758",10,34,"eau",TRUE
+"4759",10,34,"pates",TRUE
+"4760",10,34,"biere",TRUE
+"4761",10,34,"dextro",TRUE
+"4762",10,34,"tomates",TRUE
+"4763",10,35,"langes",TRUE
+"4764",10,35,"pommes",TRUE
+"4765",10,35,"soda",TRUE
+"4766",10,35,"chocololat",TRUE
+"4767",10,35,"lait poudre",TRUE
+"4768",10,36,"pates",TRUE
+"4769",10,36,"bolo",TRUE
+"4770",10,36,"langes",TRUE
+"4771",10,36,"poires",TRUE
+"4772",10,36,"soda",TRUE
+"4773",10,36,"chocololat",TRUE
+"4774",10,36,"olives",TRUE
+"4775",10,36,"cure-dents",TRUE
+"4776",10,36,"tomates",TRUE
+"4777",10,36,"lait poudre",TRUE
+"4778",10,37,"biere",TRUE
+"4779",10,37,"serviette",TRUE
+"4780",10,38,"eau",TRUE
+"4781",10,38,"soda",TRUE
+"4782",10,38,"chocololat",TRUE
+"4783",10,39,"biere",TRUE
+"4784",10,39,"soda",TRUE
+"4785",10,39,"chocololat",TRUE
+"4786",10,39,"olives",TRUE
+"4787",10,40,"pates",TRUE
+"4788",10,40,"langes",TRUE
+"4789",10,40,"pommes",TRUE
+"4790",10,40,"soda",TRUE
+"4791",10,40,"chocololat",TRUE
+"4792",10,41,"pates",TRUE
+"4793",10,41,"vin rouge",TRUE
+"4794",10,41,"tomates",TRUE
+"4795",10,42,"serviette",TRUE
+"4796",10,42,"olives",TRUE
+"4797",10,43,"vin rouge",TRUE
+"4798",10,44,"soda",TRUE
+"4799",10,45,"eau",TRUE
+"4800",10,45,"langes",TRUE
+"4801",10,45,"vin rouge",TRUE
+"4802",10,45,"chocololat",TRUE
+"4803",10,45,"lait poudre",TRUE
+"4804",10,46,"pates",TRUE
+"4805",10,46,"bolo",TRUE
+"4806",10,46,"langes",TRUE
+"4807",10,46,"pommes",TRUE
+"4808",10,46,"vin rouge",TRUE
+"4809",10,46,"chocololat",TRUE
+"4810",10,46,"dextro",TRUE
+"4811",10,46,"olives",TRUE
+"4812",10,46,"tomates",TRUE
+"4813",10,46,"lait poudre",TRUE
+"4814",10,47,"pates",TRUE
+"4815",10,47,"bolo",TRUE
+"4816",10,47,"langes",TRUE
+"4817",10,47,"chocololat",TRUE
+"4818",10,47,"serviette",TRUE
+"4819",10,47,"olives",TRUE
+"4820",10,48,"langes",TRUE
+"4821",10,48,"pommes",TRUE
+"4822",10,48,"tomates",TRUE
+"4823",10,48,"lait poudre",TRUE
+"4824",10,49,"pates",TRUE
+"4825",10,49,"bolo",TRUE
+"4826",10,49,"langes",TRUE
+"4827",10,49,"serviette",TRUE
+"4828",10,50,"pommes",TRUE
+"4829",10,50,"soda",TRUE
+"4830",10,50,"chocololat",TRUE
+"4831",10,50,"tomates",TRUE
+"4832",10,50,"lait poudre",TRUE
+"4833",10,51,"pates",TRUE
+"4834",10,51,"soda",TRUE
+"4835",10,51,"chocololat",TRUE
+"4836",10,51,"olives",TRUE
+"4837",10,52,"pommes",TRUE
+"4838",10,52,"chocololat",TRUE
+"4839",10,52,"olives",TRUE
+"4840",10,53,"eau",TRUE
+"4841",10,53,"pates",TRUE
+"4842",10,53,"pommes",TRUE
+"4843",10,53,"dextro",TRUE
+"4844",10,53,"tomates",TRUE
+"4845",10,53,"lait poudre",TRUE
+"4846",10,54,"serviette",TRUE
+"4847",10,55,"bolo",TRUE
+"4848",10,55,"biere",TRUE
+"4849",10,55,"soda",TRUE
+"4850",10,55,"chocololat",TRUE
+"4851",10,55,"olives",TRUE
+"4852",10,56,"biere",TRUE
+"4853",10,56,"soda",TRUE
+"4854",10,56,"chocololat",TRUE
+"4855",10,56,"olives",TRUE
+"4856",10,57,"langes",TRUE
+"4857",10,57,"vin rouge",TRUE
+"4858",10,57,"chocololat",TRUE
+"4859",10,57,"lait poudre",TRUE
+"4860",10,58,"pates",TRUE
+"4861",10,58,"soda",TRUE
+"4862",10,58,"chocololat",TRUE
+"4863",10,58,"olives",TRUE
+"4864",10,58,"cure-dents",TRUE
+"4865",10,58,"tomates",TRUE
+"4866",10,59,"eau",TRUE
+"4867",10,59,"pates",TRUE
+"4868",10,59,"soda",TRUE
+"4869",10,59,"chocololat",TRUE
+"4870",10,59,"serviette",TRUE
+"4871",10,59,"olives",TRUE
+"4872",10,59,"cure-dents",TRUE
+"4873",10,59,"lait poudre",TRUE
+"4874",10,60,"eau",TRUE
+"4875",10,60,"poires",TRUE
+"4876",10,60,"soda",TRUE
+"4877",10,62,"pates",TRUE
+"4878",10,62,"vin rouge",TRUE
+"4879",10,62,"soda",TRUE
+"4880",10,62,"olives",TRUE
+"4881",10,62,"tomates",TRUE
+"4882",10,63,"pates",TRUE
+"4883",10,63,"vin rouge",TRUE
+"4884",10,63,"tomates",TRUE
+"4885",10,64,"eau",TRUE
+"4886",10,64,"pates",TRUE
+"4887",10,64,"langes",TRUE
+"4888",10,64,"pommes",TRUE
+"4889",10,64,"tomates",TRUE
+"4890",10,64,"lait poudre",TRUE
+"4891",10,65,"pates",TRUE
+"4892",10,65,"langes",TRUE
+"4893",10,65,"vin rouge",TRUE
+"4894",10,65,"chocololat",TRUE
+"4895",10,65,"lait poudre",TRUE
+"4896",10,66,"eau",TRUE
+"4897",10,66,"biere",TRUE
+"4898",10,66,"soda",TRUE
+"4899",10,66,"dextro",TRUE
+"4900",10,67,"pommes",TRUE
+"4901",10,67,"biere",TRUE
+"4902",10,67,"olives",TRUE
+"4903",10,68,"chocololat",TRUE
+"4904",10,68,"dextro",TRUE
+"4905",10,68,"olives",TRUE
+"4906",10,69,"eau",TRUE
+"4907",10,69,"pates",TRUE
+"4908",10,69,"bolo",TRUE
+"4909",10,69,"langes",TRUE
+"4910",10,69,"pommes",TRUE
+"4911",10,69,"biere",TRUE
+"4912",10,69,"soda",TRUE
+"4913",10,69,"chocololat",TRUE
+"4914",10,69,"serviette",TRUE
+"4915",10,69,"olives",TRUE
+"4916",10,69,"cure-dents",TRUE
+"4917",10,69,"lait poudre",TRUE
+"4918",10,70,"eau",TRUE
+"4919",10,70,"pommes",TRUE
+"4920",10,70,"soda",TRUE
+"4921",10,70,"dextro",TRUE
+"4922",10,71,"vin rouge",TRUE
+"4923",10,71,"serviette",TRUE
+"4924",10,72,"eau",TRUE
+"4925",10,72,"pates",TRUE
+"4926",10,72,"biere",TRUE
+"4927",10,72,"soda",TRUE
+"4928",10,72,"dextro",TRUE
+"4929",10,73,"pates",TRUE
+"4930",10,73,"bolo",TRUE
+"4931",10,73,"langes",TRUE
+"4932",10,73,"poires",TRUE
+"4933",10,73,"soda",TRUE
+"4934",10,73,"serviette",TRUE
+"4935",10,73,"olives",TRUE
+"4936",10,73,"lait poudre",TRUE
+"4937",10,74,"pates",TRUE
+"4938",10,74,"langes",TRUE
+"4939",10,74,"pommes",TRUE
+"4940",10,74,"poires",TRUE
+"4941",10,74,"olives",TRUE
+"4942",10,74,"tomates",TRUE
+"4943",10,75,"langes",TRUE
+"4944",10,75,"pommes",TRUE
+"4945",10,75,"vin rouge",TRUE
+"4946",10,75,"soda",TRUE
+"4947",10,75,"chocololat",TRUE
+"4948",10,75,"olives",TRUE
+"4949",10,75,"lait poudre",TRUE
+"4950",10,76,"pates",TRUE
+"4951",10,76,"langes",TRUE
+"4952",10,76,"pommes",TRUE
+"4953",10,76,"soda",TRUE
+"4954",10,76,"chocololat",TRUE
+"4955",10,76,"dextro",TRUE
+"4956",10,76,"tomates",TRUE
+"4957",10,76,"lait poudre",TRUE
+"4958",10,77,"eau",TRUE
+"4959",10,77,"pates",TRUE
+"4960",10,77,"langes",TRUE
+"4961",10,77,"pommes",TRUE
+"4962",10,77,"poires",TRUE
+"4963",10,77,"soda",TRUE
+"4964",10,77,"chocololat",TRUE
+"4965",10,77,"serviette",TRUE
+"4966",10,77,"tomates",TRUE
+"4967",10,78,"chocololat",TRUE
+"4968",10,79,"eau",TRUE
+"4969",10,79,"langes",TRUE
+"4970",10,79,"chocololat",TRUE
+"4971",10,79,"dextro",TRUE
+"4972",10,79,"tomates",TRUE
+"4973",10,79,"lait poudre",TRUE
+"4974",10,80,"pates",TRUE
+"4975",10,80,"bolo",TRUE
+"4976",10,80,"soda",TRUE
+"4977",10,80,"chocololat",TRUE
+"4978",10,80,"serviette",TRUE
+"4979",10,80,"tomates",TRUE
+"4980",10,81,"eau",TRUE
+"4981",10,81,"pates",TRUE
+"4982",10,81,"vin rouge",TRUE
+"4983",10,81,"soda",TRUE
+"4984",10,81,"chocololat",TRUE
+"4985",10,81,"tomates",TRUE
+"4986",10,82,"pommes",TRUE
+"4987",10,82,"poires",TRUE
+"4988",10,82,"soda",TRUE
+"4989",10,82,"chocololat",TRUE
+"4990",10,82,"olives",TRUE
+"4991",10,83,"eau",TRUE
+"4992",10,83,"pommes",TRUE
+"4993",10,83,"soda",TRUE
+"4994",10,83,"chocololat",TRUE
+"4995",10,83,"olives",TRUE
+"4996",10,84,"eau",TRUE
+"4997",10,84,"bolo",TRUE
+"4998",10,84,"langes",TRUE
+"4999",10,84,"soda",TRUE
+"5000",10,84,"chocololat",TRUE
+"5001",10,84,"lait poudre",TRUE
+"5002",10,85,"pates",TRUE
+"5003",10,85,"vin rouge",TRUE
+"5004",10,85,"olives",TRUE
+"5005",10,85,"cure-dents",TRUE
+"5006",10,86,"pates",TRUE
+"5007",10,86,"langes",TRUE
+"5008",10,86,"olives",TRUE
+"5009",10,87,"eau",TRUE
+"5010",10,87,"pates",TRUE
+"5011",10,87,"vin rouge",TRUE
+"5012",10,87,"tomates",TRUE
+"5013",10,88,"pates",TRUE
+"5014",10,88,"bolo",TRUE
+"5015",10,88,"langes",TRUE
+"5016",10,88,"soda",TRUE
+"5017",10,88,"lait poudre",TRUE
+"5018",10,89,"eau",TRUE
+"5019",10,89,"pates",TRUE
+"5020",10,89,"bolo",TRUE
+"5021",10,89,"pommes",TRUE
+"5022",10,89,"poires",TRUE
+"5023",10,89,"biere",TRUE
+"5024",10,89,"soda",TRUE
+"5025",10,89,"chocololat",TRUE
+"5026",10,89,"serviette",TRUE
+"5027",10,89,"dextro",TRUE
+"5028",10,89,"tomates",TRUE
+"5029",10,89,"lait poudre",TRUE
+"5030",10,90,"eau",TRUE
+"5031",10,90,"langes",TRUE
+"5032",10,90,"pommes",TRUE
+"5033",10,90,"soda",TRUE
+"5034",10,90,"dextro",TRUE
+"5035",10,90,"olives",TRUE
+"5036",10,90,"lait poudre",TRUE
+"5037",10,91,"pates",TRUE
+"5038",10,91,"bolo",TRUE
+"5039",10,91,"langes",TRUE
+"5040",10,91,"poires",TRUE
+"5041",10,91,"chocololat",TRUE
+"5042",10,91,"tomates",TRUE
+"5043",10,91,"lait poudre",TRUE
+"5044",10,92,"eau",TRUE
+"5045",10,92,"pates",TRUE
+"5046",10,92,"bolo",TRUE
+"5047",10,92,"pommes",TRUE
+"5048",10,92,"soda",TRUE
+"5049",10,92,"chocololat",TRUE
+"5050",10,92,"dextro",TRUE
+"5051",10,92,"tomates",TRUE
+"5052",10,93,"eau",TRUE
+"5053",10,93,"langes",TRUE
+"5054",10,93,"chocololat",TRUE
+"5055",10,93,"olives",TRUE
+"5056",10,93,"lait poudre",TRUE
+"5057",10,94,"pates",TRUE
+"5058",10,94,"bolo",TRUE
+"5059",10,94,"langes",TRUE
+"5060",10,94,"poires",TRUE
+"5061",10,94,"chocololat",TRUE
+"5062",10,94,"olives",TRUE
+"5063",10,94,"tomates",TRUE
+"5064",10,94,"lait poudre",TRUE
+"5065",10,95,"eau",TRUE
+"5066",10,95,"bolo",TRUE
+"5067",10,95,"soda",TRUE
+"5068",10,96,"eau",TRUE
+"5069",10,96,"chocololat",TRUE
+"5070",10,97,"pates",TRUE
+"5071",10,97,"pommes",TRUE
+"5072",10,97,"olives",TRUE
+"5073",10,97,"cure-dents",TRUE
+"5074",10,97,"tomates",TRUE
+"5075",10,98,"langes",TRUE
+"5076",10,98,"pommes",TRUE
+"5077",10,98,"olives",TRUE
+"5078",10,98,"cure-dents",TRUE
+"5079",10,98,"lait poudre",TRUE
+"5080",10,99,"pommes",TRUE
+"5081",10,99,"biere",TRUE
+"5082",10,99,"chocololat",TRUE
+"5083",10,99,"dextro",TRUE
+"5084",10,100,"pates",TRUE
+"5085",10,100,"langes",TRUE
+"5086",10,100,"olives",TRUE
+"5087",10,100,"tomates",TRUE
+"5088",10,100,"lait poudre",TRUE
