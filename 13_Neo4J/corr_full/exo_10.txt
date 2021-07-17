@@ -1,0 +1,13 @@
+MATCH (c:Country)--(a:Airport)-[r]-()
+WITH c, COUNT(r) as nb_routes
+ORDER BY nb_routes DESC
+WITH collect(c)[0] as country_max, MAX(nb_routes) as max_nb_routes
+
+MATCH (c:Country{name:country_max.name})--(a:Airport)-[r:GOES_TO]-()
+WITH a as max_airport, COUNT(r) as nb_routes
+ORDER BY nb_routes DESC
+
+WITH collect(max_airport)[0] as max_airport, max(nb_routes) as max_nb_routes
+RETURN max_airport, max_nb_routes
+
+// Egalement faisable avec une procédure APOC: apoc.agg.maxItems

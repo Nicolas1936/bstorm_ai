@@ -1,0 +1,142 @@
+# EXERCICE 1
+------------
+
+CREATE 
+(alice:Person:Ceo {name:'Alice', job:'ceo', mail:'boss@bstorm.be'}),
+(bob:Person {name:'Bob', job:'data scientist'}),
+(yasmine:Person {name:'Yasmine', job:'comptable', birth_date:date('1998-04-25')}),
+(john:Person {name:'John', job:'fonctionnaire', tel: 457845123}),
+(eduardo:Person {name:'Eduardo', job:'professeur', mail:'eduardo.giovani@uclouvain.com'}),
+(car:Car {brand:'Peugeot', model:208, date:date({year:2012}), fuel:'diesel'}),
+(alice) - [:EMPLOY] -> (bob), 
+(alice) - [:EMPLOY] -> (yasmine),
+(alice) - [:MARRIED] -> (eduardo), 
+(eduardo) -[:MARRIED]-> (alice),
+(Bob) - [:WORK_FOR{since: date({year:2020})}] -> (alice), 
+(yasmine) - [:WORK_FOR {since:date('2018-04-15')}] -> (alice),
+(alice) - [:OWN] -> (car),
+(eduardo) - [:LOVE] -> (yasmine),
+(yasmine) - [:FRIEND] -> (bob), 
+(bob) - [:FRIEND] -> (yasmine),
+(yasmine) - [:LOVE] -> (john),
+(alice) - [:DRIVE] -> (car),
+(eduardo) - [:DRIVE] -> (car)
+
+Exemple de solution alternative avec WITH et FOREACH:
+CREATE
+(alice:Person:Ceo {name:'Alice', job:'ceo', mail:'boss@bstorm.be'}),
+(bob:Person {name:'Bob', job:'data scientist'}),
+(yasmine:Person {name:'Yasmine', job:'comptable', birth_date:date('1998-04-25')}),
+(john:Person {name:'John', job:'fonctionnaire', tel: 457845123}),
+(eduardo:Person {name:'Eduardo', job:'professeur', mail:'eduardo.giovani@uclouvain.com'}),
+(car:Car {brand:'Peugeot', model:208, date:date({year:2012}), fuel:'diesel'}),
+(alice) - [:EMPLOY] -> (bob), 
+(alice) - [:EMPLOY] -> (yasmine),
+(alice) - [:MARRIED] -> (eduardo), 
+(eduardo) -[:MARRIED]-> (alice),
+(Bob) - [:WORK_FOR{since: date({year:2020})}] -> (alice), 
+(yasmine) - [:WORK_FOR {since:date('2018-04-15')}] -> (alice),
+(alice) - [:OWN] -> (car),
+(eduardo) - [:LOVE] -> (yasmine),
+(yasmine) - [:FRIEND] -> (bob), 
+(bob) - [:FRIEND] -> (yasmine),
+(yasmine) - [:LOVE] -> (john)
+WITH alice as alice, eduardo as eduardo
+FOREACH (n in [alice,eduardo] | CREATE (n) - [:DRIVE] -> (car))
+
+---------------------------------------------------------------------------------------------
+# EXERCICE 2
+------------
+Blanchard Nicolas
+#3428
+
+Romain Wauman — Hier à 08:59
+Type de fichier joint : acrobat
+Neo4j.pdf
+1.84 MB
+Romain Wauman — Hier à 10:57
+https://neo4j.com/download/
+Neo4j Graph Database Platform
+Dan Fitzpatrick
+Download Neo4j
+Create and manage local Neo4j databases and connect to remote graphs. Includes Neo4j Enterprise features, APOC, Neo4j Bloom, Graph Data Science, GraphQL.
+
+Leclaire Mehdy — Hier à 11:37
+Fb m'avait suggéré ceci il y a qques semaines
+j'avoue je n'ai pas encore ouvert :unamused:
+Type de fichier joint : acrobat
+Graph_Data_Science_For_Dummies_Book.pdf
+4.66 MB
+Assadiki Yassin — Hier à 11:38
+il est ultra complet mais chaud, tu y trouvera ton use case sur les avions dessus
+mais y'a des maths derrière :slight_smile:
+Romain Wauman — Hier à 13:32
+https://neo4j.com/books/
+Neo4j Graph Database Platform
+Books Archive
+Explore the large library of Neo4j graph database books and other resources including Graph Databases (from O’Reilly), Learning Neo4j (from Packt).
+
+Romain Wauman — Hier à 14:06
+Type de fichier joint : acrobat
+Exercices.pdf
+77.52 KB
+Romain Wauman — Hier à 14:13
+Type de fichier joint : archive
+airflights.7z
+1.22 MB
+Romain Wauman — Hier à 15:40
+exo1
+CREATE 
+(alice:Person:Ceo {name:'Alice', job:'ceo', mail:'boss@bstorm.be'}),
+(bob:Person {name:'Bob', job:'data scientist'}),
+(yasmine:Person {name:'Yasmine', job:'comptable', birth_date:date('1998-04-25')}),
+(john:Person {name:'John', job:'fonctionnaire', tel: 457845123}),
+(eduardo:Person {name:'Eduardo', job:'professeur', mail:'eduardo.giovani@uclouvain.com'}),
+Afficher plus
+exo_1.txt
+2 Ko
+Romain Wauman — Hier à 17:11
+exo2
+CREATE
+(j:Person :Juror {first_name:'John', last_name:'Smith', mail:'john.smith@gmail.com'}),
+(a:Person :Juror {first_name:'Anna', last_name:'Karénine', mail:'anna.k@gmail.com'}),
+(l:Person :Writer {first_name:'Leon', last_name:'Tolstoi'}),
+(o:Person :Cook {first_name:'Orlando', last_name:'Santos', country:'Germany'}),
+(al:Person :Cook {first_name:'Albert', last_name:'Van de Bergh', country:'Belgium'}),
+Afficher plus
+exo_2.txt
+2 Ko
+Assadiki Yassin — Hier à 17:26
+https://marketplace.visualstudio.com/items?itemName=jakeboone02.cypher-query-language
+Cypher Query Language - Visual Studio Marketplace
+Extension for Visual Studio Code - Syntax highlighting for Neo4j's Cypher Query Language
+
+Sonnet Baptiste — Hier à 22:38
+https://neo4j.com/docs/cypher-refcard/current/
+﻿
+CREATE
+(j:Person :Juror {first_name:'John', last_name:'Smith', mail:'john.smith@gmail.com'}),
+(a:Person :Juror {first_name:'Anna', last_name:'Karénine', mail:'anna.k@gmail.com'}),
+(l:Person :Writer {first_name:'Leon', last_name:'Tolstoi'}),
+(o:Person :Cook {first_name:'Orlando', last_name:'Santos', country:'Germany'}),
+(al:Person :Cook {first_name:'Albert', last_name:'Van de Bergh', country:'Belgium'}),
+(q:Restaurant {name:'Don Quijote', country:'Germany', city:'München', speciality:'Spanish', birth_date:date('2012-02-25')}),
+(p:Restaurant :Truck {name:'La patate roulante', country:'Belgium', city:'Bruxelles', speciality:'Belgian fries', brand:'VW', year:1995, fuel:'petrol'}),
+(l) -[:Father]-> (a),
+(j) -[:Eat]-> (q),
+(a) -[:Eat]-> (q),
+(j) -[:Eat]-> (p),
+(a) -[:Eat]-> (p),
+(a) -[:Rank {star:2}]-> (q),
+(a) -[:Rank {star:4}]-> (p), //On peut également attribuer des propriétés aux relations
+(j) -[:Rank {star:5}]-> (q),
+(j) -[:Rank {star:5}]-> (p),
+(o) -[:Own {since:date('2015-10-02')}]-> (q),
+(al) -[:Own]-> (p),
+(al) -[:Drive]-> (p),
+(l) -[:Drive]-> (p),
+(l) -[:Friend_With]-> (al),
+(l) -[:Eat]-> (p),
+(j) -[:Married]-> (a),
+(o) -[:Rank {star:0}]-> (p),
+(al) -[:Rank {star:4}]-> (q)

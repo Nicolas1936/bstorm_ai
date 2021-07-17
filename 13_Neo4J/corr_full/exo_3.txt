@@ -1,0 +1,27 @@
+// ajout des aéroports
+LOAD CSV WITH HEADERS FROM "file:/airflights/airports.csv" AS line FIELDTERMINATOR "\t"
+
+CREATE (a:Airport {id:toInteger(line.AirportID), name:line.Name, city:line.City, iata:line.IATA, icao:line.ICAO, latitude:toFloat(line.Latitude), longitude:toFloat(line.Longitude), altitude:toInteger(line.Altitude), time_zone:toInteger(line.TimeZone), tz:line.Tz})
+
+MERGE (c:Country {name:line.Country})
+CREATE (a) -[:BELONGS]-> (c);
+
+//---
+// ajout des compagnies
+LOAD CSV WITH HEADERS FROM "file:/airflights/airlines.csv" AS line FIELDTERMINATOR "\t"
+MATCH (c:Country {name:line.Country})
+
+CREATE (a:Airline {id:toInteger(line.AirlineId), name:line.AirlineName, iata:line.IATACode, icao:line.ICAOCode})
+CREATE (a)-[:IS_IN]->(c);
+
+//---
+// Ajout des routes + distance des routes
+LOAD CSV WITH HEADERS FROM "file:/airflights/routes.csv" as line FIELDTERMINATOR "\t"
+
+MATCH (al:Airline {id:toInteger(line.AirlineID)})
+MATCH (ard:Airport {id:toInteger(line.DestinationAirportID)})
+MATCH (ars:Airport {id:toInteger(line.SourceAirportID)})
+
+CREATE (r:Route {iata2_icao3:line.IATA2_ICAO3, code_share:line.CodeShare, stops:toInteger(line.Stops), plane_type:line.PlaneType})
+MERGE (al)-[:HAS]->(r)-[:GOES_TO {distance:line.Distance}]->(ard)
+MERGE (r)-[:COMES_FROM]->(ars);

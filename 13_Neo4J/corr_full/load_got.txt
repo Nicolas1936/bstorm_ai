@@ -1,0 +1,7 @@
+UNWIND range(1,8) as season
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/mathbeveridge/gameofthrones/master/data/got-s'+season+'-edges.csv' AS line
+MERGE (source:Person {name:toLower(line.Source)})
+MERGE (target:Person {name:toLower(line.Target)})
+WITH source, target, line.Weight as weight, season
+CALL apoc.merge.relationship(source, 'Interacts_'+season, {}, {weight:toFloat(weight)}, target) YIELD rel
+RETURN DISTINCT 'done'

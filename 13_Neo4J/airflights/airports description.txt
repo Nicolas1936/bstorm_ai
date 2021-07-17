@@ -1,0 +1,10 @@
+Airport ID, Name,City,Country,IATAcode. Null if not assigned/unknown.
+ICAO	4-letter ICAO code. Null if not assigned.
+Latitude	Decimal degrees, usually to six significant digits. Negative is South, positive is North.
+Longitude	Decimal degrees," usually to six significant digits. Negative is West, positive is East.
+Altitude	In feet.
+Timezone	Hours offset from UTC. Fractional hours are expressed as decimals, eg. India is 5.5.
+DST	Daylight savings time. One of E (Europe), A (US/Canada), S (South America)3, O (Australia), Z (New Zealand), N (None) or U (Unknown). See also: Help: Time
+Tz database time zone	Timezone in "tz" (Olson) format, eg. "America/Los_Angeles".
+Type
+Source

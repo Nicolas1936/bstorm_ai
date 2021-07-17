@@ -1,0 +1,2 @@
+MATCH (:Country{name:'Belgium'})--(:Airport{name:'Brussels South Charleroi Airport'})--(:Route)--(ar)--(r:Route)--(:Airport{name:'Hartsfield Jackson Atlanta International Airport'})
+return ar, Count(r)

@@ -1,0 +1,16 @@
+MATCH (c:Country)--(a:Airport)-[r]-()
+WITH c, COUNT(r) as nb_routes
+ORDER BY nb_routes DESC
+WITH collect(c)[0] as country_max, MAX(nb_routes) as max_nb_routes
+
+MATCH (c:Country{name:country_max.name})--(a:Airport)-[r:GOES_TO]-()
+WITH a as max_airport, COUNT(r) as nb_routes
+ORDER BY nb_routes DESC
+
+WITH collect(max_airport)[0] as max_airport, max(nb_routes) as max_nb_routes
+MATCH (c:Country)--(:Airport)-[:GOES_TO]-(r:Route)-[:COMES_FROM]-(:Airport{name:max_airport.name})
+WITH c as countries, COUNT(r) as nb_routes
+ORDER BY nb_routes DESC
+
+WITH collect(countries)[..3] as top_countries, collect(nb_routes)[..3] as top_routes
+RETURN top_countries, top_routes

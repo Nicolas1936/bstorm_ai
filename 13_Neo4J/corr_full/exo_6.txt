@@ -1,0 +1,5 @@
+MATCH (Country {name:'Belgium'})--(a:Airport)-[r:GOES_TO]-()
+WITH a, COUNT(r) AS nb_routes
+RETURN a.name, nb_routes
+ORDER BY nb_routes DESC
+LIMIT 1

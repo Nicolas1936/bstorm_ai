@@ -1,0 +1,4 @@
+MATCH (c:Country)--(a:Airport)-[r]-()
+WITH c, COUNT(r) as nb_routes
+ORDER BY nb_routes DESC
+RETURN collect(c)[0], MAX(nb_routes)

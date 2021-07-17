@@ -1,0 +1,42 @@
+CREATE
+(alice:Person:Ceo {name:'Alice', job:'ceo', mail:'boss@bstorm.be'}),
+(bob:Person {name:'Bob', job:'data scientist'}),
+(yasmine:Person {name:'Yasmine', job:'comptable', birth_date:date('1998-04-25')}),
+(john:Person {name:'John', job:'fonctionnaire', tel: 457845123}),
+(eduardo:Person {name:'Eduardo', job:'professeur', mail:'eduardo.giovani@uclouvain.com'}),
+(car:Car {brand:'Peugeot', model:208, date:date({year:2012}), fuel:'diesel'}),
+(alice) - [:EMPLOY] -> (bob), 
+(alice) - [:EMPLOY] -> (yasmine),
+(alice) - [:MARRIED] -> (eduardo), 
+(eduardo) -[:MARRIED]-> (alice),
+(Bob) - [:WORK_FOR{since: date({year:2020})}] -> (alice), 
+(yasmine) - [:WORK_FOR {since:date('2018-04-15')}] -> (alice),
+(alice) - [:OWN] -> (car),
+(eduardo) - [:LOVE] -> (yasmine),
+(yasmine) - [:FRIEND] -> (bob), 
+(bob) - [:FRIEND] -> (yasmine),
+(yasmine) - [:LOVE] -> (john),
+(alice) - [:DRIVE] -> (car),
+(eduardo) - [:DRIVE] -> (car)
+
+Exemple de solution alternative avec WITH et FOREACH:
+CREATE
+(alice:Person:Ceo {name:'Alice', job:'ceo', mail:'boss@bstorm.be'}),
+(bob:Person {name:'Bob', job:'data scientist'}),
+(yasmine:Person {name:'Yasmine', job:'comptable', birth_date:date('1998-04-25')}),
+(john:Person {name:'John', job:'fonctionnaire', tel: 457845123}),
+(eduardo:Person {name:'Eduardo', job:'professeur', mail:'eduardo.giovani@uclouvain.com'}),
+(car:Car {brand:'Peugeot', model:208, date:date({year:2012}), fuel:'diesel'}),
+(alice) - [:EMPLOY] -> (bob), 
+(alice) - [:EMPLOY] -> (yasmine),
+(alice) - [:MARRIED] -> (eduardo), 
+(eduardo) -[:MARRIED]-> (alice),
+(Bob) - [:WORK_FOR{since: date({year:2020})}] -> (alice), 
+(yasmine) - [:WORK_FOR {since:date('2018-04-15')}] -> (alice),
+(alice) - [:OWN] -> (car),
+(eduardo) - [:LOVE] -> (yasmine),
+(yasmine) - [:FRIEND] -> (bob), 
+(bob) - [:FRIEND] -> (yasmine),
+(yasmine) - [:LOVE] -> (john)
+WITH alice as alice, eduardo as eduardo, car as car
+FOREACH (n in [alice,eduardo] | CREATE (n) - [:DRIVE] -> (car))

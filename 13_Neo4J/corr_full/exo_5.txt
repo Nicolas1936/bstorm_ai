@@ -1,0 +1,2 @@
+MATCH (:Country {name:'Belgium'})--(:Airport)-[r:GOES_TO]-()
+RETURN COUNT (r)

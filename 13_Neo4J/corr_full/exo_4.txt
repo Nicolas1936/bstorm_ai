@@ -1,0 +1,2 @@
+MATCH (a:Airport)--(Country {name:'Belgium'})
+RETURN COUNT(a) AS nb_airports
